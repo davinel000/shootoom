@@ -1,4 +1,6 @@
-# Current system — evidence as of 2026-10-05
+# Šūtum: current system — evidence as of 2026-10-05
+
+Artwork context and naming are documented in the [README](../README.md). The technical snapshot names identify components and versions, not separate artwork titles.
 
 ## Candidate baseline
 

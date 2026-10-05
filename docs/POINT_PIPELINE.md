@@ -1,5 +1,7 @@
 # Point density and dwell
 
+Šūtum forms temporary inscriptions on a photochromic surface (see [artwork context](../README.md)). Consequently, future timing comparisons should record the resulting inscription and fading over time alongside coordinate/blanking traces. This is an engineering implication of the artwork's medium, not a measured pigment-response model. Optimize for the intended visual sequence rather than assuming maximum point throughput is the goal.
+
 ## Established stages
 
 | Stage | Source and effect |

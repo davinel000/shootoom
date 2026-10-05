@@ -1,5 +1,7 @@
 # Hardware evidence
 
+The [artist's description of Šūtum](https://www.slavaromanov.art/2024/shootoom) specifies a focused 405 nm laser and photochromic pigments. Wavelength is reported project context, not a measurement of the currently installed module; exact optical power and module identification remain unknown.
+
 | Part/signal | Established from code | Physical confirmation needed |
 | --- | --- | --- |
 | Uno receiver | SoftwareSerial, Uno pin layout in DAC lineage | Board marking/revision and installed firmware |

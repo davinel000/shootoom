@@ -1,4 +1,23 @@
-# Shootoom / Sutum / Hammurapi
+# Šūtum
+
+A mixed-media installation by **Slava Romanov** about the changing meaning of laws and justice. A laser draws Akkadian cuneiform onto stone treated with photochromic pigments; the inscriptions fade. The work references articles 196, 197 and 200 of the Code of Hammurabi. The artist describes the title as Akkadian for “south wind.” [Artist's project description](https://www.slavaromanov.art/2024/shootoom).
+
+Presented at **Goldstücke**, Gelsenkirchen, 2–6 October 2024, and **Lichtrouten**, Lüdenscheid, 20–29 March 2025, at the former Forum am Sternplatz, according to the [artist's presentation history](https://www.slavaromanov.art/2024/shootoom).
+
+## Names used in this repository
+
+| Name | Meaning here |
+| --- | --- |
+| **Šūtum** | Artwork title for documentation and presentations |
+| `shootoom` | Existing GitHub repository and website URL slug |
+| `Sutum2025.toe`, `SUTUM` | Existing project filename and folder spelling |
+| `Hammurapi…` | Existing player/test sketch names; not the artwork title |
+| **Code of Hammurabi** | Historical text referenced by the artwork |
+| `ScriberLatestSimplified` | Existing receiver project folder |
+
+Historical filenames remain unchanged so Arduino folder naming, includes and preservation hashes stay valid.
+
+## Technical preservation
 
 Preservation snapshot of the existing galvo installation, audited on 2026-10-05.
 Legacy firmware is copied byte-for-byte; this is **not yet a verified build or a confirmed dump of the installed firmware**.
