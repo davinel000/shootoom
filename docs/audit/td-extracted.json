@@ -1,0 +1,26 @@
+[
+  {
+    "operator": "project1/sop_tracer_to_short_unsigned/trace_all",
+    "destination": "touchdesigner/extracted/project1/sop_tracer_to_short_unsigned/trace_all.py",
+    "toeexpand_container_sha256": "b44f21a0a18ee302200fa6a40f5d8b7e0a4a7e7cf7a387cd762a99ed0d3acf82",
+    "extracted_sha256": "50d2c633e2103ab8661f153690fcd58b80cce714380b30c3f042b87c63830623"
+  },
+  {
+    "operator": "project1/sop_tracer_to_short_unsigned/trace_all_with_distance",
+    "destination": "touchdesigner/extracted/project1/sop_tracer_to_short_unsigned/trace_all_with_distance.py",
+    "toeexpand_container_sha256": "72c35672736ba245583ccdc66b2fc5b870b8c0cc09b4ebe22181ba97fb5876d1",
+    "extracted_sha256": "e4d4f35bbfe7a6dc8c28ead2307f1d58f6960cf368c5b7279a0bd9f19fd55409"
+  },
+  {
+    "operator": "project1/script",
+    "destination": "touchdesigner/extracted/project1/script.py",
+    "toeexpand_container_sha256": "bd09200bdf5819a0b3b5fe2644dbea898b22537a9883d5314a338c3f49be2399",
+    "extracted_sha256": "3ac16a44f641337f3af3cba73a8929c8dac6475ddee14a9692a7a335dcf6e27a"
+  },
+  {
+    "operator": "project1/scripts",
+    "destination": "touchdesigner/extracted/project1/scripts.py",
+    "toeexpand_container_sha256": "e5ac6bfe760b83d783102c4996c11c64fd70de901c0de2ae0aa0e248ceadc303",
+    "extracted_sha256": "0391f5bcfe1474fd034fb3cd13b83eb990cc31196bd4f794e7f326743473ce29"
+  }
+]

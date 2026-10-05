@@ -1,0 +1,1165 @@
+[
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserShow/LaserShow.ino",
+    "files": [
+      {
+        "name": "Basics.cpp",
+        "bytes": 3326
+      },
+      {
+        "name": "Basics.h",
+        "bytes": 1018
+      },
+      {
+        "name": "Cube.cpp",
+        "bytes": 5069
+      },
+      {
+        "name": "Cube.h",
+        "bytes": 108
+      },
+      {
+        "name": "DAC_MCP4X.cpp",
+        "bytes": 7687
+      },
+      {
+        "name": "DAC_MCP4X.h",
+        "bytes": 4679
+      },
+      {
+        "name": "Drawing.cpp",
+        "bytes": 11024
+      },
+      {
+        "name": "Drawing.h",
+        "bytes": 1727
+      },
+      {
+        "name": "Font.h",
+        "bytes": 8413
+      },
+      {
+        "name": "Laser.cpp",
+        "bytes": 6891
+      },
+      {
+        "name": "Laser.h",
+        "bytes": 3624
+      },
+      {
+        "name": "LaserShow.ino",
+        "bytes": 1034
+      },
+      {
+        "name": "Logo.h",
+        "bytes": 9611
+      },
+      {
+        "name": "Objects.h",
+        "bytes": 48725
+      }
+    ],
+    "includes": [
+      "Arduino.h",
+      "Basics.h",
+      "Cube.h",
+      "DAC_MCP4X.h",
+      "Drawing.h",
+      "Font.h",
+      "Laser.h",
+      "Logo.h",
+      "Objects.h",
+      "SPI.h",
+      "inttypes.h"
+    ],
+    "interfaces": [
+      "extern Laser laser;",
+      "extern Laser laser;",
+      "dac.init(MCP4X_4822, 5000, 5000,",
+      "Laser laser(5);"
+    ],
+    "missing_local_includes": []
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserSpectrumAnalyzer/LaserSpectrumAnalyzer.ino",
+    "files": [
+      {
+        "name": "Basics.cpp",
+        "bytes": 3343
+      },
+      {
+        "name": "Basics.h",
+        "bytes": 891
+      },
+      {
+        "name": "DAC_MCP4X.cpp",
+        "bytes": 6446
+      },
+      {
+        "name": "DAC_MCP4X.h",
+        "bytes": 4679
+      },
+      {
+        "name": "Drawing.cpp",
+        "bytes": 6347
+      },
+      {
+        "name": "Drawing.h",
+        "bytes": 1593
+      },
+      {
+        "name": "Font.h",
+        "bytes": 8413
+      },
+      {
+        "name": "Laser.cpp",
+        "bytes": 6891
+      },
+      {
+        "name": "Laser.h",
+        "bytes": 3506
+      },
+      {
+        "name": "LaserSpectrumAnalyzer.ino",
+        "bytes": 11989
+      }
+    ],
+    "includes": [
+      "Arduino.h",
+      "Basics.h",
+      "DAC_MCP4X.h",
+      "Drawing.h",
+      "Font.h",
+      "Laser.h",
+      "SPI.h",
+      "analyze_fft1024.h",
+      "input_adc.h",
+      "inttypes.h"
+    ],
+    "interfaces": [
+      "extern Laser laser;",
+      "dac.init(MCP4X_4822, 5000, 5000,",
+      "Laser laser(5);"
+    ],
+    "missing_local_includes": []
+  },
+  {
+    "path": "LaserProjector-master/LaserShow/LaserShow.ino",
+    "files": [
+      {
+        "name": "Basics.cpp",
+        "bytes": 3326
+      },
+      {
+        "name": "Basics.h",
+        "bytes": 1018
+      },
+      {
+        "name": "Cube.cpp",
+        "bytes": 5069
+      },
+      {
+        "name": "Cube.h",
+        "bytes": 108
+      },
+      {
+        "name": "DAC_MCP4X.cpp",
+        "bytes": 6446
+      },
+      {
+        "name": "DAC_MCP4X.h",
+        "bytes": 4679
+      },
+      {
+        "name": "Drawing.cpp",
+        "bytes": 6357
+      },
+      {
+        "name": "Drawing.h",
+        "bytes": 1593
+      },
+      {
+        "name": "Font.h",
+        "bytes": 8413
+      },
+      {
+        "name": "Laser.cpp",
+        "bytes": 6891
+      },
+      {
+        "name": "Laser.h",
+        "bytes": 3508
+      },
+      {
+        "name": "LaserShow.ino",
+        "bytes": 9884
+      },
+      {
+        "name": "Logo.h",
+        "bytes": 9611
+      },
+      {
+        "name": "Objects.h",
+        "bytes": 8436
+      }
+    ],
+    "includes": [
+      "Arduino.h",
+      "Basics.h",
+      "Cube.h",
+      "DAC_MCP4X.h",
+      "Drawing.h",
+      "Font.h",
+      "Laser.h",
+      "Logo.h",
+      "Objects.h",
+      "SPI.h",
+      "inttypes.h"
+    ],
+    "interfaces": [
+      "extern Laser laser;",
+      "extern Laser laser;",
+      "dac.init(MCP4X_4822, 5000, 5000,",
+      "Laser laser(5);"
+    ],
+    "missing_local_includes": []
+  },
+  {
+    "path": "LaserProjector-master/LaserSpectrumAnalyzer/LaserSpectrumAnalyzer.ino",
+    "files": [
+      {
+        "name": "Basics.cpp",
+        "bytes": 3343
+      },
+      {
+        "name": "Basics.h",
+        "bytes": 891
+      },
+      {
+        "name": "DAC_MCP4X.cpp",
+        "bytes": 6446
+      },
+      {
+        "name": "DAC_MCP4X.h",
+        "bytes": 4679
+      },
+      {
+        "name": "Drawing.cpp",
+        "bytes": 6347
+      },
+      {
+        "name": "Drawing.h",
+        "bytes": 1593
+      },
+      {
+        "name": "Font.h",
+        "bytes": 8413
+      },
+      {
+        "name": "Laser.cpp",
+        "bytes": 6891
+      },
+      {
+        "name": "Laser.h",
+        "bytes": 3506
+      },
+      {
+        "name": "LaserSpectrumAnalyzer.ino",
+        "bytes": 11989
+      }
+    ],
+    "includes": [
+      "Arduino.h",
+      "Basics.h",
+      "DAC_MCP4X.h",
+      "Drawing.h",
+      "Font.h",
+      "Laser.h",
+      "SPI.h",
+      "analyze_fft1024.h",
+      "input_adc.h",
+      "inttypes.h"
+    ],
+    "interfaces": [
+      "extern Laser laser;",
+      "dac.init(MCP4X_4822, 5000, 5000,",
+      "Laser laser(5);"
+    ],
+    "missing_local_includes": []
+  },
+  {
+    "path": "New arduino sketch/LaserShow/LaserShow.ino",
+    "files": [
+      {
+        "name": "Basics.cpp",
+        "bytes": 3326
+      },
+      {
+        "name": "Basics.h",
+        "bytes": 1018
+      },
+      {
+        "name": "DAC_MCP4X.cpp",
+        "bytes": 9561
+      },
+      {
+        "name": "DAC_MCP4X.h",
+        "bytes": 4679
+      },
+      {
+        "name": "Drawing.cpp",
+        "bytes": 15879
+      },
+      {
+        "name": "Drawing.h",
+        "bytes": 2383
+      },
+      {
+        "name": "Font.h",
+        "bytes": 32863
+      },
+      {
+        "name": "font_cascadia_mono.h",
+        "bytes": 32495
+      },
+      {
+        "name": "font_space_mono.h",
+        "bytes": 34159
+      },
+      {
+        "name": "Laser.cpp",
+        "bytes": 10653
+      },
+      {
+        "name": "Laser.h",
+        "bytes": 4048
+      },
+      {
+        "name": "LaserShow.ino",
+        "bytes": 16337
+      },
+      {
+        "name": "NeopixelEncoderController.h",
+        "bytes": 5708
+      },
+      {
+        "name": "Objects.h",
+        "bytes": 7114
+      }
+    ],
+    "includes": [
+      "Adafruit_NeoPixel.h",
+      "Arduino.h",
+      "Basics.h",
+      "DAC_MCP4X.h",
+      "Drawing.h",
+      "Font.h",
+      "Laser.h",
+      "NeopixelEncoderController.h",
+      "Objects.h",
+      "SPI.h",
+      "inttypes.h"
+    ],
+    "interfaces": [
+      "extern Laser laser;",
+      "dac.init(MCP4X_4822, 5000, 5000,",
+      "Laser laser(5);",
+      "Serial.begin(115200);",
+      "#define NEOPIXEL_PIN 6",
+      "#define NUMPIXELS 12",
+      "#define ENCODER_CLK 4",
+      "#define ENCODER_DT 2",
+      "#define ENCODER_SW 3",
+      "extern Laser laser;"
+    ],
+    "missing_local_includes": []
+  },
+  {
+    "path": "New arduino sketch/LaserShow (conflicted).ino",
+    "files": [
+      {
+        "name": "Drawing (conflicted).cpp",
+        "bytes": 10119
+      },
+      {
+        "name": "LaserShow (conflicted).ino",
+        "bytes": 11101
+      }
+    ],
+    "includes": [
+      "Cube.h",
+      "Drawing.h",
+      "Font.h",
+      "Laser.h",
+      "Logo.h",
+      "NeopixelEncoderController.h",
+      "Objects.h"
+    ],
+    "interfaces": [
+      "Laser laser(5);",
+      "Serial.begin(115200);"
+    ],
+    "missing_local_includes": [
+      "Cube.h",
+      "Drawing.h",
+      "Font.h",
+      "Laser.h",
+      "Logo.h",
+      "NeopixelEncoderController.h",
+      "Objects.h"
+    ]
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserShow/LaserShow.ino",
+    "files": [
+      {
+        "name": "Basics.cpp",
+        "bytes": 3326
+      },
+      {
+        "name": "Basics.h",
+        "bytes": 1018
+      },
+      {
+        "name": "Cube.cpp",
+        "bytes": 5069
+      },
+      {
+        "name": "Cube.h",
+        "bytes": 108
+      },
+      {
+        "name": "DAC_MCP4X.cpp",
+        "bytes": 6446
+      },
+      {
+        "name": "DAC_MCP4X.h",
+        "bytes": 4679
+      },
+      {
+        "name": "Drawing.cpp",
+        "bytes": 6357
+      },
+      {
+        "name": "Drawing.h",
+        "bytes": 1593
+      },
+      {
+        "name": "Font.h",
+        "bytes": 8413
+      },
+      {
+        "name": "Laser.cpp",
+        "bytes": 6891
+      },
+      {
+        "name": "Laser.h",
+        "bytes": 3508
+      },
+      {
+        "name": "LaserShow.ino",
+        "bytes": 9884
+      },
+      {
+        "name": "Logo.h",
+        "bytes": 9611
+      },
+      {
+        "name": "Objects.h",
+        "bytes": 8436
+      }
+    ],
+    "includes": [
+      "Arduino.h",
+      "Basics.h",
+      "Cube.h",
+      "DAC_MCP4X.h",
+      "Drawing.h",
+      "Font.h",
+      "Laser.h",
+      "Logo.h",
+      "Objects.h",
+      "SPI.h",
+      "inttypes.h"
+    ],
+    "interfaces": [
+      "extern Laser laser;",
+      "extern Laser laser;",
+      "dac.init(MCP4X_4822, 5000, 5000,",
+      "Laser laser(5);"
+    ],
+    "missing_local_includes": []
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserSpectrumAnalyzer/LaserSpectrumAnalyzer.ino",
+    "files": [
+      {
+        "name": "Basics.cpp",
+        "bytes": 3343
+      },
+      {
+        "name": "Basics.h",
+        "bytes": 891
+      },
+      {
+        "name": "DAC_MCP4X.cpp",
+        "bytes": 6446
+      },
+      {
+        "name": "DAC_MCP4X.h",
+        "bytes": 4679
+      },
+      {
+        "name": "Drawing.cpp",
+        "bytes": 6347
+      },
+      {
+        "name": "Drawing.h",
+        "bytes": 1593
+      },
+      {
+        "name": "Font.h",
+        "bytes": 8413
+      },
+      {
+        "name": "Laser.cpp",
+        "bytes": 6891
+      },
+      {
+        "name": "Laser.h",
+        "bytes": 3506
+      },
+      {
+        "name": "LaserSpectrumAnalyzer.ino",
+        "bytes": 11989
+      }
+    ],
+    "includes": [
+      "Arduino.h",
+      "Basics.h",
+      "DAC_MCP4X.h",
+      "Drawing.h",
+      "Font.h",
+      "Laser.h",
+      "SPI.h",
+      "analyze_fft1024.h",
+      "input_adc.h",
+      "inttypes.h"
+    ],
+    "interfaces": [
+      "extern Laser laser;",
+      "dac.init(MCP4X_4822, 5000, 5000,",
+      "Laser laser(5);"
+    ],
+    "missing_local_includes": []
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi/Hammurapi/Hammurapi.ino",
+    "files": [
+      {
+        "name": "Hammurapi.ino",
+        "bytes": 2747
+      }
+    ],
+    "includes": [
+      "Arduino.h"
+    ],
+    "interfaces": [
+      "Serial.begin(BAUD_RATE);"
+    ],
+    "missing_local_includes": []
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/Hammurapireads/Hammurapireads.ino",
+    "files": [
+      {
+        "name": "Choreography.h",
+        "bytes": 20866
+      },
+      {
+        "name": "CommandEncoder.cpp",
+        "bytes": 532
+      },
+      {
+        "name": "CommandEncoder.h",
+        "bytes": 450
+      },
+      {
+        "name": "Cuneiform.h",
+        "bytes": 188176
+      },
+      {
+        "name": "Hammurapireads.ino",
+        "bytes": 4251
+      }
+    ],
+    "includes": [
+      "Arduino.h",
+      "Choreography.h",
+      "CommandEncoder.h",
+      "avr/pgmspace.h"
+    ],
+    "interfaces": [
+      "Serial.begin(115200);",
+      "Serial1.begin(57600);"
+    ],
+    "missing_local_includes": []
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded/HammurapireadsEncoded.ino",
+    "files": [
+      {
+        "name": "Choreography.h",
+        "bytes": 166
+      },
+      {
+        "name": "CommandEncoder.cpp",
+        "bytes": 3260
+      },
+      {
+        "name": "CommandEncoder.h",
+        "bytes": 962
+      },
+      {
+        "name": "Cuneiform.h",
+        "bytes": 614269
+      },
+      {
+        "name": "Cuneiform_stable.h",
+        "bytes": 818209
+      },
+      {
+        "name": "HammurapireadsEncoded.ino",
+        "bytes": 13041
+      },
+      {
+        "name": "LineSubdivider.cpp",
+        "bytes": 1081
+      },
+      {
+        "name": "LineSubdivider.h",
+        "bytes": 351
+      },
+      {
+        "name": "SymbolSender.h",
+        "bytes": 2619
+      }
+    ],
+    "includes": [
+      "Arduino.h",
+      "CommandEncoder.h",
+      "Cuneiform.h",
+      "LineSubdivider.h",
+      "SymbolSender.h",
+      "avr/pgmspace.h",
+      "ctype.h"
+    ],
+    "interfaces": [
+      "Serial.begin(19200);",
+      "Serial1.begin(57600);"
+    ],
+    "missing_local_includes": []
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/HammurapireadsEncoded_fulltexts.ino",
+    "files": [
+      {
+        "name": "Choreography.h",
+        "bytes": 166
+      },
+      {
+        "name": "CommandEncoder.cpp",
+        "bytes": 3260
+      },
+      {
+        "name": "CommandEncoder.h",
+        "bytes": 962
+      },
+      {
+        "name": "Cuneiform.h",
+        "bytes": 4179985
+      },
+      {
+        "name": "Cuneiform_stable.h",
+        "bytes": 818209
+      },
+      {
+        "name": "HammurapireadsEncoded_fulltexts.ino",
+        "bytes": 10486
+      },
+      {
+        "name": "LineSubdivider.cpp",
+        "bytes": 1081
+      },
+      {
+        "name": "LineSubdivider.h",
+        "bytes": 351
+      },
+      {
+        "name": "SymbolSender.h",
+        "bytes": 3874
+      }
+    ],
+    "includes": [
+      "Arduino.h",
+      "CommandEncoder.h",
+      "Cuneiform.h",
+      "LineSubdivider.h",
+      "SymbolSender.h",
+      "avr/pgmspace.h",
+      "ctype.h"
+    ],
+    "interfaces": [
+      "Serial.begin(19200);",
+      "Serial1.begin(57600);"
+    ],
+    "missing_local_includes": []
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_with_points/HammurapireadsEncoded_with_points.ino",
+    "files": [
+      {
+        "name": "Choreography.h",
+        "bytes": 166
+      },
+      {
+        "name": "CommandEncoder.cpp",
+        "bytes": 3260
+      },
+      {
+        "name": "CommandEncoder.h",
+        "bytes": 962
+      },
+      {
+        "name": "Cuneiform.h",
+        "bytes": 4179985
+      },
+      {
+        "name": "Cuneiform_stable.h",
+        "bytes": 818209
+      },
+      {
+        "name": "HammurapireadsEncoded_with_points.ino",
+        "bytes": 26930
+      },
+      {
+        "name": "LineSubdivider.cpp",
+        "bytes": 1081
+      },
+      {
+        "name": "LineSubdivider.h",
+        "bytes": 351
+      },
+      {
+        "name": "SymbolSender.h",
+        "bytes": 3874
+      }
+    ],
+    "includes": [
+      "Arduino.h",
+      "CommandEncoder.h",
+      "Cuneiform.h",
+      "LineSubdivider.h",
+      "SymbolSender.h",
+      "avr/pgmspace.h",
+      "ctype.h"
+    ],
+    "interfaces": [
+      "Serial.begin(19200);",
+      "Serial1.begin(57600);"
+    ],
+    "missing_local_includes": []
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapisimple/Hammurapisimple/Hammurapisimple.ino",
+    "files": [
+      {
+        "name": "Hammurapisimple.ino",
+        "bytes": 2464
+      }
+    ],
+    "includes": [
+      "Arduino.h",
+      "math.h"
+    ],
+    "interfaces": [
+      "Serial.begin(115200);",
+      "Serial1.begin(57600);"
+    ],
+    "missing_local_includes": []
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/LaserShow/LaserShow.ino",
+    "files": [
+      {
+        "name": "Basics.cpp",
+        "bytes": 3417
+      },
+      {
+        "name": "Basics.h",
+        "bytes": 1054
+      },
+      {
+        "name": "CommandParser.cpp",
+        "bytes": 5964
+      },
+      {
+        "name": "CommandParser.h",
+        "bytes": 686
+      },
+      {
+        "name": "DAC_MCP4X.cpp",
+        "bytes": 9865
+      },
+      {
+        "name": "DAC_MCP4X.h",
+        "bytes": 4823
+      },
+      {
+        "name": "Drawing.cpp",
+        "bytes": 16754
+      },
+      {
+        "name": "Drawing.h",
+        "bytes": 2470
+      },
+      {
+        "name": "Font.h",
+        "bytes": 44086
+      },
+      {
+        "name": "Laser.cpp",
+        "bytes": 11031
+      },
+      {
+        "name": "Laser.h",
+        "bytes": 4048
+      },
+      {
+        "name": "LaserShow.ino",
+        "bytes": 3647
+      },
+      {
+        "name": "NeopixelEncoderController.h",
+        "bytes": 7464
+      },
+      {
+        "name": "Objects.h",
+        "bytes": 12846
+      }
+    ],
+    "includes": [
+      "Adafruit_NeoPixel.h",
+      "Arduino.h",
+      "Basics.h",
+      "CommandParser.h",
+      "DAC_MCP4X.h",
+      "Drawing.h",
+      "EEPROM.h",
+      "Font.h",
+      "Laser.h",
+      "NeopixelEncoderController.h",
+      "Objects.h",
+      "SPI.h",
+      "SoftwareSerial.h",
+      "inttypes.h"
+    ],
+    "interfaces": [
+      "Laser laser(5);",
+      "extern Laser laser;",
+      "dac.init(MCP4X_4822, 5000, 5000,",
+      "SoftwareSerial mySerial(8, 9);",
+      "Serial.begin(19200);",
+      "mySerial.begin(57600);",
+      "#define NEOPIXEL_PIN 6",
+      "#define NUMPIXELS 12",
+      "#define ENCODER_CLK 2",
+      "#define ENCODER_DT 4",
+      "#define ENCODER_SW 3",
+      "extern Laser laser;"
+    ],
+    "missing_local_includes": []
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Mimimalistic Remake/Miminalistic/Miminalistic.ino",
+    "files": [
+      {
+        "name": "Basics.cpp",
+        "bytes": 3326
+      },
+      {
+        "name": "Basics.h",
+        "bytes": 1018
+      },
+      {
+        "name": "Cube.cpp",
+        "bytes": 5069
+      },
+      {
+        "name": "Cube.h",
+        "bytes": 108
+      },
+      {
+        "name": "DAC_MCP4X.cpp",
+        "bytes": 7687
+      },
+      {
+        "name": "DAC_MCP4X.h",
+        "bytes": 4679
+      },
+      {
+        "name": "Drawing.cpp",
+        "bytes": 11024
+      },
+      {
+        "name": "Drawing.h",
+        "bytes": 1727
+      },
+      {
+        "name": "Font.h",
+        "bytes": 8413
+      },
+      {
+        "name": "Laser.cpp",
+        "bytes": 6891
+      },
+      {
+        "name": "Laser.h",
+        "bytes": 3624
+      },
+      {
+        "name": "Logo.h",
+        "bytes": 9611
+      },
+      {
+        "name": "Miminalistic.ino",
+        "bytes": 3318
+      },
+      {
+        "name": "Objects.h",
+        "bytes": 48725
+      }
+    ],
+    "includes": [
+      "Arduino.h",
+      "Basics.h",
+      "Cube.h",
+      "DAC_MCP4X.h",
+      "Drawing.h",
+      "Font.h",
+      "Laser.h",
+      "SPI.h",
+      "inttypes.h"
+    ],
+    "interfaces": [
+      "extern Laser laser;",
+      "extern Laser laser;",
+      "dac.init(MCP4X_4822, 5000, 5000,",
+      "Serial.begin(115200);",
+      "dac.init(MCP4X_4822, 2048, 2048, DAC_CHIP_SELECT, DAC_LDAC_PIN, true);"
+    ],
+    "missing_local_includes": []
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/LaserShow.ino",
+    "files": [
+      {
+        "name": "Basics.cpp",
+        "bytes": 3417
+      },
+      {
+        "name": "Basics.h",
+        "bytes": 1054
+      },
+      {
+        "name": "CommandParser.cpp",
+        "bytes": 5964
+      },
+      {
+        "name": "CommandParser.h",
+        "bytes": 686
+      },
+      {
+        "name": "DAC_MCP4X.cpp",
+        "bytes": 9865
+      },
+      {
+        "name": "DAC_MCP4X.h",
+        "bytes": 4823
+      },
+      {
+        "name": "Drawing.cpp",
+        "bytes": 9001
+      },
+      {
+        "name": "Drawing.h",
+        "bytes": 2470
+      },
+      {
+        "name": "Font.h",
+        "bytes": 44086
+      },
+      {
+        "name": "Laser.cpp",
+        "bytes": 11033
+      },
+      {
+        "name": "Laser.h",
+        "bytes": 4048
+      },
+      {
+        "name": "LaserShow.ino",
+        "bytes": 3158
+      },
+      {
+        "name": "NeopixelEncoderController.h",
+        "bytes": 7493
+      },
+      {
+        "name": "Objects.h",
+        "bytes": 12846
+      }
+    ],
+    "includes": [
+      "Adafruit_NeoPixel.h",
+      "Arduino.h",
+      "Basics.h",
+      "CommandParser.h",
+      "DAC_MCP4X.h",
+      "Drawing.h",
+      "EEPROM.h",
+      "Font.h",
+      "Laser.h",
+      "NeopixelEncoderController.h",
+      "Objects.h",
+      "SPI.h",
+      "SoftwareSerial.h",
+      "inttypes.h"
+    ],
+    "interfaces": [
+      "Laser laser(5);",
+      "extern Laser laser;",
+      "dac.init(MCP4X_4822, 5000, 5000,",
+      "SoftwareSerial mySerial(8, 9);",
+      "Serial.begin(19200);",
+      "mySerial.begin(57600);",
+      "#define NEOPIXEL_PIN 6",
+      "#define NUMPIXELS 12",
+      "#define ENCODER_CLK 2",
+      "#define ENCODER_DT 4",
+      "#define ENCODER_SW 3",
+      "extern Laser laser;"
+    ],
+    "missing_local_includes": []
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Scribersimple/Scribersimple.ino",
+    "files": [
+      {
+        "name": "Basics.cpp",
+        "bytes": 3417
+      },
+      {
+        "name": "Basics.h",
+        "bytes": 1054
+      },
+      {
+        "name": "DAC_MCP4X.cpp",
+        "bytes": 9865
+      },
+      {
+        "name": "DAC_MCP4X.h",
+        "bytes": 4823
+      },
+      {
+        "name": "Drawing.cpp",
+        "bytes": 16243
+      },
+      {
+        "name": "Drawing.h",
+        "bytes": 2443
+      },
+      {
+        "name": "Font.h",
+        "bytes": 34925
+      },
+      {
+        "name": "Laser.cpp",
+        "bytes": 11031
+      },
+      {
+        "name": "Laser.h",
+        "bytes": 4048
+      },
+      {
+        "name": "NeopixelEncoderController.h",
+        "bytes": 5864
+      },
+      {
+        "name": "Objects.h",
+        "bytes": 7473
+      },
+      {
+        "name": "Scribersimple.ino",
+        "bytes": 6282
+      }
+    ],
+    "includes": [
+      "Adafruit_NeoPixel.h",
+      "Arduino.h",
+      "Basics.h",
+      "DAC_MCP4X.h",
+      "Drawing.h",
+      "Font.h",
+      "Laser.h",
+      "NeopixelEncoderController.h",
+      "Objects.h",
+      "SPI.h",
+      "SoftwareSerial.h",
+      "inttypes.h"
+    ],
+    "interfaces": [
+      "extern Laser laser;",
+      "dac.init(MCP4X_4822, 5000, 5000,",
+      "#define NEOPIXEL_PIN 6",
+      "#define NUMPIXELS 12",
+      "#define ENCODER_CLK 4",
+      "#define ENCODER_DT 2",
+      "#define ENCODER_SW 3",
+      "extern Laser laser;",
+      "Laser laser(5);",
+      "SoftwareSerial mySS(8, 9);",
+      "Serial.begin(57600);",
+      "mySS.begin(9600);"
+    ],
+    "missing_local_includes": []
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/SupermimalisticDAC/SupermimalisticDAC.ino",
+    "files": [
+      {
+        "name": "DAC_MCP4X.cpp",
+        "bytes": 7687
+      },
+      {
+        "name": "DAC_MCP4X.h",
+        "bytes": 4679
+      },
+      {
+        "name": "SupermimalisticDAC.ino",
+        "bytes": 1810
+      }
+    ],
+    "includes": [
+      "Arduino.h",
+      "DAC_MCP4X.h",
+      "SPI.h",
+      "inttypes.h"
+    ],
+    "interfaces": [
+      "Serial.begin(115200);",
+      "dac.init(MCP4X_4822, 2048, 2048, DAC_CS_PIN, DAC_LDAC_PIN, true);"
+    ],
+    "missing_local_includes": []
+  }
+]

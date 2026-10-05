@@ -1,0 +1,13 @@
+# Upstream and licensing
+
+Source: [DeltaFlo/LaserProjector](https://github.com/DeltaFlo/LaserProjector), inspected at commit `45e5b52dd597271b046e0ea4c110d9d9bec66af2` on 2026-10-05. Its README links [Arduino Laser Show With Real Galvos](https://www.instructables.com/id/Arduino-Laser-Show-With-Real-Galvos/). The tutorial is provenance, not proof that this installation has identical wiring.
+
+The upstream Apache 2.0 LICENSE is preserved under `licenses/`. Existing Florian Link copyright headers and the DAC's Thomas Backman / Gaftech notice are unchanged. The DAC header contains its own BSD/MIT-style permission/attribution statement; preserve that statement rather than replacing it with a guessed SPDX identifier. Local modifications are identified in `local-vs-upstream/*.diff` and `docs/audit/upstream-comparison.json`. These diffs mark the imported files as locally modified without changing the archived source bytes. No relicensing of artwork, fonts or local code is implied.
+
+The candidate receiver inherits the Laser, Drawing, Basics, Font, Objects and DAC lineage. DAC_MCP4X.h has identical normalized text to upstream; source bytes may differ in line endings. Other shared files differ. CommandParser and NeopixelEncoderController are absent upstream. Notable local changes: binary UART parser/text commands; encoder/ring modes; geometric correction, speed-dependent quality and timing changes; revised text/object drawing and font/objects; GPIO-based DAC write/latch and 4 MHz transaction API. Per-file diffs provide the exact evidence instead of inferring authorship from filenames.
+
+Upstream DAC_MCP4X.cpp uses PORTB bit 2 for CS (Uno D10) and PORTD bit 7 for LDAC (Uno D7), guarded by a normal C++ `if (MCP4X_PORT_WRITE)`. This is AVR-specific source; just setting the macro to zero does not remove undeclared register identifiers during C++ parsing on another architecture. Replace the implementation or use actual preprocessor/platform separation when porting.
+
+**The selected local 2025 driver differs:** active write/latch use digitalWrite and SPI.transfer; PORTB/PORTD blocks are commented out. Its enabled-looking macro does not activate those comments. Therefore it is inaccurate to claim the selected driver's active code still writes AVR registers. The whole sketch still has board/core dependencies and has not been compiled on RP2040/ESP32-S3. Local 5 us LDAC delay and altered autoLatch behavior must be measured before adopting it on another platform.
+
+Bundled fonts retain their adjacent supplied licenses: DejaVu LICENSE.txt, Liberation SIL Open Font License.txt, and Noto Cuneiform OFL.txt. Source/asset origin beyond this local project is not established for every artwork file; no broad permissive project license was added.

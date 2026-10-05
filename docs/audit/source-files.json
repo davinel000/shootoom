@@ -1,0 +1,3680 @@
+[
+  {
+    "path": "NewProject.158.toe",
+    "bytes": 71762,
+    "mtime_utc": "2024-09-30T17:10:04+00:00",
+    "sha256": "3241d6629d908044650afccbf07232285c2c9599eaa8fbb54b1783a6a8712211"
+  },
+  {
+    "path": "NewProject.203.toe",
+    "bytes": 152626,
+    "mtime_utc": "2025-02-13T23:43:45+00:00",
+    "sha256": "15bf9a58a695bc1d0b90e68fef16e9670b9f3283845cfa90592d7c2607e0519c"
+  },
+  {
+    "path": "NewProject.toe",
+    "bytes": 152626,
+    "mtime_utc": "2025-02-13T23:43:45+00:00",
+    "sha256": "15bf9a58a695bc1d0b90e68fef16e9670b9f3283845cfa90592d7c2607e0519c"
+  },
+  {
+    "path": "Sutum alteration tests.2.toe",
+    "bytes": 83250,
+    "mtime_utc": "2025-02-14T09:31:22+00:00",
+    "sha256": "2c9d013b0c81a7e5c20740f2a74a48770d66348d7480606822dbace444f95e87"
+  },
+  {
+    "path": "Sutum alteration tests.toe",
+    "bytes": 83250,
+    "mtime_utc": "2025-02-14T09:31:22+00:00",
+    "sha256": "2c9d013b0c81a7e5c20740f2a74a48770d66348d7480606822dbace444f95e87"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserShow/Basics.cpp",
+    "bytes": 3326,
+    "mtime_utc": "2025-02-25T13:11:15+00:00",
+    "sha256": "fb420b06576a6c9f5481ee7f9e9d07c9258cdd37a8e99b09b444c992b83b9051"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserShow/Basics.h",
+    "bytes": 1018,
+    "mtime_utc": "2025-02-25T13:11:15+00:00",
+    "sha256": "cf6777e743191af19cdff158685a37ec0b7b3bbef22fc449332639b598bcadfc"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserShow/Cube.cpp",
+    "bytes": 5069,
+    "mtime_utc": "2025-02-25T13:11:15+00:00",
+    "sha256": "1e27b867adb2915f84b4d89dc450fa254ee64b4a56c9d43437320aea8e7d0acc"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserShow/Cube.h",
+    "bytes": 108,
+    "mtime_utc": "2025-02-25T13:11:15+00:00",
+    "sha256": "9162ccf7e4eac3a73c2d24652317694441ca10845de782a3575047b10aeae503"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserShow/DAC_MCP4X.cpp",
+    "bytes": 7687,
+    "mtime_utc": "2025-02-25T13:11:15+00:00",
+    "sha256": "cfa3e1bd4d7213716c84d26807c291b0322c5f700ef6dd4fe7b86d13bc844b7e"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserShow/DAC_MCP4X.h",
+    "bytes": 4679,
+    "mtime_utc": "2025-02-25T13:11:15+00:00",
+    "sha256": "b2a6443a9c9f11e2ce9a4a62f9280a443bff94908594c02f5cc1304adee48768"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserShow/Drawing.cpp",
+    "bytes": 11024,
+    "mtime_utc": "2025-02-25T13:11:15+00:00",
+    "sha256": "7e7d9fb7a089bed17cff4539b13db2c69053c35b96ddc3e17d900cc0fb0cb15f"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserShow/Drawing.h",
+    "bytes": 1727,
+    "mtime_utc": "2025-02-25T13:11:15+00:00",
+    "sha256": "356d01d197363c261a5aa5f5c3aad6f9da2184345fd3334577e9a10678d48178"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserShow/Font.h",
+    "bytes": 8413,
+    "mtime_utc": "2025-02-25T13:11:15+00:00",
+    "sha256": "2b865bedcd964022e2719f16ab5d73774de21d09584e18590307c2188bad7198"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserShow/Laser.cpp",
+    "bytes": 6891,
+    "mtime_utc": "2025-02-25T13:11:15+00:00",
+    "sha256": "bcc7ad62b194d4e5ee16caf49d12f6b8613c4efa36f2dfa68e335c7ccc431c08"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserShow/Laser.h",
+    "bytes": 3624,
+    "mtime_utc": "2025-02-25T13:11:15+00:00",
+    "sha256": "da3072b86c9636aaeaba4e4a639f1fcb8cfff4ba5b9fe7d16865144207c8ec37"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserShow/LaserShow.ino",
+    "bytes": 1034,
+    "mtime_utc": "2025-02-25T13:17:03+00:00",
+    "sha256": "f7b4c16637af5b719b224c4138d179e9598e8fa79614ea25fa8cf633893f3225"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserShow/Logo.h",
+    "bytes": 9611,
+    "mtime_utc": "2025-02-25T13:11:15+00:00",
+    "sha256": "c09e2f66755df24e3e02b92d3feaf676e1747977918138901d0d775a2159cefb"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserShow/Objects.h",
+    "bytes": 48725,
+    "mtime_utc": "2025-02-25T13:11:15+00:00",
+    "sha256": "7b61b53a3c81279b2407350a7076bdfe5325f5b7e7ef318c570aa0bf046f6c16"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserSpectrumAnalyzer/Basics.cpp",
+    "bytes": 3343,
+    "mtime_utc": "2017-02-19T01:39:50+00:00",
+    "sha256": "ab4bc499331fc284e424172ca114c04411af7011f7f3d23abc203dd88a14e77d"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserSpectrumAnalyzer/Basics.h",
+    "bytes": 891,
+    "mtime_utc": "2017-02-19T01:39:50+00:00",
+    "sha256": "f36917f959935513b7679017c071b70e30097f4ac7d24c53278a18ced4f6d898"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserSpectrumAnalyzer/DAC_MCP4X.cpp",
+    "bytes": 6446,
+    "mtime_utc": "2017-02-19T01:39:50+00:00",
+    "sha256": "00dfd454fed4c884ebaaf262d729866b52e41d224f889237422fe8dc1689295f"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserSpectrumAnalyzer/DAC_MCP4X.h",
+    "bytes": 4679,
+    "mtime_utc": "2017-02-19T01:39:50+00:00",
+    "sha256": "b2a6443a9c9f11e2ce9a4a62f9280a443bff94908594c02f5cc1304adee48768"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserSpectrumAnalyzer/Drawing.cpp",
+    "bytes": 6347,
+    "mtime_utc": "2017-02-19T01:39:50+00:00",
+    "sha256": "f41e927666ff1331e9f8cef78217b28d1f1713ec824b988d1319b617cdd0abc3"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserSpectrumAnalyzer/Drawing.h",
+    "bytes": 1593,
+    "mtime_utc": "2017-02-19T01:39:50+00:00",
+    "sha256": "b5eba2ed790720fb614ade758300e320e84c93e13ded698c417789e5e4a97f08"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserSpectrumAnalyzer/Font.h",
+    "bytes": 8413,
+    "mtime_utc": "2017-02-19T01:39:50+00:00",
+    "sha256": "2b865bedcd964022e2719f16ab5d73774de21d09584e18590307c2188bad7198"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserSpectrumAnalyzer/Laser.cpp",
+    "bytes": 6891,
+    "mtime_utc": "2017-02-19T01:39:50+00:00",
+    "sha256": "bcc7ad62b194d4e5ee16caf49d12f6b8613c4efa36f2dfa68e335c7ccc431c08"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserSpectrumAnalyzer/Laser.h",
+    "bytes": 3506,
+    "mtime_utc": "2017-02-19T01:39:50+00:00",
+    "sha256": "065cafd96dbb7437d5b0518a21ae81c2afdb6e981e2b2f42b680724caa30887a"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/LaserSpectrumAnalyzer/LaserSpectrumAnalyzer.ino",
+    "bytes": 11989,
+    "mtime_utc": "2017-02-19T01:39:50+00:00",
+    "sha256": "907a19e301a47bf69938f19ebfd6462ba814c60dcec46d8afab1a040d6b6f9be"
+  },
+  {
+    "path": "LaserProjector-master/LaserProjector-master/Scripts/convertGCode.py",
+    "bytes": 2203,
+    "mtime_utc": "2017-02-19T01:39:50+00:00",
+    "sha256": "d019564afda4d871b1cb604fe0ee6ae596d5a228ca61b898491bb1dc62819fbf"
+  },
+  {
+    "path": "LaserProjector-master/Scripts/convertGCode.py",
+    "bytes": 2203,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "d019564afda4d871b1cb604fe0ee6ae596d5a228ca61b898491bb1dc62819fbf"
+  },
+  {
+    "path": "LaserProjector-master/LaserShow/Basics.cpp",
+    "bytes": 3326,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "fb420b06576a6c9f5481ee7f9e9d07c9258cdd37a8e99b09b444c992b83b9051"
+  },
+  {
+    "path": "LaserProjector-master/LaserShow/Basics.h",
+    "bytes": 1018,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "cf6777e743191af19cdff158685a37ec0b7b3bbef22fc449332639b598bcadfc"
+  },
+  {
+    "path": "LaserProjector-master/LaserShow/Cube.cpp",
+    "bytes": 5069,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "1e27b867adb2915f84b4d89dc450fa254ee64b4a56c9d43437320aea8e7d0acc"
+  },
+  {
+    "path": "LaserProjector-master/LaserShow/Cube.h",
+    "bytes": 108,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "9162ccf7e4eac3a73c2d24652317694441ca10845de782a3575047b10aeae503"
+  },
+  {
+    "path": "LaserProjector-master/LaserShow/DAC_MCP4X.cpp",
+    "bytes": 6446,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "00dfd454fed4c884ebaaf262d729866b52e41d224f889237422fe8dc1689295f"
+  },
+  {
+    "path": "LaserProjector-master/LaserShow/DAC_MCP4X.h",
+    "bytes": 4679,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "b2a6443a9c9f11e2ce9a4a62f9280a443bff94908594c02f5cc1304adee48768"
+  },
+  {
+    "path": "LaserProjector-master/LaserShow/Drawing.cpp",
+    "bytes": 6357,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "c6b027d141b02357d362fe56cc3caade60cb9e1d5c484d1d20bffcfddee85cee"
+  },
+  {
+    "path": "LaserProjector-master/LaserShow/Drawing.h",
+    "bytes": 1593,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "b5eba2ed790720fb614ade758300e320e84c93e13ded698c417789e5e4a97f08"
+  },
+  {
+    "path": "LaserProjector-master/LaserShow/Font.h",
+    "bytes": 8413,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "2b865bedcd964022e2719f16ab5d73774de21d09584e18590307c2188bad7198"
+  },
+  {
+    "path": "LaserProjector-master/LaserShow/Laser.cpp",
+    "bytes": 6891,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "bcc7ad62b194d4e5ee16caf49d12f6b8613c4efa36f2dfa68e335c7ccc431c08"
+  },
+  {
+    "path": "LaserProjector-master/LaserShow/Laser.h",
+    "bytes": 3508,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "bdcb460d390219f016cd702c4d99fe8bcb9d02c4663f7e20b872017c67d78a87"
+  },
+  {
+    "path": "LaserProjector-master/LaserShow/LaserShow.ino",
+    "bytes": 9884,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "a3d5d5ed688bd849d6b0a3da6ff078a252de53bd5a0a0cf874e35329dfcfb453"
+  },
+  {
+    "path": "LaserProjector-master/LaserShow/Logo.h",
+    "bytes": 9611,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "c09e2f66755df24e3e02b92d3feaf676e1747977918138901d0d775a2159cefb"
+  },
+  {
+    "path": "LaserProjector-master/LaserShow/Objects.h",
+    "bytes": 8436,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "98c791bb7acf0629bdb66c67ed4b0cb50a98532aa700373910cfeee22f49abfe"
+  },
+  {
+    "path": "LaserProjector-master/LaserSpectrumAnalyzer/Basics.cpp",
+    "bytes": 3343,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "ab4bc499331fc284e424172ca114c04411af7011f7f3d23abc203dd88a14e77d"
+  },
+  {
+    "path": "LaserProjector-master/LaserSpectrumAnalyzer/Basics.h",
+    "bytes": 891,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "f36917f959935513b7679017c071b70e30097f4ac7d24c53278a18ced4f6d898"
+  },
+  {
+    "path": "LaserProjector-master/LaserSpectrumAnalyzer/DAC_MCP4X.cpp",
+    "bytes": 6446,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "00dfd454fed4c884ebaaf262d729866b52e41d224f889237422fe8dc1689295f"
+  },
+  {
+    "path": "LaserProjector-master/LaserSpectrumAnalyzer/DAC_MCP4X.h",
+    "bytes": 4679,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "b2a6443a9c9f11e2ce9a4a62f9280a443bff94908594c02f5cc1304adee48768"
+  },
+  {
+    "path": "LaserProjector-master/LaserSpectrumAnalyzer/Drawing.cpp",
+    "bytes": 6347,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "f41e927666ff1331e9f8cef78217b28d1f1713ec824b988d1319b617cdd0abc3"
+  },
+  {
+    "path": "LaserProjector-master/LaserSpectrumAnalyzer/Drawing.h",
+    "bytes": 1593,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "b5eba2ed790720fb614ade758300e320e84c93e13ded698c417789e5e4a97f08"
+  },
+  {
+    "path": "LaserProjector-master/LaserSpectrumAnalyzer/Font.h",
+    "bytes": 8413,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "2b865bedcd964022e2719f16ab5d73774de21d09584e18590307c2188bad7198"
+  },
+  {
+    "path": "LaserProjector-master/LaserSpectrumAnalyzer/Laser.cpp",
+    "bytes": 6891,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "bcc7ad62b194d4e5ee16caf49d12f6b8613c4efa36f2dfa68e335c7ccc431c08"
+  },
+  {
+    "path": "LaserProjector-master/LaserSpectrumAnalyzer/Laser.h",
+    "bytes": 3506,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "065cafd96dbb7437d5b0518a21ae81c2afdb6e981e2b2f42b680724caa30887a"
+  },
+  {
+    "path": "LaserProjector-master/LaserSpectrumAnalyzer/LaserSpectrumAnalyzer.ino",
+    "bytes": 11989,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "907a19e301a47bf69938f19ebfd6462ba814c60dcec46d8afab1a040d6b6f9be"
+  },
+  {
+    "path": "general thing/NewProject.1.toe",
+    "bytes": 4986,
+    "mtime_utc": "2024-07-10T08:51:50+00:00",
+    "sha256": "0bd005da937b75bb3a1770aa0507c678215d58996e792f01a43c8c59bc7ca9c8"
+  },
+  {
+    "path": "general thing/NewProject.toe",
+    "bytes": 4986,
+    "mtime_utc": "2024-07-10T08:51:50+00:00",
+    "sha256": "0bd005da937b75bb3a1770aa0507c678215d58996e792f01a43c8c59bc7ca9c8"
+  },
+  {
+    "path": "unsigned gen/script.py",
+    "bytes": 2173,
+    "mtime_utc": "2024-08-28T13:20:34+00:00",
+    "sha256": "2e5a136dbc04e864d03f888a544c62492f21fa5a7faa0b85031f1ad130272b55"
+  },
+  {
+    "path": "unsigned gen/script_simplify.py",
+    "bytes": 2170,
+    "mtime_utc": "2024-08-28T13:39:22+00:00",
+    "sha256": "d0960174cd9c2832e2dbf4552f89b10b879d44225ee1cf1dc32c55b3bb44c653"
+  },
+  {
+    "path": "touchdesigner sketch/example.toe",
+    "bytes": 4906,
+    "mtime_utc": "2024-09-02T14:01:36+00:00",
+    "sha256": "f062637576dae754b1df22a734f8d3c536a4aff8fd954797843e372b62778a7e"
+  },
+  {
+    "path": "touchdesigner sketch/font_tracer.tox",
+    "bytes": 18830,
+    "mtime_utc": "2024-09-24T18:08:48+00:00",
+    "sha256": "3712a06cacc71c47b9123b275025f3690ff465f9655d2692b6d20712977d920c"
+  },
+  {
+    "path": "touchdesigner sketch/NewProject.115.toe",
+    "bytes": 50642,
+    "mtime_utc": "2024-09-27T17:48:45+00:00",
+    "sha256": "cbe34b257e87807d5553604d328824a0907807dbf6fba1e0c0b3b0e681347940"
+  },
+  {
+    "path": "touchdesigner sketch/NewProject.toe",
+    "bytes": 50642,
+    "mtime_utc": "2024-09-27T17:48:45+00:00",
+    "sha256": "cbe34b257e87807d5553604d328824a0907807dbf6fba1e0c0b3b0e681347940"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.1.toe",
+    "bytes": 5074,
+    "mtime_utc": "2024-09-02T13:11:58+00:00",
+    "sha256": "555afbc17ea477711b0abb5c55751c23bcdc1d54a808a4337935ba17a8945c4d"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.10.toe",
+    "bytes": 7450,
+    "mtime_utc": "2024-09-04T09:11:53+00:00",
+    "sha256": "37df4dcccab920419a83542b50c6147faa33aa8670e77bf85d0018a4d75c6137"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.100.toe",
+    "bytes": 47586,
+    "mtime_utc": "2024-09-25T22:46:08+00:00",
+    "sha256": "c79097d418f7bc4b539ce3239f24353b9e63db4a5b59798eb619182bca01a131"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.101.toe",
+    "bytes": 47698,
+    "mtime_utc": "2024-09-25T22:49:11+00:00",
+    "sha256": "8c2da20caa108e8a729e08cd788e543de2e761ea0a1c3d65596a05c6d984fa44"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.102.toe",
+    "bytes": 47722,
+    "mtime_utc": "2024-09-25T22:54:25+00:00",
+    "sha256": "72ba245c62aabca08ab31aca81d077faa53dc31c922894fa2d52e03e63f47ea0"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.103.toe",
+    "bytes": 47682,
+    "mtime_utc": "2024-09-25T22:55:55+00:00",
+    "sha256": "859005b641141c79f0cec05e81f2706d5c185da06ab36c611c64e6f0de7fc67e"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.104.toe",
+    "bytes": 47650,
+    "mtime_utc": "2024-09-25T22:59:08+00:00",
+    "sha256": "65bc27f785a63efabb79047021d6e93d9927fab2c35d2cc1bc8fe56153228da2"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.105.toe",
+    "bytes": 48274,
+    "mtime_utc": "2024-09-25T23:17:54+00:00",
+    "sha256": "f25fa0f814736acfb6fc22e7da3227c276ab17118b1800bd46693b1e6b01939c"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.106.toe",
+    "bytes": 48282,
+    "mtime_utc": "2024-09-25T23:19:04+00:00",
+    "sha256": "01c3f85e27ce0aa69ff09a0dffa83dea4c6c80cbf0fe6007c71562cce9117978"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.107.toe",
+    "bytes": 50618,
+    "mtime_utc": "2024-09-26T08:39:23+00:00",
+    "sha256": "1e47f4c04c69d6aedcd0c8f782ba81dfd368fe4fe5fd2c56e923be2b0e78ff18"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.108.toe",
+    "bytes": 48066,
+    "mtime_utc": "2024-09-26T09:36:25+00:00",
+    "sha256": "fd54b2a2932f926cb64c28202f3bdca16f6e09aa8b39cf58be16223df6e070dc"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.109.toe",
+    "bytes": 48106,
+    "mtime_utc": "2024-09-26T11:38:10+00:00",
+    "sha256": "872660dee7a5a15cab1f2d0a0650550637b2d00b91c3472e0395f9a646962296"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.11.toe",
+    "bytes": 7514,
+    "mtime_utc": "2024-09-04T11:59:21+00:00",
+    "sha256": "5ed04054940f39ef0d89f3cc4d6c967fc4f6b1d67b606cb03805832bad1fcfa0"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.110.toe",
+    "bytes": 49554,
+    "mtime_utc": "2024-09-26T12:15:12+00:00",
+    "sha256": "6631e4c2f2637044773b9ab29ca3a7b29059734878b23f39a07ac18616d6d093"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.111.toe",
+    "bytes": 49506,
+    "mtime_utc": "2024-09-26T12:15:22+00:00",
+    "sha256": "ac550d74913535723ce4dc4ecb8204b7afd1b4dce72398520892162d0aa91e94"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.112.toe",
+    "bytes": 49514,
+    "mtime_utc": "2024-09-26T12:17:27+00:00",
+    "sha256": "73fb5a510b6b097e568e2b2d9354d1baab5f20972cd48218f21e9819dc2c7fed"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.113.toe",
+    "bytes": 807364,
+    "mtime_utc": "2024-09-27T16:31:38+00:00",
+    "sha256": "404e452b29224f8da2a57b902628d3efacad8dc73f0dd2a5eadc7052dc81a18d"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.114.toe",
+    "bytes": 6402932,
+    "mtime_utc": "2024-09-27T17:29:46+00:00",
+    "sha256": "a0bac271de19e3f17edf26500b600cb466607a1c937c14fef759b2d31613442d"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.12.toe",
+    "bytes": 13018,
+    "mtime_utc": "2024-09-04T12:32:45+00:00",
+    "sha256": "7370d4d717a7c9ba5955fb1a3fed423f15542be7f557cdb2c1d2c35d2b3fbcb4"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.13.toe",
+    "bytes": 13026,
+    "mtime_utc": "2024-09-04T12:34:01+00:00",
+    "sha256": "8b962d74fea7db458df04dd50012b4fb753b0c4de5adaf56ec96dcf9bd760e01"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.14.toe",
+    "bytes": 9954,
+    "mtime_utc": "2024-09-04T12:35:20+00:00",
+    "sha256": "e531be3ef7139a0959b9957d36db085948e76b5e6e99bd10c8b2f61745e4c33f"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.15.toe",
+    "bytes": 13138,
+    "mtime_utc": "2024-09-04T12:55:25+00:00",
+    "sha256": "26ec0b3f470916b0209df166a32a5c0dc4ca28848f398c80dd06dfe3a6e41687"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.16.toe",
+    "bytes": 13106,
+    "mtime_utc": "2024-09-04T12:55:59+00:00",
+    "sha256": "6dce9e59a9f6a6d88abb6988a08913fc852a01f70151a8638c10ac3d934763ad"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.17.toe",
+    "bytes": 15626,
+    "mtime_utc": "2024-09-05T11:47:57+00:00",
+    "sha256": "7cc1aa7270e3ee932e15e76c6fc4cd971ad6d73f110c25f9594221c39c542c85"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.18.toe",
+    "bytes": 12002,
+    "mtime_utc": "2024-09-05T13:13:47+00:00",
+    "sha256": "d5b7b16f7b00cbf8fd4b50b8dabe35762d4c7950d9752ddf1b671186087fb336"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.19.toe",
+    "bytes": 12290,
+    "mtime_utc": "2024-09-22T15:41:45+00:00",
+    "sha256": "4619743af5b7a2c031610d8466edc51db44796b426266decb33784677bafb9da"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.2.toe",
+    "bytes": 5850,
+    "mtime_utc": "2024-09-02T14:00:33+00:00",
+    "sha256": "10fbe6eeeab73d9277c533e6469f1f0e942d9d797a9e135bda2977a1dda81232"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.20.toe",
+    "bytes": 12482,
+    "mtime_utc": "2024-09-22T15:45:46+00:00",
+    "sha256": "fe1ae5d9bc978c03577c01722f41e485a73875b344325b3c3de3b5aa2e4e8191"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.21.toe",
+    "bytes": 13706,
+    "mtime_utc": "2024-09-22T16:41:27+00:00",
+    "sha256": "eba3f3cf085e50e0001443b4bae47db0be4843781661d620d6c417583baaa784"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.22.toe",
+    "bytes": 13738,
+    "mtime_utc": "2024-09-22T16:43:57+00:00",
+    "sha256": "0961d7fb88c1bfe28e1f6891fc7f9feade92bda0aad94ac119c85f9d2cd073c4"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.23.toe",
+    "bytes": 14890,
+    "mtime_utc": "2024-09-22T17:14:12+00:00",
+    "sha256": "523f04feeafd6a917127d27696b609fcc2c2d657a0ec92c0d521a6443aa656b3"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.24.toe",
+    "bytes": 14922,
+    "mtime_utc": "2024-09-22T19:04:13+00:00",
+    "sha256": "d015995d336e1312b8e20e28bbff5b58bdc5a511fd1e9e1cdca7b1f576f97c43"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.25.toe",
+    "bytes": 14882,
+    "mtime_utc": "2024-09-22T19:04:46+00:00",
+    "sha256": "179ea9d412975dd1b159750662b13494583745c61bda8b6f7821d6c137199d4d"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.26.toe",
+    "bytes": 15410,
+    "mtime_utc": "2024-09-22T19:12:03+00:00",
+    "sha256": "1a4eda70f6d457fb1faec2bebcb3b08633f33166a34445f614b837d27e4d6e16"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.27.toe",
+    "bytes": 15434,
+    "mtime_utc": "2024-09-22T19:13:00+00:00",
+    "sha256": "5fae93314080e3b5a26a59e1e81d09845ae7551158a85158d2f718f2ce31d2d5"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.28.toe",
+    "bytes": 15402,
+    "mtime_utc": "2024-09-22T19:15:02+00:00",
+    "sha256": "3d22d7c50259e861de5eaf1c42ca96100cdbf73e22160328a77e408b860d1ac7"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.29.toe",
+    "bytes": 15434,
+    "mtime_utc": "2024-09-22T19:15:09+00:00",
+    "sha256": "2e03d2a2b4204a621ec1dab1271238acb51f207978cf632e5c67ee0aaee95217"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.3.toe",
+    "bytes": 5986,
+    "mtime_utc": "2024-09-02T14:06:03+00:00",
+    "sha256": "243bc247a135b2e4395b4cfdfafd80787566111496d27fceb6fcb530b2d2063f"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.30.toe",
+    "bytes": 15442,
+    "mtime_utc": "2024-09-22T19:19:09+00:00",
+    "sha256": "5c95ac5a099d266b647f5eac1403804f9128c8ad503bc81a2e2f42ca04dfa3e4"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.31.toe",
+    "bytes": 16594,
+    "mtime_utc": "2024-09-22T20:12:21+00:00",
+    "sha256": "b10293ebb8e06d13ea3b01226efec02b3d71844f3e55e7cb7d6734fd20216c6a"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.32.toe",
+    "bytes": 17514,
+    "mtime_utc": "2024-09-22T20:33:03+00:00",
+    "sha256": "e358924a019799942592aeac19c3683f3ff71a31f28ce24b06fd19a161117a37"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.33.toe",
+    "bytes": 17578,
+    "mtime_utc": "2024-09-22T21:19:57+00:00",
+    "sha256": "cb01496339b3c3f9868fcfe11faea5027514997c0772452fb41c666272aed1ce"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.34.toe",
+    "bytes": 19242,
+    "mtime_utc": "2024-09-22T21:38:16+00:00",
+    "sha256": "e912d0b56bb4ccf18ec49f9855171b0132bc465f4991d4c4dc3578a647b6674d"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.35.toe",
+    "bytes": 19226,
+    "mtime_utc": "2024-09-22T21:38:34+00:00",
+    "sha256": "7368a2cac2a282cc78ef8167e9660ac3e8da789248ba7eb05e2e192a44458feb"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.36.toe",
+    "bytes": 21738,
+    "mtime_utc": "2024-09-23T01:30:11+00:00",
+    "sha256": "b5495db6506699469e8ac81d44cae79d494f5343e4067e7743662ce106d3b31d"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.37.toe",
+    "bytes": 22610,
+    "mtime_utc": "2024-09-23T08:19:33+00:00",
+    "sha256": "b20c5be275168a8fe1748ba3355fb9de41a36e42a0dfa7686003558f275862a1"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.38.toe",
+    "bytes": 22866,
+    "mtime_utc": "2024-09-23T08:54:39+00:00",
+    "sha256": "2823c28dcb7bc007cc1c3864d9e4754eaf8ddae6b40a6318461114c866d81231"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.39.toe",
+    "bytes": 22906,
+    "mtime_utc": "2024-09-23T08:55:33+00:00",
+    "sha256": "8c13cd3971b5364cc751cbd1c995b760aef486c1330b3b244f2086e353e5dfc7"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.4.toe",
+    "bytes": 5986,
+    "mtime_utc": "2024-09-02T14:06:05+00:00",
+    "sha256": "3af30c97d47a9d27088510d3802112b12917e500e13af3664cc221050d3c5f53"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.40.toe",
+    "bytes": 22914,
+    "mtime_utc": "2024-09-23T09:05:20+00:00",
+    "sha256": "02d1af5d93996bc2db0bf4880cdfa7d7bb303ccd5f765ae8ae2166474d5bff9c"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.41.toe",
+    "bytes": 22970,
+    "mtime_utc": "2024-09-23T09:10:56+00:00",
+    "sha256": "baa5b5699eb5e3326f81a18c71b61f3b233329766ac42afe1fb093fef17e1254"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.42.toe",
+    "bytes": 23170,
+    "mtime_utc": "2024-09-23T09:18:03+00:00",
+    "sha256": "47581d16b5dca17ee0c1213f119623bb9225013502710ebde6209164b126a4d3"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.43.toe",
+    "bytes": 22810,
+    "mtime_utc": "2024-09-23T09:22:16+00:00",
+    "sha256": "91730b9b5b9a346459e3575f314bbc19bdc1fb6077deea696321a7363f6e3044"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.44.toe",
+    "bytes": 23002,
+    "mtime_utc": "2024-09-23T09:28:26+00:00",
+    "sha256": "1718e4cf560357cf5fb8cc4ca945cf5ce46fa06a023aca7f342be73b0453cc1c"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.45.toe",
+    "bytes": 23154,
+    "mtime_utc": "2024-09-23T09:38:57+00:00",
+    "sha256": "4f4afb2a4c505fa49cf990cc6ca9b6d2f1d3980e97112b816a638aa8bfc40727"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.46.toe",
+    "bytes": 23226,
+    "mtime_utc": "2024-09-23T09:46:01+00:00",
+    "sha256": "af2f80a39896099c72ee74d1b130194b058ad086762d19f8f3d89eb8a1080e45"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.47.toe",
+    "bytes": 22994,
+    "mtime_utc": "2024-09-23T09:55:36+00:00",
+    "sha256": "cc45645b50162846ab3baf82712d694d413ca25c8dc5342c2a02f4a6f043696c"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.48.toe",
+    "bytes": 23034,
+    "mtime_utc": "2024-09-23T09:58:16+00:00",
+    "sha256": "85067440b9200bfa07b5627853a53cd071efea1bc31457429f4a068445da27df"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.49.toe",
+    "bytes": 22922,
+    "mtime_utc": "2024-09-23T10:14:42+00:00",
+    "sha256": "cdf6547bc3d89302243639ad098156c8932ad21d5e2d2a4a8720d53af6a292b8"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.5.toe",
+    "bytes": 6138,
+    "mtime_utc": "2024-09-02T14:31:37+00:00",
+    "sha256": "bcc8440b2f310afd721874ede5b10d9160bbc6772ded27563ff40cefbd9200de"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.50.toe",
+    "bytes": 22930,
+    "mtime_utc": "2024-09-23T10:14:45+00:00",
+    "sha256": "acaf31a6756013e54918e282da808f3cb1e55a3b738194029c85e1940ed7340a"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.51.toe",
+    "bytes": 22978,
+    "mtime_utc": "2024-09-24T08:16:50+00:00",
+    "sha256": "34a4b7a48ea910dfceaf5d4f6e0b83db3efd51c1f7755dea6851159e5b49d697"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.52.toe",
+    "bytes": 22986,
+    "mtime_utc": "2024-09-24T08:24:39+00:00",
+    "sha256": "8f39b6c107df2242b8ca55631e70ac70bbbf59afa6b8515f846700563ac3ee68"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.53.toe",
+    "bytes": 23570,
+    "mtime_utc": "2024-09-24T08:31:34+00:00",
+    "sha256": "609ebde3ce9ebbbc4ac4fb18e9987fbb35056d46e78467af149c0eb432362417"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.54.toe",
+    "bytes": 23714,
+    "mtime_utc": "2024-09-24T08:34:01+00:00",
+    "sha256": "e710b9f6aebade8a88aa99eb3314c095c6815651b9e5c597fc75bbee1b6453f6"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.55.toe",
+    "bytes": 23914,
+    "mtime_utc": "2024-09-24T08:57:49+00:00",
+    "sha256": "426cb9b588888708c7de9d11bc870091a8652d75af08ae88d0a4ab043ca68dcd"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.56.toe",
+    "bytes": 23714,
+    "mtime_utc": "2024-09-24T09:26:58+00:00",
+    "sha256": "86b61c1128db1c7a894ef009389b5403728afb56b02ddffe8f92bed7f34a8b9b"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.57.toe",
+    "bytes": 23946,
+    "mtime_utc": "2024-09-24T09:52:14+00:00",
+    "sha256": "c5051fda0283a8ef6da9807b2dfb76fd58c525567193932ff0ba4b5bb4a0d671"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.58.toe",
+    "bytes": 24218,
+    "mtime_utc": "2024-09-24T10:16:37+00:00",
+    "sha256": "2b191f867257401184f97878bc779f1a6f61b1e0db98cc9e1469951003453f2c"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.59.toe",
+    "bytes": 25554,
+    "mtime_utc": "2024-09-24T17:35:27+00:00",
+    "sha256": "8fc75ec6494c6da560b22597ff4efa100b027730fd1f18a1d5aadccf7c4d92c6"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.6.toe",
+    "bytes": 6146,
+    "mtime_utc": "2024-09-02T15:06:06+00:00",
+    "sha256": "5b8daa1f8dc715f29686909d8fb44ee42bee975dc899353d62631d674bdb0cde"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.60.toe",
+    "bytes": 28634,
+    "mtime_utc": "2024-09-24T17:43:30+00:00",
+    "sha256": "7dd38e2eb56d4ec7b136f68a15760921b47664f8769bd93e724155a781dea3fc"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.61.toe",
+    "bytes": 29298,
+    "mtime_utc": "2024-09-24T17:45:49+00:00",
+    "sha256": "2766208cde0b7a04bfa7f6eb98eb5da563c36105f10cef5bbf1159417ab453aa"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.62.toe",
+    "bytes": 33954,
+    "mtime_utc": "2024-09-24T17:49:44+00:00",
+    "sha256": "970eb31754eaa3b53be253e5b049a464eac10a1a1130158e356a4ae0c85ccd4d"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.63.toe",
+    "bytes": 34290,
+    "mtime_utc": "2024-09-24T17:55:40+00:00",
+    "sha256": "fcd7a14a5222ffd1f49969ca312d1380753bd455cf12bb92ca9e52897028eae3"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.64.toe",
+    "bytes": 35858,
+    "mtime_utc": "2024-09-24T17:57:54+00:00",
+    "sha256": "58b350cd7a713b4b28dda690b8b853138537d0811c286d7ff19f8bf6bedfa36b"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.65.toe",
+    "bytes": 35842,
+    "mtime_utc": "2024-09-24T17:59:38+00:00",
+    "sha256": "017d6f21676044e42209264880f58c7cb3c9c4d5ed645d47f828fdb5b79d06a3"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.66.toe",
+    "bytes": 42306,
+    "mtime_utc": "2024-09-24T18:06:47+00:00",
+    "sha256": "cce653fbbe01d408651228550da5e1bdd4b9f6bbb883b34e953500172b2de609"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.67.toe",
+    "bytes": 42754,
+    "mtime_utc": "2024-09-24T18:07:19+00:00",
+    "sha256": "ba38b2af852073d9cf0ca8d647e12ff558fa11e7b5d29167573d1df1c781fe08"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.68.toe",
+    "bytes": 42738,
+    "mtime_utc": "2024-09-24T18:07:38+00:00",
+    "sha256": "1e8edcb4466828aabd9fbb05ced0528893ca548097e0fdc54fced91300bdeac2"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.69.toe",
+    "bytes": 43338,
+    "mtime_utc": "2024-09-24T18:17:11+00:00",
+    "sha256": "0259f403b4c57ae41bb0e3a9c159832e035753f2a03a9585dcaed1725f4fa250"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.7.toe",
+    "bytes": 6586,
+    "mtime_utc": "2024-09-02T15:21:39+00:00",
+    "sha256": "4cf3773d5a4fccb22ade01ad7c67e30df2a531af29e5a290bd406568454306a2"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.70.toe",
+    "bytes": 43346,
+    "mtime_utc": "2024-09-24T18:17:35+00:00",
+    "sha256": "547bbcb439aa44fc24118e44e1e7885c107fbac3c1550c23823d9b88aa4275dd"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.71.toe",
+    "bytes": 36682,
+    "mtime_utc": "2024-09-24T18:17:55+00:00",
+    "sha256": "cde09c2abfaad164c786c1bf5060d1a2f70fcdb67387e31af82f28cf1d7ba90c"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.72.toe",
+    "bytes": 36706,
+    "mtime_utc": "2024-09-24T18:18:43+00:00",
+    "sha256": "381d1ee6ff76313c52a1ddb9453264d5e773a1633f5820a15e9527b01a09bda1"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.73.toe",
+    "bytes": 36986,
+    "mtime_utc": "2024-09-24T18:19:32+00:00",
+    "sha256": "8173123b820988a902e7cdf3e4a43b8add950cc736bb617faa17399d331e784b"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.74.toe",
+    "bytes": 37010,
+    "mtime_utc": "2024-09-24T18:20:52+00:00",
+    "sha256": "a4987db76fb34dd87e120a58b414f52aee23ef49d0e5416cb40e5070b8bebf30"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.75.toe",
+    "bytes": 37058,
+    "mtime_utc": "2024-09-24T18:21:57+00:00",
+    "sha256": "a073cc2447f2019b7633677c3fc98bee5f15ac88f0c43f1b75d8cfd1ff73581d"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.76.toe",
+    "bytes": 46114,
+    "mtime_utc": "2024-09-24T18:22:35+00:00",
+    "sha256": "9e9539138ed8963a71b967b1eb15b4dedc012aca9e6c023239db2e4da4f6e720"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.77.toe",
+    "bytes": 46090,
+    "mtime_utc": "2024-09-24T18:23:06+00:00",
+    "sha256": "f322f38199446d991b37b591daee5ec8f5a6b4b3d959a92dd5e44d307722a051"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.78.toe",
+    "bytes": 40570,
+    "mtime_utc": "2024-09-24T19:17:03+00:00",
+    "sha256": "a509c8655322e6b7fa4f73e3f12e6e618e7012bc9df20c6b4f7aa8b6b8050976"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.79.toe",
+    "bytes": 41858,
+    "mtime_utc": "2024-09-24T19:55:37+00:00",
+    "sha256": "74e181f1c2402102f8ae44e00b838ff2a4e5f4985c3cdd2041f5e9a81049d904"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.8.toe",
+    "bytes": 6794,
+    "mtime_utc": "2024-09-02T15:35:10+00:00",
+    "sha256": "94410b65e1ccca35fb2f7a9983c0bef4cc5da400c7574abf4451a5b8478f2bcf"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.80.toe",
+    "bytes": 41850,
+    "mtime_utc": "2024-09-24T20:10:30+00:00",
+    "sha256": "ce86517eb5fb80ddea5fb8966eb93bfaf6a3fb58bbfe6e8198d56ae00b11d51e"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.81.toe",
+    "bytes": 41850,
+    "mtime_utc": "2024-09-24T20:17:37+00:00",
+    "sha256": "41ef8c695db564616c0d2f9f7eafe0071f60bf846230b3c409144fdcb5387ecc"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.82.toe",
+    "bytes": 42074,
+    "mtime_utc": "2024-09-24T20:30:23+00:00",
+    "sha256": "199038667fcc3a45811b692687af29dad3d849a882a56cb852a744a2c3ffd90b"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.83.toe",
+    "bytes": 42210,
+    "mtime_utc": "2024-09-24T20:32:34+00:00",
+    "sha256": "157c6e72ec8f4f1e9cc104343baa5f319d767aa67756421b720133750f094141"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.84.toe",
+    "bytes": 43442,
+    "mtime_utc": "2024-09-24T22:54:22+00:00",
+    "sha256": "3d2eeb349d7737ef449cd761942a785ac3a1f138ed870d2b2191d25ce824a685"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.85.toe",
+    "bytes": 43746,
+    "mtime_utc": "2024-09-24T23:30:15+00:00",
+    "sha256": "c130ab02694489da7015e452c20fa1db900d278366c41d4f18525ad56e8cd131"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.86.toe",
+    "bytes": 43818,
+    "mtime_utc": "2024-09-24T23:55:26+00:00",
+    "sha256": "ef72d0bbdb3c75b7fa3b1bbe75eae0d314d5c56ba9b9a2e36220eac29c55a6d2"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.87.toe",
+    "bytes": 43818,
+    "mtime_utc": "2024-09-25T00:04:09+00:00",
+    "sha256": "440f826f58ac79dae41e1e24599233839bfcfa6f43bba294c6a2e8c736474b48"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.88.toe",
+    "bytes": 43946,
+    "mtime_utc": "2024-09-25T00:07:41+00:00",
+    "sha256": "e6ec0f2755a1ccb2600aaaad2741b5b95e9d7c91591a2cb167959d3e373e3c59"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.89.toe",
+    "bytes": 43994,
+    "mtime_utc": "2024-09-25T00:09:35+00:00",
+    "sha256": "6e152e2db2de38c5ca179a151c2d617396f9f8e51010f37e5a7f497a4c8571ae"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.9.toe",
+    "bytes": 7642,
+    "mtime_utc": "2024-09-02T17:29:44+00:00",
+    "sha256": "9dafbd831ea416bdbcb334550628fd05c7f2805fa4426a03f1331168d86aecc2"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.90.toe",
+    "bytes": 44010,
+    "mtime_utc": "2024-09-25T00:09:56+00:00",
+    "sha256": "50fa95f368bddacfdb590a6eb8104ecaca3ebcfc2e8733f9b8f99e8403f63033"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.91.toe",
+    "bytes": 44130,
+    "mtime_utc": "2024-09-25T00:21:55+00:00",
+    "sha256": "90e705aa0ca250c7ac04b5bc5ff9bcf1b91028ef663e53dd51664a24784e7c85"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.92.toe",
+    "bytes": 44322,
+    "mtime_utc": "2024-09-25T00:22:51+00:00",
+    "sha256": "f69e48bbd50294bb3f939f6a1271b14a41c5852ff116905e0ce1c8163726ca26"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.93.toe",
+    "bytes": 46810,
+    "mtime_utc": "2024-09-25T01:22:20+00:00",
+    "sha256": "65df6e1fa20124891a7bafd8fc267416a6e4d237327591f586350b53a93b2cf0"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.94.toe",
+    "bytes": 46874,
+    "mtime_utc": "2024-09-25T01:33:11+00:00",
+    "sha256": "324c9dba2edcbaef2e90b38ef7f0787c40d6aa95f752cbdc9a827cbf8ace3676"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.95.toe",
+    "bytes": 47162,
+    "mtime_utc": "2024-09-25T01:39:39+00:00",
+    "sha256": "5b4a083b64f94493c8c302a6ef7f744f01c35cebdce92e37bb118eca74011a9c"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.96.toe",
+    "bytes": 46938,
+    "mtime_utc": "2024-09-25T19:48:44+00:00",
+    "sha256": "064e4568b30dbe83ea2f385a1ab37657315a2d64e347b464786ba86d9ce060f5"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.97.toe",
+    "bytes": 46986,
+    "mtime_utc": "2024-09-25T20:47:51+00:00",
+    "sha256": "b179ea11361aa9531e4167f3e8c9c2386899c5e8193f407e99cdf8a28e9294f6"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.98.toe",
+    "bytes": 46634,
+    "mtime_utc": "2024-09-25T20:56:10+00:00",
+    "sha256": "d1dcdc207d364da7c5936d445cd895d5939711dbf093f2b19e176152c78a93fd"
+  },
+  {
+    "path": "touchdesigner sketch/Backup/NewProject.99.toe",
+    "bytes": 46666,
+    "mtime_utc": "2024-09-25T20:57:13+00:00",
+    "sha256": "ed178ccac0c62721003ee5fb1cd22aa430116b0ceec7c747676f292fe9e8a54c"
+  },
+  {
+    "path": "Cuneiform Translators/CuneiformTranslators-main/example.py",
+    "bytes": 524,
+    "mtime_utc": "2023-06-09T15:36:05+00:00",
+    "sha256": "db114c75c03dd6d2155f0d8f13cdf10b52ad53b162bfe92cd8523fea7e38a270"
+  },
+  {
+    "path": "Cuneiform Translators/CuneiformTranslators-main/tools/cdli.py",
+    "bytes": 18868,
+    "mtime_utc": "2023-06-09T15:36:05+00:00",
+    "sha256": "1b6015a910cbb2c7eed56ef6dc92b3e01cbbdaacb1ba8fe9b472a047bc0877d2"
+  },
+  {
+    "path": "Cuneiform Translators/CuneiformTranslators-main/tools/corpi.py",
+    "bytes": 3849,
+    "mtime_utc": "2023-06-09T15:36:05+00:00",
+    "sha256": "bd89145115e0dc35fe81b62a1f736a6e9762f58713d83f8cfbe74bce31128352"
+  },
+  {
+    "path": "Cuneiform Translators/CuneiformTranslators-main/tools/languages.py",
+    "bytes": 12529,
+    "mtime_utc": "2023-06-09T15:36:05+00:00",
+    "sha256": "85b73bcb5d95420510453e85b15b0f81641ddb8c8305540bbe5f369e0db25bdd"
+  },
+  {
+    "path": "Cuneiform Translators/CuneiformTranslators-main/tools/oracc.py",
+    "bytes": 14995,
+    "mtime_utc": "2023-06-09T15:36:05+00:00",
+    "sha256": "e4a232d087e1b1a8972420fe7ecb59beddbd4f96452237a74233f468d6d59306"
+  },
+  {
+    "path": "gcode to touchdesigner/NewProject [conflicted].toe",
+    "bytes": 7106,
+    "mtime_utc": "2024-09-15T19:20:22+00:00",
+    "sha256": "fa6d3c7b465bdc7aa1eb93c18e311c85ba34c176f955689283a884a01b96c620"
+  },
+  {
+    "path": "gcode to touchdesigner/NewProject.5.toe",
+    "bytes": 7106,
+    "mtime_utc": "2024-09-15T19:20:22+00:00",
+    "sha256": "fa6d3c7b465bdc7aa1eb93c18e311c85ba34c176f955689283a884a01b96c620"
+  },
+  {
+    "path": "gcode to touchdesigner/NewProject.6.toe",
+    "bytes": 7162,
+    "mtime_utc": "2024-09-21T13:29:58+00:00",
+    "sha256": "87e3960853f7e8fa051f354f079d32b4cfec300c1e6c2451a559d93caf40f7d1"
+  },
+  {
+    "path": "gcode to touchdesigner/NewProject.toe",
+    "bytes": 7162,
+    "mtime_utc": "2024-09-21T13:29:58+00:00",
+    "sha256": "87e3960853f7e8fa051f354f079d32b4cfec300c1e6c2451a559d93caf40f7d1"
+  },
+  {
+    "path": "gcode to touchdesigner/Backup/NewProject.1.toe",
+    "bytes": 4986,
+    "mtime_utc": "2024-09-13T20:53:26+00:00",
+    "sha256": "fd62920aeae00b5f8e8a44fe5714239f3bcc83980b4695f14c395ed601032d59"
+  },
+  {
+    "path": "gcode to touchdesigner/Backup/NewProject.2.toe",
+    "bytes": 6218,
+    "mtime_utc": "2024-09-13T20:57:04+00:00",
+    "sha256": "e85fc3f9d67e5421325d9554406a9c756e4ef7234764b22c14f7480781c1a4c3"
+  },
+  {
+    "path": "gcode to touchdesigner/Backup/NewProject.3.toe",
+    "bytes": 6586,
+    "mtime_utc": "2024-09-13T21:27:00+00:00",
+    "sha256": "de57b2e9b1572696fc10dc5fc177c0f4d8558d3ff57f648102a67ceae3b2a5bc"
+  },
+  {
+    "path": "gcode to touchdesigner/Backup/NewProject.4.toe",
+    "bytes": 6850,
+    "mtime_utc": "2024-09-15T19:15:57+00:00",
+    "sha256": "4854a00deae7e3ea59d1ff690582b2837bade3744722abe5e7da7964b72a26fb"
+  },
+  {
+    "path": "gcode to touchdesigner/Backup/NewProject.5.toe",
+    "bytes": 7106,
+    "mtime_utc": "2024-09-15T19:20:22+00:00",
+    "sha256": "fa6d3c7b465bdc7aa1eb93c18e311c85ba34c176f955689283a884a01b96c620"
+  },
+  {
+    "path": "New arduino sketch/Drawing (conflicted).cpp",
+    "bytes": 10119,
+    "mtime_utc": "2024-09-22T20:47:14+00:00",
+    "sha256": "e81ab413ddb9980458152950ad3a08564f1bbbd72291b1a44d967f5fd4d394ef"
+  },
+  {
+    "path": "New arduino sketch/LaserShow (conflicted).ino",
+    "bytes": 11101,
+    "mtime_utc": "2024-09-22T09:12:31+00:00",
+    "sha256": "84a91fbbe750ee35ba1dfb69938b9d08443e571459f63b22a8c569cc8af47077"
+  },
+  {
+    "path": "New arduino sketch/LaserShow/Basics.cpp",
+    "bytes": 3326,
+    "mtime_utc": "2025-02-07T15:04:50+00:00",
+    "sha256": "fb420b06576a6c9f5481ee7f9e9d07c9258cdd37a8e99b09b444c992b83b9051"
+  },
+  {
+    "path": "New arduino sketch/LaserShow/Basics.h",
+    "bytes": 1018,
+    "mtime_utc": "2025-02-07T15:04:50+00:00",
+    "sha256": "cf6777e743191af19cdff158685a37ec0b7b3bbef22fc449332639b598bcadfc"
+  },
+  {
+    "path": "New arduino sketch/LaserShow/DAC_MCP4X.cpp",
+    "bytes": 9561,
+    "mtime_utc": "2025-02-07T15:04:50+00:00",
+    "sha256": "abb119f61a89bc7433919ca314d20a1148e7aca187927bdd4430a6b6364a3de1"
+  },
+  {
+    "path": "New arduino sketch/LaserShow/DAC_MCP4X.h",
+    "bytes": 4679,
+    "mtime_utc": "2025-02-07T15:04:50+00:00",
+    "sha256": "b2a6443a9c9f11e2ce9a4a62f9280a443bff94908594c02f5cc1304adee48768"
+  },
+  {
+    "path": "New arduino sketch/LaserShow/Drawing.cpp",
+    "bytes": 15879,
+    "mtime_utc": "2025-02-07T15:04:50+00:00",
+    "sha256": "8e624738fa38c68c39955a28203deac3af6f04b305001b66905a93d7be2be5b0"
+  },
+  {
+    "path": "New arduino sketch/LaserShow/Drawing.h",
+    "bytes": 2383,
+    "mtime_utc": "2025-02-07T15:04:50+00:00",
+    "sha256": "78999f29ead9915229ea4c7bc58a4933ac774d5028b20dfaf46893240cacab0d"
+  },
+  {
+    "path": "New arduino sketch/LaserShow/Font.h",
+    "bytes": 32863,
+    "mtime_utc": "2025-02-07T15:04:50+00:00",
+    "sha256": "10158fa6e178c5f28910a00d67517886a265d0d92b685a6973ed29bd100d9b42"
+  },
+  {
+    "path": "New arduino sketch/LaserShow/font_cascadia_mono.h",
+    "bytes": 32495,
+    "mtime_utc": "2025-02-07T15:04:50+00:00",
+    "sha256": "610f28b0c62af42be3c77e16acd5e061d802dac04e82293aac2955aa7d4b8288"
+  },
+  {
+    "path": "New arduino sketch/LaserShow/font_space_mono.h",
+    "bytes": 34159,
+    "mtime_utc": "2025-02-07T15:04:50+00:00",
+    "sha256": "57b38bb9c286d71bbe542a6cbe7a5f3e2b5d84652fa46862684e4a55de1eea9a"
+  },
+  {
+    "path": "New arduino sketch/LaserShow/Laser.cpp",
+    "bytes": 10653,
+    "mtime_utc": "2025-02-07T15:04:50+00:00",
+    "sha256": "cf83a4f4bf7d628d28b04119ed5133c1ffb732073c21afe0a17e29c68400d5e3"
+  },
+  {
+    "path": "New arduino sketch/LaserShow/Laser.h",
+    "bytes": 4048,
+    "mtime_utc": "2025-02-07T15:04:50+00:00",
+    "sha256": "f5a82416f7a114d13e9ba908248cc6c6fecd483139c38734fab501225a83faa8"
+  },
+  {
+    "path": "New arduino sketch/LaserShow/LaserShow.ino",
+    "bytes": 16337,
+    "mtime_utc": "2025-02-07T15:26:12+00:00",
+    "sha256": "ad43f409b3a0ed70f697ebd9e2892e204ee416c4cd7a9bb494a107c989235322"
+  },
+  {
+    "path": "New arduino sketch/LaserShow/NeopixelEncoderController.h",
+    "bytes": 5708,
+    "mtime_utc": "2025-02-07T15:04:50+00:00",
+    "sha256": "c3ce9826c3b4016cdc84a7e2151969b754fe2807a581bf2b0377efb8898a750b"
+  },
+  {
+    "path": "New arduino sketch/LaserShow/Objects.h",
+    "bytes": 7114,
+    "mtime_utc": "2025-02-07T15:04:50+00:00",
+    "sha256": "caf9856faeb220392a3b7853d566372e765adfff350e3440454f251d5d207012"
+  },
+  {
+    "path": "GCODEtoUnsigned/output_object.h",
+    "bytes": 13476,
+    "mtime_utc": "2024-09-22T15:05:38+00:00",
+    "sha256": "e6650040c8aebecc74907199495bc75b8eaaa9c33a87716cddc7b9e96354d466"
+  },
+  {
+    "path": "GCODEtoUnsigned/script.py",
+    "bytes": 2550,
+    "mtime_utc": "2024-09-22T14:28:52+00:00",
+    "sha256": "a3b3e187345916a14610ef4aab23540ec224b1a6f04fe4300d60ccf2f3049b92"
+  },
+  {
+    "path": "LAWS/Law Module.8.toe",
+    "bytes": 5906,
+    "mtime_utc": "2024-09-29T11:34:56+00:00",
+    "sha256": "c083e097a1bc4f8624b4d94dff405b3523d43b4bc52e281b9e87cb104a25057e"
+  },
+  {
+    "path": "LAWS/Law Module.toe",
+    "bytes": 5906,
+    "mtime_utc": "2024-09-29T11:34:56+00:00",
+    "sha256": "c083e097a1bc4f8624b4d94dff405b3523d43b4bc52e281b9e87cb104a25057e"
+  },
+  {
+    "path": "LAWS/law_module.tox",
+    "bytes": 2750,
+    "mtime_utc": "2024-09-29T11:35:07+00:00",
+    "sha256": "87337113b3b55a15166b99470c2d629a2225e3d4e86e7d372250b6bc5c9cf10a"
+  },
+  {
+    "path": "LAWS/Backup/Law Module.1.toe",
+    "bytes": 4634,
+    "mtime_utc": "2024-09-28T11:51:02+00:00",
+    "sha256": "22819a1fa969063fd6efac90f561baa7a8278ddbd30e9ca74c52bb2c5cd7a338"
+  },
+  {
+    "path": "LAWS/Backup/Law Module.2.toe",
+    "bytes": 4714,
+    "mtime_utc": "2024-09-28T11:53:51+00:00",
+    "sha256": "23a7315f23188d9f1e07abf6f0c1f76464633be38bf4cc25c58f1b7bc48e0c60"
+  },
+  {
+    "path": "LAWS/Backup/Law Module.3.toe",
+    "bytes": 634148,
+    "mtime_utc": "2024-09-28T12:05:31+00:00",
+    "sha256": "1142a448d85d1df27f2c74d9d04c1719b6846d6a79f79cb62d7d19053896b2f5"
+  },
+  {
+    "path": "LAWS/Backup/Law Module.4.toe",
+    "bytes": 1308302,
+    "mtime_utc": "2024-09-29T09:59:39+00:00",
+    "sha256": "473c29279af86e151e5f013d6960cb2913d087dafb0005b8024b5059495ae2d7"
+  },
+  {
+    "path": "LAWS/Backup/Law Module.5.toe",
+    "bytes": 1308830,
+    "mtime_utc": "2024-09-29T10:08:27+00:00",
+    "sha256": "f004b0e1f3e616417f454f8b7f8cfa9827e12509b02201836f6f1bce13035ac9"
+  },
+  {
+    "path": "LAWS/Backup/Law Module.6.toe",
+    "bytes": 883836,
+    "mtime_utc": "2024-09-29T10:50:34+00:00",
+    "sha256": "91cf89e8242d8ac27eb4e378bbc76dd825636b51ab9aab428e4e5a2202e142d9"
+  },
+  {
+    "path": "LAWS/Backup/Law Module.7.toe",
+    "bytes": 5922,
+    "mtime_utc": "2024-09-29T11:34:21+00:00",
+    "sha256": "2674f46233911427d45ae608fb8e861604e03c7ab29c9f78472c55bf93b16456"
+  },
+  {
+    "path": "old/touchdesigner sketch/example.toe",
+    "bytes": 4906,
+    "mtime_utc": "2024-09-02T14:01:36+00:00",
+    "sha256": "f062637576dae754b1df22a734f8d3c536a4aff8fd954797843e372b62778a7e"
+  },
+  {
+    "path": "old/touchdesigner sketch/font_tracer.tox",
+    "bytes": 18830,
+    "mtime_utc": "2024-09-24T18:08:48+00:00",
+    "sha256": "3712a06cacc71c47b9123b275025f3690ff465f9655d2692b6d20712977d920c"
+  },
+  {
+    "path": "old/touchdesigner sketch/NewProject.150.toe",
+    "bytes": 70762,
+    "mtime_utc": "2024-09-29T19:47:45+00:00",
+    "sha256": "6b802f0c67d865385955445dd93b54aec9406aca0e0fc555c883fb6798d04a4c"
+  },
+  {
+    "path": "old/touchdesigner sketch/NewProject.toe",
+    "bytes": 70762,
+    "mtime_utc": "2024-09-29T19:47:45+00:00",
+    "sha256": "6b802f0c67d865385955445dd93b54aec9406aca0e0fc555c883fb6798d04a4c"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.1.toe",
+    "bytes": 5074,
+    "mtime_utc": "2024-09-02T13:11:58+00:00",
+    "sha256": "555afbc17ea477711b0abb5c55751c23bcdc1d54a808a4337935ba17a8945c4d"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.10.toe",
+    "bytes": 7450,
+    "mtime_utc": "2024-09-04T09:11:53+00:00",
+    "sha256": "37df4dcccab920419a83542b50c6147faa33aa8670e77bf85d0018a4d75c6137"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.100.toe",
+    "bytes": 47586,
+    "mtime_utc": "2024-09-25T22:46:08+00:00",
+    "sha256": "c79097d418f7bc4b539ce3239f24353b9e63db4a5b59798eb619182bca01a131"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.101.toe",
+    "bytes": 47698,
+    "mtime_utc": "2024-09-25T22:49:11+00:00",
+    "sha256": "8c2da20caa108e8a729e08cd788e543de2e761ea0a1c3d65596a05c6d984fa44"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.102.toe",
+    "bytes": 47722,
+    "mtime_utc": "2024-09-25T22:54:25+00:00",
+    "sha256": "72ba245c62aabca08ab31aca81d077faa53dc31c922894fa2d52e03e63f47ea0"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.103.toe",
+    "bytes": 47682,
+    "mtime_utc": "2024-09-25T22:55:55+00:00",
+    "sha256": "859005b641141c79f0cec05e81f2706d5c185da06ab36c611c64e6f0de7fc67e"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.104.toe",
+    "bytes": 47650,
+    "mtime_utc": "2024-09-25T22:59:08+00:00",
+    "sha256": "65bc27f785a63efabb79047021d6e93d9927fab2c35d2cc1bc8fe56153228da2"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.105.toe",
+    "bytes": 48274,
+    "mtime_utc": "2024-09-25T23:17:54+00:00",
+    "sha256": "f25fa0f814736acfb6fc22e7da3227c276ab17118b1800bd46693b1e6b01939c"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.106.toe",
+    "bytes": 48282,
+    "mtime_utc": "2024-09-25T23:19:04+00:00",
+    "sha256": "01c3f85e27ce0aa69ff09a0dffa83dea4c6c80cbf0fe6007c71562cce9117978"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.107.toe",
+    "bytes": 50618,
+    "mtime_utc": "2024-09-26T08:39:23+00:00",
+    "sha256": "1e47f4c04c69d6aedcd0c8f782ba81dfd368fe4fe5fd2c56e923be2b0e78ff18"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.108.toe",
+    "bytes": 48066,
+    "mtime_utc": "2024-09-26T09:36:25+00:00",
+    "sha256": "fd54b2a2932f926cb64c28202f3bdca16f6e09aa8b39cf58be16223df6e070dc"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.109.toe",
+    "bytes": 48106,
+    "mtime_utc": "2024-09-26T11:38:10+00:00",
+    "sha256": "872660dee7a5a15cab1f2d0a0650550637b2d00b91c3472e0395f9a646962296"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.11.toe",
+    "bytes": 7514,
+    "mtime_utc": "2024-09-04T11:59:21+00:00",
+    "sha256": "5ed04054940f39ef0d89f3cc4d6c967fc4f6b1d67b606cb03805832bad1fcfa0"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.110.toe",
+    "bytes": 49554,
+    "mtime_utc": "2024-09-26T12:15:12+00:00",
+    "sha256": "6631e4c2f2637044773b9ab29ca3a7b29059734878b23f39a07ac18616d6d093"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.111.toe",
+    "bytes": 49506,
+    "mtime_utc": "2024-09-26T12:15:22+00:00",
+    "sha256": "ac550d74913535723ce4dc4ecb8204b7afd1b4dce72398520892162d0aa91e94"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.112.toe",
+    "bytes": 49514,
+    "mtime_utc": "2024-09-26T12:17:27+00:00",
+    "sha256": "73fb5a510b6b097e568e2b2d9354d1baab5f20972cd48218f21e9819dc2c7fed"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.113.toe",
+    "bytes": 807364,
+    "mtime_utc": "2024-09-27T16:31:38+00:00",
+    "sha256": "404e452b29224f8da2a57b902628d3efacad8dc73f0dd2a5eadc7052dc81a18d"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.114.toe",
+    "bytes": 6402932,
+    "mtime_utc": "2024-09-27T17:29:46+00:00",
+    "sha256": "a0bac271de19e3f17edf26500b600cb466607a1c937c14fef759b2d31613442d"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.115.toe",
+    "bytes": 50642,
+    "mtime_utc": "2024-09-27T17:48:45+00:00",
+    "sha256": "cbe34b257e87807d5553604d328824a0907807dbf6fba1e0c0b3b0e681347940"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.116.toe",
+    "bytes": 54242,
+    "mtime_utc": "2024-09-29T11:53:27+00:00",
+    "sha256": "431c8ce73fb17a352d4c095bd1473c605f9c3af36f0a8b85bc4e2e80971f0560"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.117.toe",
+    "bytes": 56314,
+    "mtime_utc": "2024-09-29T11:54:16+00:00",
+    "sha256": "f4c275f9bb20488c897753f53660dc3cf7ae4ff9e1753831d22c3a8cce931465"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.118.toe",
+    "bytes": 58186,
+    "mtime_utc": "2024-09-29T11:55:09+00:00",
+    "sha256": "9e578fc02c2f4dbc5a5d1fcfeccdbc43b564baaded93bc300960c522a193907b"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.119.toe",
+    "bytes": 58498,
+    "mtime_utc": "2024-09-29T11:56:50+00:00",
+    "sha256": "b5c0cdd7ab61984783e03dfc0e10fe81a093ded68a3fd0dfee8624af452760c0"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.12.toe",
+    "bytes": 13018,
+    "mtime_utc": "2024-09-04T12:32:45+00:00",
+    "sha256": "7370d4d717a7c9ba5955fb1a3fed423f15542be7f557cdb2c1d2c35d2b3fbcb4"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.120.toe",
+    "bytes": 58554,
+    "mtime_utc": "2024-09-29T12:01:15+00:00",
+    "sha256": "4b859bf62e4f92150232fdcee81f56ca34289685a87eb3fb11bf71f20e51f169"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.121.toe",
+    "bytes": 58538,
+    "mtime_utc": "2024-09-29T12:01:31+00:00",
+    "sha256": "575df82b7db3cd9d8eb998c35fbe97ddee547c0a00137ccb88b6e7f6eed176f0"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.122.toe",
+    "bytes": 58754,
+    "mtime_utc": "2024-09-29T12:04:03+00:00",
+    "sha256": "52fb0d6a84e57cc4ba61ff0cc5f812d8cf9ea9ccd0288ad92685bc9ac2027099"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.123.toe",
+    "bytes": 59874,
+    "mtime_utc": "2024-09-29T13:58:50+00:00",
+    "sha256": "577f2f7991d356ce381d853e16a20a37d725345e16b9f9816a5ccb171704cefc"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.124.toe",
+    "bytes": 59954,
+    "mtime_utc": "2024-09-29T14:00:07+00:00",
+    "sha256": "3267052ac0267357949de5cfc067bb14f5b885d83eaa4a953592b759e8b277e9"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.125.toe",
+    "bytes": 67810,
+    "mtime_utc": "2024-09-29T14:13:28+00:00",
+    "sha256": "3500486dc3d0844421f90f6c1878928ee5169c7e09c1be89a31729662025c48f"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.126.toe",
+    "bytes": 68834,
+    "mtime_utc": "2024-09-29T17:18:29+00:00",
+    "sha256": "11db5790888463633072dea82e06dbcae985bf8acd36c3dcbac9e45a9e0e5d66"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.127.toe",
+    "bytes": 69170,
+    "mtime_utc": "2024-09-29T17:22:41+00:00",
+    "sha256": "163ea6aa4723de4b6090332472f722c9ffb092385732029c782871621b2fbecc"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.128.toe",
+    "bytes": 68842,
+    "mtime_utc": "2024-09-29T17:40:22+00:00",
+    "sha256": "f60a4759fd555299db6b6b1630d3a03805637bd5617b6a5850d10a11c743f857"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.129.toe",
+    "bytes": 69090,
+    "mtime_utc": "2024-09-29T17:45:06+00:00",
+    "sha256": "cc730b7649a065df1c8c0e2564522c24210d10d1af6dcbce4163e91da763a7a5"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.13.toe",
+    "bytes": 13026,
+    "mtime_utc": "2024-09-04T12:34:01+00:00",
+    "sha256": "8b962d74fea7db458df04dd50012b4fb753b0c4de5adaf56ec96dcf9bd760e01"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.130.toe",
+    "bytes": 69130,
+    "mtime_utc": "2024-09-29T17:45:08+00:00",
+    "sha256": "01843d8abdfb3310bd2950ca9a161e643af8c2325f131c050ed5565e5f6db751"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.131.toe",
+    "bytes": 69730,
+    "mtime_utc": "2024-09-29T17:55:05+00:00",
+    "sha256": "975c74861a05cb43ae2e76370ee74d5a0b70e9191d034bbf2553c84df99a48fd"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.132.toe",
+    "bytes": 69674,
+    "mtime_utc": "2024-09-29T18:02:58+00:00",
+    "sha256": "6f153155439d6f233afbfd41684e1ca486450bbf18ee4961282cb021e83cb4fb"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.133.toe",
+    "bytes": 69546,
+    "mtime_utc": "2024-09-29T18:21:00+00:00",
+    "sha256": "e4117775ccdcfd3969263925bd1da8982bc8246afcb7445d192ff59776508648"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.134.toe",
+    "bytes": 69674,
+    "mtime_utc": "2024-09-29T18:27:20+00:00",
+    "sha256": "4772b5ce00c3c9e8202086487ea285244abf364c647dadcaf0af29beace04648"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.135.toe",
+    "bytes": 69658,
+    "mtime_utc": "2024-09-29T18:28:04+00:00",
+    "sha256": "e87d2e1ac0539d3d88d78d0d540d98d68cfdefe13bca654fa7285bff2a7dc7d9"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.136.toe",
+    "bytes": 69722,
+    "mtime_utc": "2024-09-29T18:28:26+00:00",
+    "sha256": "7e163044f3640f50724c38977c70f50d0cc7d71e327907d7d70d8255e88180cf"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.137.toe",
+    "bytes": 69586,
+    "mtime_utc": "2024-09-29T18:29:52+00:00",
+    "sha256": "8dbac99c71d677382225b67747ee55b03269eff43e2d35748a7f6f5f7422f1b3"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.138.toe",
+    "bytes": 69546,
+    "mtime_utc": "2024-09-29T18:40:08+00:00",
+    "sha256": "063370c8ae755fbd410e1dee749f129b5cb7bddb3e7bacac64bdf7ef7f58b126"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.139.toe",
+    "bytes": 70378,
+    "mtime_utc": "2024-09-29T18:50:43+00:00",
+    "sha256": "3f52b0780c77f32e142632e9cd8a6885bb7718405a61db642d5b0e39321cf744"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.14.toe",
+    "bytes": 9954,
+    "mtime_utc": "2024-09-04T12:35:20+00:00",
+    "sha256": "e531be3ef7139a0959b9957d36db085948e76b5e6e99bd10c8b2f61745e4c33f"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.140.toe",
+    "bytes": 70402,
+    "mtime_utc": "2024-09-29T18:52:32+00:00",
+    "sha256": "9416c920c5d68bad2be436ded4997879b3a1278e2b546c7e13587f295ac8daab"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.141.toe",
+    "bytes": 70386,
+    "mtime_utc": "2024-09-29T18:57:37+00:00",
+    "sha256": "40b93da91ceb549eb3ed8e28d538cbacef9bbed1e8e619bad3b0f80d949a5c7b"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.142.toe",
+    "bytes": 70346,
+    "mtime_utc": "2024-09-29T19:03:05+00:00",
+    "sha256": "d93351eb29c855cd074177210b776c23f8c46fb287b2e08f05f6c5a48f0f98b0"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.143.toe",
+    "bytes": 70330,
+    "mtime_utc": "2024-09-29T19:03:43+00:00",
+    "sha256": "3c296a36cb8d73d0ea3e2585986f01b57e20106b618669c7a77a0d9f6c55db4c"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.144.toe",
+    "bytes": 70354,
+    "mtime_utc": "2024-09-29T19:04:30+00:00",
+    "sha256": "d334a8775d8455afe01cd2cf78f187a49dc859305f5fc37fae39abad04e6d761"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.145.toe",
+    "bytes": 70610,
+    "mtime_utc": "2024-09-29T19:17:34+00:00",
+    "sha256": "29af4d19ccc900fd3515152684cb880777f27ec3d30a6c1477d918d68bdb85d5"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.146.toe",
+    "bytes": 70626,
+    "mtime_utc": "2024-09-29T19:25:09+00:00",
+    "sha256": "9a7526823002c0af8657402069730ed7dad02affc35cfd6fc21d3cf46bef35ce"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.147.toe",
+    "bytes": 70722,
+    "mtime_utc": "2024-09-29T19:35:10+00:00",
+    "sha256": "af6dc666659390c6baf54ca998794065c2c4d20aee5b6500be08e039ceb6017c"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.148.toe",
+    "bytes": 70730,
+    "mtime_utc": "2024-09-29T19:37:43+00:00",
+    "sha256": "ad2895ac83df183cb20e3c743e58ca7a487fb5b9d526708c35410f210688842a"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.149.toe",
+    "bytes": 70770,
+    "mtime_utc": "2024-09-29T19:38:37+00:00",
+    "sha256": "14b95ac37bae9b84fea68a09e5bee69eb3ad984bc6bcf540f3dcaaf2457743f2"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.15.toe",
+    "bytes": 13138,
+    "mtime_utc": "2024-09-04T12:55:25+00:00",
+    "sha256": "26ec0b3f470916b0209df166a32a5c0dc4ca28848f398c80dd06dfe3a6e41687"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.16.toe",
+    "bytes": 13106,
+    "mtime_utc": "2024-09-04T12:55:59+00:00",
+    "sha256": "6dce9e59a9f6a6d88abb6988a08913fc852a01f70151a8638c10ac3d934763ad"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.17.toe",
+    "bytes": 15626,
+    "mtime_utc": "2024-09-05T11:47:57+00:00",
+    "sha256": "7cc1aa7270e3ee932e15e76c6fc4cd971ad6d73f110c25f9594221c39c542c85"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.18.toe",
+    "bytes": 12002,
+    "mtime_utc": "2024-09-05T13:13:47+00:00",
+    "sha256": "d5b7b16f7b00cbf8fd4b50b8dabe35762d4c7950d9752ddf1b671186087fb336"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.19.toe",
+    "bytes": 12290,
+    "mtime_utc": "2024-09-22T15:41:45+00:00",
+    "sha256": "4619743af5b7a2c031610d8466edc51db44796b426266decb33784677bafb9da"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.2.toe",
+    "bytes": 5850,
+    "mtime_utc": "2024-09-02T14:00:33+00:00",
+    "sha256": "10fbe6eeeab73d9277c533e6469f1f0e942d9d797a9e135bda2977a1dda81232"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.20.toe",
+    "bytes": 12482,
+    "mtime_utc": "2024-09-22T15:45:46+00:00",
+    "sha256": "fe1ae5d9bc978c03577c01722f41e485a73875b344325b3c3de3b5aa2e4e8191"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.21.toe",
+    "bytes": 13706,
+    "mtime_utc": "2024-09-22T16:41:27+00:00",
+    "sha256": "eba3f3cf085e50e0001443b4bae47db0be4843781661d620d6c417583baaa784"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.22.toe",
+    "bytes": 13738,
+    "mtime_utc": "2024-09-22T16:43:57+00:00",
+    "sha256": "0961d7fb88c1bfe28e1f6891fc7f9feade92bda0aad94ac119c85f9d2cd073c4"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.23.toe",
+    "bytes": 14890,
+    "mtime_utc": "2024-09-22T17:14:12+00:00",
+    "sha256": "523f04feeafd6a917127d27696b609fcc2c2d657a0ec92c0d521a6443aa656b3"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.24.toe",
+    "bytes": 14922,
+    "mtime_utc": "2024-09-22T19:04:13+00:00",
+    "sha256": "d015995d336e1312b8e20e28bbff5b58bdc5a511fd1e9e1cdca7b1f576f97c43"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.25.toe",
+    "bytes": 14882,
+    "mtime_utc": "2024-09-22T19:04:46+00:00",
+    "sha256": "179ea9d412975dd1b159750662b13494583745c61bda8b6f7821d6c137199d4d"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.26.toe",
+    "bytes": 15410,
+    "mtime_utc": "2024-09-22T19:12:03+00:00",
+    "sha256": "1a4eda70f6d457fb1faec2bebcb3b08633f33166a34445f614b837d27e4d6e16"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.27.toe",
+    "bytes": 15434,
+    "mtime_utc": "2024-09-22T19:13:00+00:00",
+    "sha256": "5fae93314080e3b5a26a59e1e81d09845ae7551158a85158d2f718f2ce31d2d5"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.28.toe",
+    "bytes": 15402,
+    "mtime_utc": "2024-09-22T19:15:02+00:00",
+    "sha256": "3d22d7c50259e861de5eaf1c42ca96100cdbf73e22160328a77e408b860d1ac7"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.29.toe",
+    "bytes": 15434,
+    "mtime_utc": "2024-09-22T19:15:09+00:00",
+    "sha256": "2e03d2a2b4204a621ec1dab1271238acb51f207978cf632e5c67ee0aaee95217"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.3.toe",
+    "bytes": 5986,
+    "mtime_utc": "2024-09-02T14:06:03+00:00",
+    "sha256": "243bc247a135b2e4395b4cfdfafd80787566111496d27fceb6fcb530b2d2063f"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.30.toe",
+    "bytes": 15442,
+    "mtime_utc": "2024-09-22T19:19:09+00:00",
+    "sha256": "5c95ac5a099d266b647f5eac1403804f9128c8ad503bc81a2e2f42ca04dfa3e4"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.31.toe",
+    "bytes": 16594,
+    "mtime_utc": "2024-09-22T20:12:21+00:00",
+    "sha256": "b10293ebb8e06d13ea3b01226efec02b3d71844f3e55e7cb7d6734fd20216c6a"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.32.toe",
+    "bytes": 17514,
+    "mtime_utc": "2024-09-22T20:33:03+00:00",
+    "sha256": "e358924a019799942592aeac19c3683f3ff71a31f28ce24b06fd19a161117a37"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.33.toe",
+    "bytes": 17578,
+    "mtime_utc": "2024-09-22T21:19:57+00:00",
+    "sha256": "cb01496339b3c3f9868fcfe11faea5027514997c0772452fb41c666272aed1ce"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.34.toe",
+    "bytes": 19242,
+    "mtime_utc": "2024-09-22T21:38:16+00:00",
+    "sha256": "e912d0b56bb4ccf18ec49f9855171b0132bc465f4991d4c4dc3578a647b6674d"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.35.toe",
+    "bytes": 19226,
+    "mtime_utc": "2024-09-22T21:38:34+00:00",
+    "sha256": "7368a2cac2a282cc78ef8167e9660ac3e8da789248ba7eb05e2e192a44458feb"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.36.toe",
+    "bytes": 21738,
+    "mtime_utc": "2024-09-23T01:30:11+00:00",
+    "sha256": "b5495db6506699469e8ac81d44cae79d494f5343e4067e7743662ce106d3b31d"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.37.toe",
+    "bytes": 22610,
+    "mtime_utc": "2024-09-23T08:19:33+00:00",
+    "sha256": "b20c5be275168a8fe1748ba3355fb9de41a36e42a0dfa7686003558f275862a1"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.38.toe",
+    "bytes": 22866,
+    "mtime_utc": "2024-09-23T08:54:39+00:00",
+    "sha256": "2823c28dcb7bc007cc1c3864d9e4754eaf8ddae6b40a6318461114c866d81231"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.39.toe",
+    "bytes": 22906,
+    "mtime_utc": "2024-09-23T08:55:33+00:00",
+    "sha256": "8c13cd3971b5364cc751cbd1c995b760aef486c1330b3b244f2086e353e5dfc7"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.4.toe",
+    "bytes": 5986,
+    "mtime_utc": "2024-09-02T14:06:05+00:00",
+    "sha256": "3af30c97d47a9d27088510d3802112b12917e500e13af3664cc221050d3c5f53"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.40.toe",
+    "bytes": 22914,
+    "mtime_utc": "2024-09-23T09:05:20+00:00",
+    "sha256": "02d1af5d93996bc2db0bf4880cdfa7d7bb303ccd5f765ae8ae2166474d5bff9c"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.41.toe",
+    "bytes": 22970,
+    "mtime_utc": "2024-09-23T09:10:56+00:00",
+    "sha256": "baa5b5699eb5e3326f81a18c71b61f3b233329766ac42afe1fb093fef17e1254"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.42.toe",
+    "bytes": 23170,
+    "mtime_utc": "2024-09-23T09:18:03+00:00",
+    "sha256": "47581d16b5dca17ee0c1213f119623bb9225013502710ebde6209164b126a4d3"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.43.toe",
+    "bytes": 22810,
+    "mtime_utc": "2024-09-23T09:22:16+00:00",
+    "sha256": "91730b9b5b9a346459e3575f314bbc19bdc1fb6077deea696321a7363f6e3044"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.44.toe",
+    "bytes": 23002,
+    "mtime_utc": "2024-09-23T09:28:26+00:00",
+    "sha256": "1718e4cf560357cf5fb8cc4ca945cf5ce46fa06a023aca7f342be73b0453cc1c"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.45.toe",
+    "bytes": 23154,
+    "mtime_utc": "2024-09-23T09:38:57+00:00",
+    "sha256": "4f4afb2a4c505fa49cf990cc6ca9b6d2f1d3980e97112b816a638aa8bfc40727"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.46.toe",
+    "bytes": 23226,
+    "mtime_utc": "2024-09-23T09:46:01+00:00",
+    "sha256": "af2f80a39896099c72ee74d1b130194b058ad086762d19f8f3d89eb8a1080e45"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.47.toe",
+    "bytes": 22994,
+    "mtime_utc": "2024-09-23T09:55:36+00:00",
+    "sha256": "cc45645b50162846ab3baf82712d694d413ca25c8dc5342c2a02f4a6f043696c"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.48.toe",
+    "bytes": 23034,
+    "mtime_utc": "2024-09-23T09:58:16+00:00",
+    "sha256": "85067440b9200bfa07b5627853a53cd071efea1bc31457429f4a068445da27df"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.49.toe",
+    "bytes": 22922,
+    "mtime_utc": "2024-09-23T10:14:42+00:00",
+    "sha256": "cdf6547bc3d89302243639ad098156c8932ad21d5e2d2a4a8720d53af6a292b8"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.5.toe",
+    "bytes": 6138,
+    "mtime_utc": "2024-09-02T14:31:37+00:00",
+    "sha256": "bcc8440b2f310afd721874ede5b10d9160bbc6772ded27563ff40cefbd9200de"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.50.toe",
+    "bytes": 22930,
+    "mtime_utc": "2024-09-23T10:14:45+00:00",
+    "sha256": "acaf31a6756013e54918e282da808f3cb1e55a3b738194029c85e1940ed7340a"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.51.toe",
+    "bytes": 22978,
+    "mtime_utc": "2024-09-24T08:16:50+00:00",
+    "sha256": "34a4b7a48ea910dfceaf5d4f6e0b83db3efd51c1f7755dea6851159e5b49d697"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.52.toe",
+    "bytes": 22986,
+    "mtime_utc": "2024-09-24T08:24:39+00:00",
+    "sha256": "8f39b6c107df2242b8ca55631e70ac70bbbf59afa6b8515f846700563ac3ee68"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.53.toe",
+    "bytes": 23570,
+    "mtime_utc": "2024-09-24T08:31:34+00:00",
+    "sha256": "609ebde3ce9ebbbc4ac4fb18e9987fbb35056d46e78467af149c0eb432362417"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.54.toe",
+    "bytes": 23714,
+    "mtime_utc": "2024-09-24T08:34:01+00:00",
+    "sha256": "e710b9f6aebade8a88aa99eb3314c095c6815651b9e5c597fc75bbee1b6453f6"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.55.toe",
+    "bytes": 23914,
+    "mtime_utc": "2024-09-24T08:57:49+00:00",
+    "sha256": "426cb9b588888708c7de9d11bc870091a8652d75af08ae88d0a4ab043ca68dcd"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.56.toe",
+    "bytes": 23714,
+    "mtime_utc": "2024-09-24T09:26:58+00:00",
+    "sha256": "86b61c1128db1c7a894ef009389b5403728afb56b02ddffe8f92bed7f34a8b9b"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.57.toe",
+    "bytes": 23946,
+    "mtime_utc": "2024-09-24T09:52:14+00:00",
+    "sha256": "c5051fda0283a8ef6da9807b2dfb76fd58c525567193932ff0ba4b5bb4a0d671"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.58.toe",
+    "bytes": 24218,
+    "mtime_utc": "2024-09-24T10:16:37+00:00",
+    "sha256": "2b191f867257401184f97878bc779f1a6f61b1e0db98cc9e1469951003453f2c"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.59.toe",
+    "bytes": 25554,
+    "mtime_utc": "2024-09-24T17:35:27+00:00",
+    "sha256": "8fc75ec6494c6da560b22597ff4efa100b027730fd1f18a1d5aadccf7c4d92c6"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.6.toe",
+    "bytes": 6146,
+    "mtime_utc": "2024-09-02T15:06:06+00:00",
+    "sha256": "5b8daa1f8dc715f29686909d8fb44ee42bee975dc899353d62631d674bdb0cde"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.60.toe",
+    "bytes": 28634,
+    "mtime_utc": "2024-09-24T17:43:30+00:00",
+    "sha256": "7dd38e2eb56d4ec7b136f68a15760921b47664f8769bd93e724155a781dea3fc"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.61.toe",
+    "bytes": 29298,
+    "mtime_utc": "2024-09-24T17:45:49+00:00",
+    "sha256": "2766208cde0b7a04bfa7f6eb98eb5da563c36105f10cef5bbf1159417ab453aa"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.62.toe",
+    "bytes": 33954,
+    "mtime_utc": "2024-09-24T17:49:44+00:00",
+    "sha256": "970eb31754eaa3b53be253e5b049a464eac10a1a1130158e356a4ae0c85ccd4d"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.63.toe",
+    "bytes": 34290,
+    "mtime_utc": "2024-09-24T17:55:40+00:00",
+    "sha256": "fcd7a14a5222ffd1f49969ca312d1380753bd455cf12bb92ca9e52897028eae3"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.64.toe",
+    "bytes": 35858,
+    "mtime_utc": "2024-09-24T17:57:54+00:00",
+    "sha256": "58b350cd7a713b4b28dda690b8b853138537d0811c286d7ff19f8bf6bedfa36b"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.65.toe",
+    "bytes": 35842,
+    "mtime_utc": "2024-09-24T17:59:38+00:00",
+    "sha256": "017d6f21676044e42209264880f58c7cb3c9c4d5ed645d47f828fdb5b79d06a3"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.66.toe",
+    "bytes": 42306,
+    "mtime_utc": "2024-09-24T18:06:47+00:00",
+    "sha256": "cce653fbbe01d408651228550da5e1bdd4b9f6bbb883b34e953500172b2de609"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.67.toe",
+    "bytes": 42754,
+    "mtime_utc": "2024-09-24T18:07:19+00:00",
+    "sha256": "ba38b2af852073d9cf0ca8d647e12ff558fa11e7b5d29167573d1df1c781fe08"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.68.toe",
+    "bytes": 42738,
+    "mtime_utc": "2024-09-24T18:07:38+00:00",
+    "sha256": "1e8edcb4466828aabd9fbb05ced0528893ca548097e0fdc54fced91300bdeac2"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.69.toe",
+    "bytes": 43338,
+    "mtime_utc": "2024-09-24T18:17:11+00:00",
+    "sha256": "0259f403b4c57ae41bb0e3a9c159832e035753f2a03a9585dcaed1725f4fa250"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.7.toe",
+    "bytes": 6586,
+    "mtime_utc": "2024-09-02T15:21:39+00:00",
+    "sha256": "4cf3773d5a4fccb22ade01ad7c67e30df2a531af29e5a290bd406568454306a2"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.70.toe",
+    "bytes": 43346,
+    "mtime_utc": "2024-09-24T18:17:35+00:00",
+    "sha256": "547bbcb439aa44fc24118e44e1e7885c107fbac3c1550c23823d9b88aa4275dd"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.71.toe",
+    "bytes": 36682,
+    "mtime_utc": "2024-09-24T18:17:55+00:00",
+    "sha256": "cde09c2abfaad164c786c1bf5060d1a2f70fcdb67387e31af82f28cf1d7ba90c"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.72.toe",
+    "bytes": 36706,
+    "mtime_utc": "2024-09-24T18:18:43+00:00",
+    "sha256": "381d1ee6ff76313c52a1ddb9453264d5e773a1633f5820a15e9527b01a09bda1"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.73.toe",
+    "bytes": 36986,
+    "mtime_utc": "2024-09-24T18:19:32+00:00",
+    "sha256": "8173123b820988a902e7cdf3e4a43b8add950cc736bb617faa17399d331e784b"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.74.toe",
+    "bytes": 37010,
+    "mtime_utc": "2024-09-24T18:20:52+00:00",
+    "sha256": "a4987db76fb34dd87e120a58b414f52aee23ef49d0e5416cb40e5070b8bebf30"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.75.toe",
+    "bytes": 37058,
+    "mtime_utc": "2024-09-24T18:21:57+00:00",
+    "sha256": "a073cc2447f2019b7633677c3fc98bee5f15ac88f0c43f1b75d8cfd1ff73581d"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.76.toe",
+    "bytes": 46114,
+    "mtime_utc": "2024-09-24T18:22:35+00:00",
+    "sha256": "9e9539138ed8963a71b967b1eb15b4dedc012aca9e6c023239db2e4da4f6e720"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.77.toe",
+    "bytes": 46090,
+    "mtime_utc": "2024-09-24T18:23:06+00:00",
+    "sha256": "f322f38199446d991b37b591daee5ec8f5a6b4b3d959a92dd5e44d307722a051"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.78.toe",
+    "bytes": 40570,
+    "mtime_utc": "2024-09-24T19:17:03+00:00",
+    "sha256": "a509c8655322e6b7fa4f73e3f12e6e618e7012bc9df20c6b4f7aa8b6b8050976"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.79.toe",
+    "bytes": 41858,
+    "mtime_utc": "2024-09-24T19:55:37+00:00",
+    "sha256": "74e181f1c2402102f8ae44e00b838ff2a4e5f4985c3cdd2041f5e9a81049d904"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.8.toe",
+    "bytes": 6794,
+    "mtime_utc": "2024-09-02T15:35:10+00:00",
+    "sha256": "94410b65e1ccca35fb2f7a9983c0bef4cc5da400c7574abf4451a5b8478f2bcf"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.80.toe",
+    "bytes": 41850,
+    "mtime_utc": "2024-09-24T20:10:30+00:00",
+    "sha256": "ce86517eb5fb80ddea5fb8966eb93bfaf6a3fb58bbfe6e8198d56ae00b11d51e"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.81.toe",
+    "bytes": 41850,
+    "mtime_utc": "2024-09-24T20:17:37+00:00",
+    "sha256": "41ef8c695db564616c0d2f9f7eafe0071f60bf846230b3c409144fdcb5387ecc"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.82.toe",
+    "bytes": 42074,
+    "mtime_utc": "2024-09-24T20:30:23+00:00",
+    "sha256": "199038667fcc3a45811b692687af29dad3d849a882a56cb852a744a2c3ffd90b"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.83.toe",
+    "bytes": 42210,
+    "mtime_utc": "2024-09-24T20:32:34+00:00",
+    "sha256": "157c6e72ec8f4f1e9cc104343baa5f319d767aa67756421b720133750f094141"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.84.toe",
+    "bytes": 43442,
+    "mtime_utc": "2024-09-24T22:54:22+00:00",
+    "sha256": "3d2eeb349d7737ef449cd761942a785ac3a1f138ed870d2b2191d25ce824a685"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.85.toe",
+    "bytes": 43746,
+    "mtime_utc": "2024-09-24T23:30:15+00:00",
+    "sha256": "c130ab02694489da7015e452c20fa1db900d278366c41d4f18525ad56e8cd131"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.86.toe",
+    "bytes": 43818,
+    "mtime_utc": "2024-09-24T23:55:26+00:00",
+    "sha256": "ef72d0bbdb3c75b7fa3b1bbe75eae0d314d5c56ba9b9a2e36220eac29c55a6d2"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.87.toe",
+    "bytes": 43818,
+    "mtime_utc": "2024-09-25T00:04:09+00:00",
+    "sha256": "440f826f58ac79dae41e1e24599233839bfcfa6f43bba294c6a2e8c736474b48"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.88.toe",
+    "bytes": 43946,
+    "mtime_utc": "2024-09-25T00:07:41+00:00",
+    "sha256": "e6ec0f2755a1ccb2600aaaad2741b5b95e9d7c91591a2cb167959d3e373e3c59"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.89.toe",
+    "bytes": 43994,
+    "mtime_utc": "2024-09-25T00:09:35+00:00",
+    "sha256": "6e152e2db2de38c5ca179a151c2d617396f9f8e51010f37e5a7f497a4c8571ae"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.9.toe",
+    "bytes": 7642,
+    "mtime_utc": "2024-09-02T17:29:44+00:00",
+    "sha256": "9dafbd831ea416bdbcb334550628fd05c7f2805fa4426a03f1331168d86aecc2"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.90.toe",
+    "bytes": 44010,
+    "mtime_utc": "2024-09-25T00:09:56+00:00",
+    "sha256": "50fa95f368bddacfdb590a6eb8104ecaca3ebcfc2e8733f9b8f99e8403f63033"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.91.toe",
+    "bytes": 44130,
+    "mtime_utc": "2024-09-25T00:21:55+00:00",
+    "sha256": "90e705aa0ca250c7ac04b5bc5ff9bcf1b91028ef663e53dd51664a24784e7c85"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.92.toe",
+    "bytes": 44322,
+    "mtime_utc": "2024-09-25T00:22:51+00:00",
+    "sha256": "f69e48bbd50294bb3f939f6a1271b14a41c5852ff116905e0ce1c8163726ca26"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.93.toe",
+    "bytes": 46810,
+    "mtime_utc": "2024-09-25T01:22:20+00:00",
+    "sha256": "65df6e1fa20124891a7bafd8fc267416a6e4d237327591f586350b53a93b2cf0"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.94.toe",
+    "bytes": 46874,
+    "mtime_utc": "2024-09-25T01:33:11+00:00",
+    "sha256": "324c9dba2edcbaef2e90b38ef7f0787c40d6aa95f752cbdc9a827cbf8ace3676"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.95.toe",
+    "bytes": 47162,
+    "mtime_utc": "2024-09-25T01:39:39+00:00",
+    "sha256": "5b4a083b64f94493c8c302a6ef7f744f01c35cebdce92e37bb118eca74011a9c"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.96.toe",
+    "bytes": 46938,
+    "mtime_utc": "2024-09-25T19:48:44+00:00",
+    "sha256": "064e4568b30dbe83ea2f385a1ab37657315a2d64e347b464786ba86d9ce060f5"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.97.toe",
+    "bytes": 46986,
+    "mtime_utc": "2024-09-25T20:47:51+00:00",
+    "sha256": "b179ea11361aa9531e4167f3e8c9c2386899c5e8193f407e99cdf8a28e9294f6"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.98.toe",
+    "bytes": 46634,
+    "mtime_utc": "2024-09-25T20:56:10+00:00",
+    "sha256": "d1dcdc207d364da7c5936d445cd895d5939711dbf093f2b19e176152c78a93fd"
+  },
+  {
+    "path": "old/touchdesigner sketch/Backup/NewProject.99.toe",
+    "bytes": 46666,
+    "mtime_utc": "2024-09-25T20:57:13+00:00",
+    "sha256": "ed178ccac0c62721003ee5fb1cd22aa430116b0ceec7c747676f292fe9e8a54c"
+  },
+  {
+    "path": "Backup/NewProject.158.toe",
+    "bytes": 71762,
+    "mtime_utc": "2024-09-30T17:10:04+00:00",
+    "sha256": "3241d6629d908044650afccbf07232285c2c9599eaa8fbb54b1783a6a8712211"
+  },
+  {
+    "path": "Backup/NewProject.159.toe",
+    "bytes": 69114,
+    "mtime_utc": "2024-09-30T18:43:00+00:00",
+    "sha256": "9d2a5824073f9a1cfdf39f26cbc4d14ec59b93e55626a2b7c822790b3f1d34f0"
+  },
+  {
+    "path": "Backup/NewProject.160.toe",
+    "bytes": 74482,
+    "mtime_utc": "2024-09-30T19:06:20+00:00",
+    "sha256": "34f2fc84aec31190f3af7f394875fd2cc8c56611cc06785175e78617b506d4c5"
+  },
+  {
+    "path": "Backup/NewProject.161.toe",
+    "bytes": 76082,
+    "mtime_utc": "2024-09-30T19:07:14+00:00",
+    "sha256": "e15006af9494b06dcf8aa006cb9d805cf246d9783dfbd993cc7fbee3d5110fc5"
+  },
+  {
+    "path": "Backup/NewProject.162.toe",
+    "bytes": 76274,
+    "mtime_utc": "2024-09-30T19:10:53+00:00",
+    "sha256": "23ed68accc7d8fe79c972abd861cb198ec7a850b9f21c9ad606fe1aceae7f21b"
+  },
+  {
+    "path": "Backup/NewProject.163.toe",
+    "bytes": 74530,
+    "mtime_utc": "2024-09-30T19:18:57+00:00",
+    "sha256": "597229e4470d3b1ea39d91c0d246f4a061c3479fbca3bd7a560480485f81cfc2"
+  },
+  {
+    "path": "Backup/NewProject.164.toe",
+    "bytes": 74618,
+    "mtime_utc": "2024-09-30T19:20:50+00:00",
+    "sha256": "73fe5235f93ef535f9ff134784fec1b7221d74194f5df08f555cdbc6127666e2"
+  },
+  {
+    "path": "Backup/NewProject.165.toe",
+    "bytes": 75338,
+    "mtime_utc": "2024-09-30T19:27:01+00:00",
+    "sha256": "35f7ead06b0ce600b8afa916bbc70c30787f0b10f8c5ab9c487681c2ce4fe544"
+  },
+  {
+    "path": "Backup/NewProject.166.toe",
+    "bytes": 75442,
+    "mtime_utc": "2024-09-30T19:28:02+00:00",
+    "sha256": "eb224f2918114d754305957e2acd9e7e03928e7c7f8165276663b2698d582335"
+  },
+  {
+    "path": "Backup/NewProject.167.toe",
+    "bytes": 75498,
+    "mtime_utc": "2024-09-30T19:57:53+00:00",
+    "sha256": "74c07f0ad08e045a3c2f3cf21b96ec32eaa11a1e7dc55c7a1e9204c2fd1f7a58"
+  },
+  {
+    "path": "Backup/NewProject.168.toe",
+    "bytes": 79794,
+    "mtime_utc": "2024-10-01T08:43:47+00:00",
+    "sha256": "b2a726e1db28019b902586e010336431e60d5bf593d0f6d1374e26b37687c86a"
+  },
+  {
+    "path": "Backup/NewProject.169.toe",
+    "bytes": 80154,
+    "mtime_utc": "2024-10-01T08:47:32+00:00",
+    "sha256": "94184dd8e17954cb105834cd8c6d6d5f949760cfb26e7d7dbdcec28946c600ac"
+  },
+  {
+    "path": "Backup/NewProject.170.toe",
+    "bytes": 80298,
+    "mtime_utc": "2024-10-01T08:50:03+00:00",
+    "sha256": "e4b156a55d8da8f4f5ddae6a7f1202256ef9680bf2465dd9a7362a0d6d4829f4"
+  },
+  {
+    "path": "Backup/NewProject.171.toe",
+    "bytes": 79882,
+    "mtime_utc": "2024-10-01T09:01:48+00:00",
+    "sha256": "908529e3b9b4c0e0b549c76769c99ca46124949e261c0de7441f56a33d41f82c"
+  },
+  {
+    "path": "Backup/NewProject.172.toe",
+    "bytes": 79938,
+    "mtime_utc": "2024-10-01T09:03:04+00:00",
+    "sha256": "9f3d42c24601d8a15fc63e7a1faac7a6f4d3b31c51e9ca30656b19415c9b6440"
+  },
+  {
+    "path": "Backup/NewProject.173.toe",
+    "bytes": 79922,
+    "mtime_utc": "2024-10-01T10:29:03+00:00",
+    "sha256": "d1b3dae41b614fa387ee34e0e4fbe44cd9a66f9acf304dc09fb224eea469ba0b"
+  },
+  {
+    "path": "Backup/NewProject.174.toe",
+    "bytes": 76666,
+    "mtime_utc": "2024-10-01T12:22:07+00:00",
+    "sha256": "ee7037c0e1c823698746512efbf530ed09d6f2b0b3b488934dcc398f9ca105eb"
+  },
+  {
+    "path": "Backup/NewProject.175.toe",
+    "bytes": 76890,
+    "mtime_utc": "2024-10-01T12:51:21+00:00",
+    "sha256": "85025b353f6a5185438dc6013dcb463c36bde518bb8e383cbe8e99b885fa0f01"
+  },
+  {
+    "path": "Backup/NewProject.176.toe",
+    "bytes": 76370,
+    "mtime_utc": "2024-10-01T13:12:18+00:00",
+    "sha256": "b50e3ab1168cdfcd247beab01a5c44b3d90ecbf31bf4981471126e60cff07c87"
+  },
+  {
+    "path": "Backup/NewProject.177.toe",
+    "bytes": 76698,
+    "mtime_utc": "2024-10-01T13:53:11+00:00",
+    "sha256": "4e13d8e1e45c8a0ca824bbd45e0491de4f03d2980fab87515e35a6d883138daf"
+  },
+  {
+    "path": "Backup/NewProject.178.toe",
+    "bytes": 76978,
+    "mtime_utc": "2024-10-01T14:04:10+00:00",
+    "sha256": "dcb6fe187b4ebe7676d04603aa0ccecf0c310aac68394cd19a87824d5526d747"
+  },
+  {
+    "path": "Backup/NewProject.179.toe",
+    "bytes": 76994,
+    "mtime_utc": "2024-10-01T14:05:38+00:00",
+    "sha256": "6415dcc2014fbfb864dfcafc6376dc8e37059af5c846c1fecdddac87dc791db3"
+  },
+  {
+    "path": "Backup/NewProject.180.toe",
+    "bytes": 76850,
+    "mtime_utc": "2024-10-01T14:16:31+00:00",
+    "sha256": "87c79d6d31108ed1a04512b5ac5467e4d82a9a5de114d171a0ecbda89bb5a76f"
+  },
+  {
+    "path": "Backup/NewProject.181.toe",
+    "bytes": 76970,
+    "mtime_utc": "2024-10-01T14:30:54+00:00",
+    "sha256": "bb29dde8075d11991c8281f2f43e15f290a0ca0a0da9b48a1870271855145ee5"
+  },
+  {
+    "path": "Backup/NewProject.182.toe",
+    "bytes": 77706,
+    "mtime_utc": "2024-10-01T14:58:31+00:00",
+    "sha256": "87d20153a243f3d8edb88e302903b59a07d4ae8b036f53e0df719e5e1c6e6bd7"
+  },
+  {
+    "path": "Backup/NewProject.183.toe",
+    "bytes": 78042,
+    "mtime_utc": "2024-10-01T15:20:45+00:00",
+    "sha256": "3229f1e165aaad23f35e5198a15fd5d1ed74b8f258f7f9eb1fbff406ee1f6bc9"
+  },
+  {
+    "path": "Backup/NewProject.184.toe",
+    "bytes": 78674,
+    "mtime_utc": "2024-10-01T15:26:42+00:00",
+    "sha256": "6f4dc75f1a57e0a76c4e9487f32adcb2b10eae2bc2e614357a49e7258d3c7497"
+  },
+  {
+    "path": "Backup/NewProject.185.toe",
+    "bytes": 82386,
+    "mtime_utc": "2025-02-07T15:46:57+00:00",
+    "sha256": "a2b3ac2f74ff1dd8285459ab6f88f6acd1c82c8033291cd9d5846187a522b3bd"
+  },
+  {
+    "path": "Backup/NewProject.186.toe",
+    "bytes": 82290,
+    "mtime_utc": "2025-02-07T17:58:28+00:00",
+    "sha256": "8fce0a423cc0658a8ca4c7ff7185871f381225f9ca1e09ff9271b16abceed55b"
+  },
+  {
+    "path": "Backup/NewProject.187.toe",
+    "bytes": 82930,
+    "mtime_utc": "2025-02-13T21:34:16+00:00",
+    "sha256": "b19f98f99c78d7f760ba07dcebed745a30b9d8be7b3a56940ec65145eade6cb8"
+  },
+  {
+    "path": "Backup/NewProject.188.toe",
+    "bytes": 82930,
+    "mtime_utc": "2025-02-13T21:34:29+00:00",
+    "sha256": "ee6c266f04f8eb00ad7eb3e107e14be028bc83056cb8da6a585c3e03d4a36fc3"
+  },
+  {
+    "path": "Backup/NewProject.189.toe",
+    "bytes": 82930,
+    "mtime_utc": "2025-02-13T21:34:43+00:00",
+    "sha256": "882f46c644b6e0c55c938f7ed1f1ca42e18a26e9a8c2d05135f8c4d972cc3309"
+  },
+  {
+    "path": "Backup/NewProject.190.toe",
+    "bytes": 82922,
+    "mtime_utc": "2025-02-13T21:34:53+00:00",
+    "sha256": "13059d3d8f0192ff12384f32f8368df76a2ad01da339a38e805610fd13d9b5eb"
+  },
+  {
+    "path": "Backup/NewProject.191.toe",
+    "bytes": 165402,
+    "mtime_utc": "2025-02-13T21:58:34+00:00",
+    "sha256": "37a327c359924780ad0af8ded35415298a00231168667a07f301ee43a9dd71fe"
+  },
+  {
+    "path": "Backup/NewProject.192.toe",
+    "bytes": 165346,
+    "mtime_utc": "2025-02-13T22:04:31+00:00",
+    "sha256": "dce64268b055cea3a8753d90e957454bdb6fda1bd9b44b84a64e60d14de55083"
+  },
+  {
+    "path": "Backup/NewProject.193.toe",
+    "bytes": 106882,
+    "mtime_utc": "2025-02-13T22:06:58+00:00",
+    "sha256": "30c1beac378da144dc97c9631923b75bed244867a9ce4f19689c41cab4983c72"
+  },
+  {
+    "path": "Backup/NewProject.194.toe",
+    "bytes": 107058,
+    "mtime_utc": "2025-02-13T22:08:19+00:00",
+    "sha256": "455de02b88e19b7f5a9aa9a2b1325f9b18f04f980fc12ebb23857af8a6525aba"
+  },
+  {
+    "path": "Backup/NewProject.195.toe",
+    "bytes": 107042,
+    "mtime_utc": "2025-02-13T22:14:28+00:00",
+    "sha256": "c97b38c563388a85fd9d8b37e1e08d55abf4a0dc9f8d01109f6a228582ef88fc"
+  },
+  {
+    "path": "Backup/NewProject.196.toe",
+    "bytes": 107074,
+    "mtime_utc": "2025-02-13T22:16:37+00:00",
+    "sha256": "74acd414c9bd86645943fe65404802bf37256c65996cf0aba69adb486592618e"
+  },
+  {
+    "path": "Backup/NewProject.197.toe",
+    "bytes": 140170,
+    "mtime_utc": "2025-02-13T22:22:20+00:00",
+    "sha256": "17c4d659f6660d02bae122e8c71532f9b9ff1617819c77d0718433937c94c6b2"
+  },
+  {
+    "path": "Backup/NewProject.198.toe",
+    "bytes": 140202,
+    "mtime_utc": "2025-02-13T22:22:43+00:00",
+    "sha256": "eeb4fba1ac73e4d1efc112d80731f24d8d9d86c850df85e5921d197b37a8d9ae"
+  },
+  {
+    "path": "Backup/NewProject.199.toe",
+    "bytes": 122442,
+    "mtime_utc": "2025-02-13T22:26:18+00:00",
+    "sha256": "f975f9bd5b83ae6d7c83403db10a71a2f5e58fa39a1dfeb7290d9aa6c71a6a9c"
+  },
+  {
+    "path": "Backup/NewProject.200.toe",
+    "bytes": 130922,
+    "mtime_utc": "2025-02-13T22:33:39+00:00",
+    "sha256": "50dd3c7684bb43e4eb73ca86bd0a65a46dfc7e157ff0f73160c5e15ff4fde732"
+  },
+  {
+    "path": "Backup/NewProject.201.toe",
+    "bytes": 147058,
+    "mtime_utc": "2025-02-13T23:29:05+00:00",
+    "sha256": "6866dac64c5826c58e0830858f60064f3a878f026f3741a38286b17128664bf3"
+  },
+  {
+    "path": "Backup/NewProject.202.toe",
+    "bytes": 151834,
+    "mtime_utc": "2025-02-13T23:36:05+00:00",
+    "sha256": "6fc1f679c5e79119a9e9cc926c77952e5e7cbfeb490bc1831f514858b3dedfd4"
+  },
+  {
+    "path": "Backup/Sutum alteration tests.1.toe",
+    "bytes": 88314,
+    "mtime_utc": "2025-02-14T09:10:50+00:00",
+    "sha256": "dc289bba0a7bfaa0453ae14fc36cf84e36652621b9b2f8be36c78d4595a1b792"
+  },
+  {
+    "path": "Version 2025/Sutum2025.77.toe",
+    "bytes": 356092,
+    "mtime_utc": "2025-03-13T01:35:49+00:00",
+    "sha256": "07e2430768affec84fa49bcbe68854cee1ce002884c776c359b81c95cb5baad0"
+  },
+  {
+    "path": "Version 2025/Sutum2025.toe",
+    "bytes": 356092,
+    "mtime_utc": "2025-03-13T01:35:49+00:00",
+    "sha256": "07e2430768affec84fa49bcbe68854cee1ce002884c776c359b81c95cb5baad0"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/LaserShow/Basics.cpp",
+    "bytes": 3417,
+    "mtime_utc": "2025-02-25T18:11:05+00:00",
+    "sha256": "9527c511e68a9214e0c5a2bd1fc03181e86da00207d476e0a8119f7fcbdc61d3"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/LaserShow/Basics.h",
+    "bytes": 1054,
+    "mtime_utc": "2025-02-25T18:11:05+00:00",
+    "sha256": "72661439fe79dfc27b935acd64a97e9ad7aa2a2903a737ad271b18fc17ba79bb"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/LaserShow/CommandParser.cpp",
+    "bytes": 5964,
+    "mtime_utc": "2025-02-25T18:11:05+00:00",
+    "sha256": "d54f8330f85fe843a002e76e249d863c82a74a0982ea6c0bc3543e8d234788b2"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/LaserShow/CommandParser.h",
+    "bytes": 686,
+    "mtime_utc": "2025-02-25T18:11:05+00:00",
+    "sha256": "f20f156cc4efda3110949b0897ff310274b69a83936a30997dd6b25f50afe86c"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/LaserShow/DAC_MCP4X.cpp",
+    "bytes": 9865,
+    "mtime_utc": "2025-02-25T18:11:05+00:00",
+    "sha256": "cb25b68239e53cffac2d76d46bbf51561b0be34dd372e4e1810fbd70b9414929"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/LaserShow/DAC_MCP4X.h",
+    "bytes": 4823,
+    "mtime_utc": "2025-02-25T18:11:05+00:00",
+    "sha256": "4f9d1d0d4953ae3c16e114d3c590fc1d2000377da6b44d12dcbabbc8a0be15c4"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/LaserShow/Drawing.cpp",
+    "bytes": 16754,
+    "mtime_utc": "2025-02-25T19:13:31+00:00",
+    "sha256": "6e0f302bf610c17b4730eb217cbd28e161b5916106106790da6fc04d01e7d92e"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/LaserShow/Drawing.h",
+    "bytes": 2470,
+    "mtime_utc": "2025-02-25T18:11:05+00:00",
+    "sha256": "7931bbdfbfad40906ca678a950b41294de3efcc9bfda3fe093ae9edd1d908cd2"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/LaserShow/Font.h",
+    "bytes": 44086,
+    "mtime_utc": "2025-02-25T18:11:05+00:00",
+    "sha256": "6392c3b1951557eeefd972b1b548a02c3f708832f0708a50092041be76ea42ab"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/LaserShow/Laser.cpp",
+    "bytes": 11031,
+    "mtime_utc": "2025-02-25T18:11:05+00:00",
+    "sha256": "182d368926c6ad8713c132224094c3a79f6f072a3916663fc62a7709ec70f466"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/LaserShow/Laser.h",
+    "bytes": 4048,
+    "mtime_utc": "2025-02-25T18:11:05+00:00",
+    "sha256": "f5a82416f7a114d13e9ba908248cc6c6fecd483139c38734fab501225a83faa8"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/LaserShow/LaserShow.ino",
+    "bytes": 3647,
+    "mtime_utc": "2025-02-25T18:16:23+00:00",
+    "sha256": "5606fa647246cdff334dc96f3acddfbe01304ca92e11a689f1932f7d83e7b8a1"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/LaserShow/NeopixelEncoderController.h",
+    "bytes": 7464,
+    "mtime_utc": "2025-02-25T18:14:38+00:00",
+    "sha256": "c24e3a83702f29a3533511ee7ba9cf57005ba9c64a44ddd1cbc18bdc6b7e5332"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/LaserShow/Objects.h",
+    "bytes": 12846,
+    "mtime_utc": "2025-02-25T18:11:05+00:00",
+    "sha256": "865be04f364d21562405c5b7aa9a4c4a9a3990d50e1ab89efd46c18d0a06c2b1"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Mimimalistic Remake/Miminalistic/Basics.cpp",
+    "bytes": 3326,
+    "mtime_utc": "2025-02-07T16:52:05+00:00",
+    "sha256": "fb420b06576a6c9f5481ee7f9e9d07c9258cdd37a8e99b09b444c992b83b9051"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Mimimalistic Remake/Miminalistic/Basics.h",
+    "bytes": 1018,
+    "mtime_utc": "2025-02-07T16:52:05+00:00",
+    "sha256": "cf6777e743191af19cdff158685a37ec0b7b3bbef22fc449332639b598bcadfc"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Mimimalistic Remake/Miminalistic/Cube.cpp",
+    "bytes": 5069,
+    "mtime_utc": "2025-02-07T16:52:05+00:00",
+    "sha256": "1e27b867adb2915f84b4d89dc450fa254ee64b4a56c9d43437320aea8e7d0acc"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Mimimalistic Remake/Miminalistic/Cube.h",
+    "bytes": 108,
+    "mtime_utc": "2025-02-07T16:52:05+00:00",
+    "sha256": "9162ccf7e4eac3a73c2d24652317694441ca10845de782a3575047b10aeae503"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Mimimalistic Remake/Miminalistic/DAC_MCP4X.cpp",
+    "bytes": 7687,
+    "mtime_utc": "2025-02-07T16:52:05+00:00",
+    "sha256": "cfa3e1bd4d7213716c84d26807c291b0322c5f700ef6dd4fe7b86d13bc844b7e"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Mimimalistic Remake/Miminalistic/DAC_MCP4X.h",
+    "bytes": 4679,
+    "mtime_utc": "2025-02-07T16:52:05+00:00",
+    "sha256": "b2a6443a9c9f11e2ce9a4a62f9280a443bff94908594c02f5cc1304adee48768"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Mimimalistic Remake/Miminalistic/Drawing.cpp",
+    "bytes": 11024,
+    "mtime_utc": "2025-02-07T16:52:05+00:00",
+    "sha256": "7e7d9fb7a089bed17cff4539b13db2c69053c35b96ddc3e17d900cc0fb0cb15f"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Mimimalistic Remake/Miminalistic/Drawing.h",
+    "bytes": 1727,
+    "mtime_utc": "2025-02-07T16:52:05+00:00",
+    "sha256": "356d01d197363c261a5aa5f5c3aad6f9da2184345fd3334577e9a10678d48178"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Mimimalistic Remake/Miminalistic/Font.h",
+    "bytes": 8413,
+    "mtime_utc": "2025-02-07T16:52:05+00:00",
+    "sha256": "2b865bedcd964022e2719f16ab5d73774de21d09584e18590307c2188bad7198"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Mimimalistic Remake/Miminalistic/Laser.cpp",
+    "bytes": 6891,
+    "mtime_utc": "2025-02-07T16:52:05+00:00",
+    "sha256": "bcc7ad62b194d4e5ee16caf49d12f6b8613c4efa36f2dfa68e335c7ccc431c08"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Mimimalistic Remake/Miminalistic/Laser.h",
+    "bytes": 3624,
+    "mtime_utc": "2025-02-07T16:52:05+00:00",
+    "sha256": "da3072b86c9636aaeaba4e4a639f1fcb8cfff4ba5b9fe7d16865144207c8ec37"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Mimimalistic Remake/Miminalistic/Logo.h",
+    "bytes": 9611,
+    "mtime_utc": "2025-02-07T16:52:05+00:00",
+    "sha256": "c09e2f66755df24e3e02b92d3feaf676e1747977918138901d0d775a2159cefb"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Mimimalistic Remake/Miminalistic/Miminalistic.ino",
+    "bytes": 3318,
+    "mtime_utc": "2025-02-07T16:52:05+00:00",
+    "sha256": "cb09eda39c0927849b7a57c55e0314f69bcf87b75208c8769946c83bde74b127"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Mimimalistic Remake/Miminalistic/Objects.h",
+    "bytes": 48725,
+    "mtime_utc": "2025-02-07T16:52:06+00:00",
+    "sha256": "7b61b53a3c81279b2407350a7076bdfe5325f5b7e7ef318c570aa0bf046f6c16"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/SupermimalisticDAC/DAC_MCP4X.cpp",
+    "bytes": 7687,
+    "mtime_utc": "2025-02-07T17:26:48+00:00",
+    "sha256": "cfa3e1bd4d7213716c84d26807c291b0322c5f700ef6dd4fe7b86d13bc844b7e"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/SupermimalisticDAC/DAC_MCP4X.h",
+    "bytes": 4679,
+    "mtime_utc": "2025-02-07T17:26:48+00:00",
+    "sha256": "b2a6443a9c9f11e2ce9a4a62f9280a443bff94908594c02f5cc1304adee48768"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/SupermimalisticDAC/SupermimalisticDAC.ino",
+    "bytes": 1810,
+    "mtime_utc": "2025-02-07T17:26:48+00:00",
+    "sha256": "0986016af8b7f3214b4b2eced75ad9cc8634694d655a49caf4c0da831dc49ad0"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi/Hammurapi/Hammurapi.ino",
+    "bytes": 2747,
+    "mtime_utc": "2025-02-11T18:14:43+00:00",
+    "sha256": "fc6678f436c383cfc14ea3a99bcdc00a32d04f70800e9760920f42ef6a710ec4"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapisimple/Hammurapisimple/Hammurapisimple.ino",
+    "bytes": 2464,
+    "mtime_utc": "2025-02-13T21:20:41+00:00",
+    "sha256": "0e7b355810af61c544ce2e1c3110e6fe925c80d6481c1434c0c45d13932e866b"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/Hammurapireads/Choreography.h",
+    "bytes": 20866,
+    "mtime_utc": "2025-02-15T19:02:01+00:00",
+    "sha256": "f8580076014c6799c44b616742d10d5ef5120673c847d44be481a90be0de9725"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/Hammurapireads/CommandEncoder.cpp",
+    "bytes": 532,
+    "mtime_utc": "2025-02-15T19:02:01+00:00",
+    "sha256": "b344d3c3f8e599dde6998975c8f0a4af7873b4f2095556bea56308d571320a0c"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/Hammurapireads/CommandEncoder.h",
+    "bytes": 450,
+    "mtime_utc": "2025-02-15T19:02:01+00:00",
+    "sha256": "8cedfb0f0ea7aa26f4366763b1a427ed2a5ec38509fee265e19bb0948a73d770"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/Hammurapireads/Cuneiform.h",
+    "bytes": 188176,
+    "mtime_utc": "2025-02-15T19:02:01+00:00",
+    "sha256": "2451183f979a1ec3a2f4e5183201f24e4704eaedb6cb70eae6c44b276f9ca8a1"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/Hammurapireads/Hammurapireads.ino",
+    "bytes": 4251,
+    "mtime_utc": "2025-02-15T19:02:01+00:00",
+    "sha256": "4cc5c30348852f939d0e350434a6efd5a0d72be1ed1f477cb986df80f5438b3b"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded/Choreography.h",
+    "bytes": 166,
+    "mtime_utc": "2025-03-12T23:55:47+00:00",
+    "sha256": "f39291ef20940197e72ceccfb2a26835a3524787fd416eb5df48140cae4a6d6e"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded/CommandEncoder.cpp",
+    "bytes": 3260,
+    "mtime_utc": "2025-03-12T23:55:47+00:00",
+    "sha256": "fc992a270332ed035256225ab25c9d3ccb5fdff64d3260393d298bcfed29c58a"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded/CommandEncoder.h",
+    "bytes": 962,
+    "mtime_utc": "2025-03-12T23:55:47+00:00",
+    "sha256": "4c10061b8ab6f72448f1c23619ba10eee14ade5bfbfa996a62bda4240c71c0f8"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded/Cuneiform.h",
+    "bytes": 614269,
+    "mtime_utc": "2025-03-12T23:55:47+00:00",
+    "sha256": "cf7f5d72a398009640bf3662c7b3ce11c1e4092b6a15461eeca1ee6029c0eeab"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded/Cuneiform_stable.h",
+    "bytes": 818209,
+    "mtime_utc": "2025-03-12T23:55:47+00:00",
+    "sha256": "754b8ebe8942a17669fdae289637dffc953852d45abd67a48db4e0132cd0ce73"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded/HammurapireadsEncoded.ino",
+    "bytes": 13041,
+    "mtime_utc": "2025-03-12T23:55:47+00:00",
+    "sha256": "4d18d9537b7a923f55d28f5769ba53d8feda9d332befe053dc4129afb15733e7"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded/LineSubdivider.cpp",
+    "bytes": 1081,
+    "mtime_utc": "2025-03-12T23:55:47+00:00",
+    "sha256": "2f7b769f122a7c7d54c3146b3d536987875fd537bac622b5a17d986bc5e869e4"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded/LineSubdivider.h",
+    "bytes": 351,
+    "mtime_utc": "2025-03-12T23:55:47+00:00",
+    "sha256": "8e448f0150668a9470a7c97d0d883cd658319feb423914b60069dc05c822496f"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded/SymbolSender.h",
+    "bytes": 2619,
+    "mtime_utc": "2025-03-12T23:55:47+00:00",
+    "sha256": "b525d3a226a1cfcb0a185b87b2a6ad56dbb5974f93049f70bc0bc2d896c7a3ed"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_with_points/Choreography.h",
+    "bytes": 166,
+    "mtime_utc": "2025-03-21T14:01:59+00:00",
+    "sha256": "f39291ef20940197e72ceccfb2a26835a3524787fd416eb5df48140cae4a6d6e"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_with_points/CommandEncoder.cpp",
+    "bytes": 3260,
+    "mtime_utc": "2025-03-21T14:01:59+00:00",
+    "sha256": "fc992a270332ed035256225ab25c9d3ccb5fdff64d3260393d298bcfed29c58a"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_with_points/CommandEncoder.h",
+    "bytes": 962,
+    "mtime_utc": "2025-03-21T14:01:59+00:00",
+    "sha256": "4c10061b8ab6f72448f1c23619ba10eee14ade5bfbfa996a62bda4240c71c0f8"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_with_points/Cuneiform.h",
+    "bytes": 4179985,
+    "mtime_utc": "2025-03-21T14:01:59+00:00",
+    "sha256": "0e88bec39a81105ff58741e045df94c7c2caaffa5eb1af85f142dc3730d7a9e1"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_with_points/Cuneiform_stable.h",
+    "bytes": 818209,
+    "mtime_utc": "2025-03-21T14:01:59+00:00",
+    "sha256": "754b8ebe8942a17669fdae289637dffc953852d45abd67a48db4e0132cd0ce73"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_with_points/HammurapireadsEncoded_with_points.ino",
+    "bytes": 26930,
+    "mtime_utc": "2025-03-21T16:18:21+00:00",
+    "sha256": "bfe1f793e75b31708d7fba6851c07ed81a8b30b6bca1d7b345ec235603898c37"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_with_points/LineSubdivider.cpp",
+    "bytes": 1081,
+    "mtime_utc": "2025-03-21T14:01:59+00:00",
+    "sha256": "2f7b769f122a7c7d54c3146b3d536987875fd537bac622b5a17d986bc5e869e4"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_with_points/LineSubdivider.h",
+    "bytes": 351,
+    "mtime_utc": "2025-03-21T14:01:59+00:00",
+    "sha256": "8e448f0150668a9470a7c97d0d883cd658319feb423914b60069dc05c822496f"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_with_points/SymbolSender.h",
+    "bytes": 3874,
+    "mtime_utc": "2025-03-21T14:01:59+00:00",
+    "sha256": "8cb8ef884210de6588a0d46ca99a1d71642bcc73530671b99b6988b8c3937e60"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/Choreography.h",
+    "bytes": 166,
+    "mtime_utc": "2025-03-29T17:02:59+00:00",
+    "sha256": "f39291ef20940197e72ceccfb2a26835a3524787fd416eb5df48140cae4a6d6e"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/CommandEncoder.cpp",
+    "bytes": 3260,
+    "mtime_utc": "2025-03-29T17:02:59+00:00",
+    "sha256": "fc992a270332ed035256225ab25c9d3ccb5fdff64d3260393d298bcfed29c58a"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/CommandEncoder.h",
+    "bytes": 962,
+    "mtime_utc": "2025-03-29T17:02:59+00:00",
+    "sha256": "4c10061b8ab6f72448f1c23619ba10eee14ade5bfbfa996a62bda4240c71c0f8"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/Cuneiform.h",
+    "bytes": 4179985,
+    "mtime_utc": "2025-03-29T17:02:59+00:00",
+    "sha256": "0e88bec39a81105ff58741e045df94c7c2caaffa5eb1af85f142dc3730d7a9e1"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/Cuneiform_stable.h",
+    "bytes": 818209,
+    "mtime_utc": "2025-03-29T17:02:59+00:00",
+    "sha256": "754b8ebe8942a17669fdae289637dffc953852d45abd67a48db4e0132cd0ce73"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/HammurapireadsEncoded_fulltexts.ino",
+    "bytes": 10486,
+    "mtime_utc": "2025-03-29T17:02:59+00:00",
+    "sha256": "13b26d7e0e91ee5b66ae99a84d599fefdf65e95fb2d017bcb19c53f258069867"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/LineSubdivider.cpp",
+    "bytes": 1081,
+    "mtime_utc": "2025-03-29T17:02:59+00:00",
+    "sha256": "2f7b769f122a7c7d54c3146b3d536987875fd537bac622b5a17d986bc5e869e4"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/LineSubdivider.h",
+    "bytes": 351,
+    "mtime_utc": "2025-03-29T17:02:59+00:00",
+    "sha256": "8e448f0150668a9470a7c97d0d883cd658319feb423914b60069dc05c822496f"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/SymbolSender.h",
+    "bytes": 3874,
+    "mtime_utc": "2025-03-29T17:02:59+00:00",
+    "sha256": "8cb8ef884210de6588a0d46ca99a1d71642bcc73530671b99b6988b8c3937e60"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Scribersimple/Basics.cpp",
+    "bytes": 3417,
+    "mtime_utc": "2025-02-12T18:49:32+00:00",
+    "sha256": "9527c511e68a9214e0c5a2bd1fc03181e86da00207d476e0a8119f7fcbdc61d3"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Scribersimple/Basics.h",
+    "bytes": 1054,
+    "mtime_utc": "2025-02-12T18:49:32+00:00",
+    "sha256": "72661439fe79dfc27b935acd64a97e9ad7aa2a2903a737ad271b18fc17ba79bb"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Scribersimple/DAC_MCP4X.cpp",
+    "bytes": 9865,
+    "mtime_utc": "2025-02-12T18:49:32+00:00",
+    "sha256": "cb25b68239e53cffac2d76d46bbf51561b0be34dd372e4e1810fbd70b9414929"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Scribersimple/DAC_MCP4X.h",
+    "bytes": 4823,
+    "mtime_utc": "2025-02-12T18:49:32+00:00",
+    "sha256": "4f9d1d0d4953ae3c16e114d3c590fc1d2000377da6b44d12dcbabbc8a0be15c4"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Scribersimple/Drawing.cpp",
+    "bytes": 16243,
+    "mtime_utc": "2025-02-12T18:49:33+00:00",
+    "sha256": "c8662cd1bad1fc2ee99414be336bf6eb1ac09b872161a61aca7f714b2f5a31bb"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Scribersimple/Drawing.h",
+    "bytes": 2443,
+    "mtime_utc": "2025-02-12T18:49:33+00:00",
+    "sha256": "d4e897fc41b0d1eba3b87713f83780b63784f5f7937501f3a7fa9e66579a9d74"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Scribersimple/Font.h",
+    "bytes": 34925,
+    "mtime_utc": "2025-02-12T18:49:33+00:00",
+    "sha256": "d0af914271d784f31f0f9a67ed5e864d4c7783ffae73fb9e137b70d2c7a51298"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Scribersimple/Laser.cpp",
+    "bytes": 11031,
+    "mtime_utc": "2025-02-12T18:49:33+00:00",
+    "sha256": "9fa87d03599095ef69a55e4d57451811684c0fd5260b9838842fd956515cbd45"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Scribersimple/Laser.h",
+    "bytes": 4048,
+    "mtime_utc": "2025-02-12T18:49:33+00:00",
+    "sha256": "f5a82416f7a114d13e9ba908248cc6c6fecd483139c38734fab501225a83faa8"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Scribersimple/NeopixelEncoderController.h",
+    "bytes": 5864,
+    "mtime_utc": "2025-02-12T18:49:33+00:00",
+    "sha256": "6922326eab53a68a97c80562fadf58058f366c4b0a96029654e184be50eec37f"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Scribersimple/Objects.h",
+    "bytes": 7473,
+    "mtime_utc": "2025-02-12T18:49:33+00:00",
+    "sha256": "461b07d07a2e1ad78238a8efc88edbf0e88470c5b6e1d82944457733ffc6e8aa"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/Scribersimple/Scribersimple.ino",
+    "bytes": 6282,
+    "mtime_utc": "2025-02-12T18:49:32+00:00",
+    "sha256": "bd1bf73e391c0868486719190386531e60b929239bc25f28595d650ed34f3eae"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/Basics.cpp",
+    "bytes": 3417,
+    "mtime_utc": "2025-03-04T02:11:49+00:00",
+    "sha256": "9527c511e68a9214e0c5a2bd1fc03181e86da00207d476e0a8119f7fcbdc61d3"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/Basics.h",
+    "bytes": 1054,
+    "mtime_utc": "2025-03-04T02:11:49+00:00",
+    "sha256": "72661439fe79dfc27b935acd64a97e9ad7aa2a2903a737ad271b18fc17ba79bb"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/CommandParser.cpp",
+    "bytes": 5964,
+    "mtime_utc": "2025-03-04T02:11:49+00:00",
+    "sha256": "d54f8330f85fe843a002e76e249d863c82a74a0982ea6c0bc3543e8d234788b2"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/CommandParser.h",
+    "bytes": 686,
+    "mtime_utc": "2025-03-04T02:11:49+00:00",
+    "sha256": "f20f156cc4efda3110949b0897ff310274b69a83936a30997dd6b25f50afe86c"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/DAC_MCP4X.cpp",
+    "bytes": 9865,
+    "mtime_utc": "2025-03-04T02:11:49+00:00",
+    "sha256": "cb25b68239e53cffac2d76d46bbf51561b0be34dd372e4e1810fbd70b9414929"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/DAC_MCP4X.h",
+    "bytes": 4823,
+    "mtime_utc": "2025-03-04T02:11:49+00:00",
+    "sha256": "4f9d1d0d4953ae3c16e114d3c590fc1d2000377da6b44d12dcbabbc8a0be15c4"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/Drawing.cpp",
+    "bytes": 9001,
+    "mtime_utc": "2025-03-04T02:11:49+00:00",
+    "sha256": "36b4e72765673c3b8fd5e2410e05cfd18a57e4b4c36ec2078af0aa14aa7f4bff"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/Drawing.h",
+    "bytes": 2470,
+    "mtime_utc": "2025-03-04T02:11:49+00:00",
+    "sha256": "7931bbdfbfad40906ca678a950b41294de3efcc9bfda3fe093ae9edd1d908cd2"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/Font.h",
+    "bytes": 44086,
+    "mtime_utc": "2025-03-04T02:11:49+00:00",
+    "sha256": "6392c3b1951557eeefd972b1b548a02c3f708832f0708a50092041be76ea42ab"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/Laser.cpp",
+    "bytes": 11033,
+    "mtime_utc": "2025-03-04T02:53:53+00:00",
+    "sha256": "196be0fdf40904e7e84a8c065bf194f1491a730218dcdb4d0b2255a2cfe3da6c"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/Laser.h",
+    "bytes": 4048,
+    "mtime_utc": "2025-03-04T02:11:49+00:00",
+    "sha256": "f5a82416f7a114d13e9ba908248cc6c6fecd483139c38734fab501225a83faa8"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/LaserShow.ino",
+    "bytes": 3158,
+    "mtime_utc": "2025-03-04T02:11:49+00:00",
+    "sha256": "50e3ac05f1e9c35b326dfdeceaba0dcfc8bbdbe4b0ae4f8beebe8d989269af81"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/NeopixelEncoderController.h",
+    "bytes": 7493,
+    "mtime_utc": "2025-03-04T02:11:49+00:00",
+    "sha256": "809e60ce351841a2c903f86703f30c6f48285b2a49d8a828077be1caca64d659"
+  },
+  {
+    "path": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/Objects.h",
+    "bytes": 12846,
+    "mtime_utc": "2025-03-04T02:11:49+00:00",
+    "sha256": "865be04f364d21562405c5b7aa9a4c4a9a3990d50e1ab89efd46c18d0a06c2b1"
+  },
+  {
+    "path": "Version 2025/Recorded Choreography/null6.py",
+    "bytes": 146882,
+    "mtime_utc": "2025-02-13T22:06:36+00:00",
+    "sha256": "1dbc7535667fb930f13801f6e16e7800840059152a8bc1a50af33571c4c255e9"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.1.toe",
+    "bytes": 152730,
+    "mtime_utc": "2025-02-15T17:22:49+00:00",
+    "sha256": "5e2e8ee2623fa8e75716eed02a8e8a5c5416942d7ee3eb7331afa36e96666227"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.10.toe",
+    "bytes": 376716,
+    "mtime_utc": "2025-02-19T19:02:44+00:00",
+    "sha256": "5362c152dd7bbd33c78b84d644540e29b21793f5ec4fe2d4a0effd6f6c1d3e24"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.11.toe",
+    "bytes": 377188,
+    "mtime_utc": "2025-02-19T19:08:30+00:00",
+    "sha256": "888a71776b0f99fe53177d436537151cf620a6deec2ce297bb83b5f714fcfcfb"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.12.toe",
+    "bytes": 377260,
+    "mtime_utc": "2025-02-19T19:09:23+00:00",
+    "sha256": "fe4deead3c36c18136a5ef559d399239bbaf3dd648b7ab58409a9f3028d555e4"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.13.toe",
+    "bytes": 315428,
+    "mtime_utc": "2025-02-19T19:14:18+00:00",
+    "sha256": "d388c601a729fa3f1c7aafdc68efe19d6cb181cabdf7d9bee7b283c5cbcebf2d"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.14.toe",
+    "bytes": 316228,
+    "mtime_utc": "2025-02-23T18:15:10+00:00",
+    "sha256": "b46200ab83f42c22266aa943e4d1befa689074fbeb93e8a62c27fcc206d8a27d"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.15.toe",
+    "bytes": 316996,
+    "mtime_utc": "2025-02-23T18:16:53+00:00",
+    "sha256": "8eb3a4d563b38b66e61d1555927a914ab67e578e241c377ff37bdec002e196e4"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.16.toe",
+    "bytes": 317676,
+    "mtime_utc": "2025-02-23T18:37:54+00:00",
+    "sha256": "384d4578489dec84826ec8fa67ba7dfbaed3873ec0621ed8b7305e5d16bde926"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.17.toe",
+    "bytes": 317196,
+    "mtime_utc": "2025-02-23T18:38:31+00:00",
+    "sha256": "61b2fe4b1ec12a0daf3fc8c23a260b186a9966f11381f75870d5c6d05b1a1a84"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.18.toe",
+    "bytes": 317300,
+    "mtime_utc": "2025-02-24T15:44:39+00:00",
+    "sha256": "d63960b358fae5c36e6bfabaa2de7f5b9ae0ed7264ce6ce4cd69566eaa31a260"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.19.toe",
+    "bytes": 317572,
+    "mtime_utc": "2025-02-24T15:53:30+00:00",
+    "sha256": "aff4c6f68f72c11e8c4197ce94143377cf7adf2cdb8e55968bcaf2074d4b6117"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.2.toe",
+    "bytes": 175682,
+    "mtime_utc": "2025-02-15T18:23:09+00:00",
+    "sha256": "2caaa90829dbfcaa8f1c49101936e85a4838c60d9a371ec9ccff8b1640c2029a"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.20.toe",
+    "bytes": 319276,
+    "mtime_utc": "2025-02-24T16:02:55+00:00",
+    "sha256": "677bc19b29d55c34ae70613df7cb8337660d0bf1512848ab3dc68b5943cbf018"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.21.toe",
+    "bytes": 319708,
+    "mtime_utc": "2025-02-24T16:47:36+00:00",
+    "sha256": "17c950b2becb6d2e8ba87d9ebb09ace8f565c0442aa1d75955fe773f2ead1703"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.22.toe",
+    "bytes": 320348,
+    "mtime_utc": "2025-02-24T17:18:35+00:00",
+    "sha256": "4c9ff3a2b64205aa89d7dea00c1cd71bdf3ba162183ac9f6f1838a7b99b7aa45"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.23.toe",
+    "bytes": 304716,
+    "mtime_utc": "2025-02-24T19:20:42+00:00",
+    "sha256": "8d101344a8de7ca4256a2c22dc2c11568c35bb9a3986d897119914eab5ba3e0f"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.24.toe",
+    "bytes": 334708,
+    "mtime_utc": "2025-02-25T09:45:03+00:00",
+    "sha256": "5ba9955fdad274249422fb9fb5746545faffa4bb03753910a46b56bed6f4cd89"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.25.toe",
+    "bytes": 335020,
+    "mtime_utc": "2025-02-25T09:47:31+00:00",
+    "sha256": "6feae8b88dea8021b79fd87d4fff2bc988bc6a26905caeb0146a53c003d51ad8"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.26.toe",
+    "bytes": 335028,
+    "mtime_utc": "2025-02-25T09:48:03+00:00",
+    "sha256": "2ff066277cc156ea873b99383eefc018caaf73d18862cd4a4bdbf38eedfa33b4"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.27.toe",
+    "bytes": 335108,
+    "mtime_utc": "2025-02-25T09:51:04+00:00",
+    "sha256": "45534c7e7d6fe242ae4306c42142aed76b056a2adc5b637bb79fb4add71b1f4c"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.28.toe",
+    "bytes": 335108,
+    "mtime_utc": "2025-02-25T09:51:06+00:00",
+    "sha256": "c5af91b8173be3a316e65e99db251169ccc276b632a39c4c678f0a6778150cb2"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.29.toe",
+    "bytes": 335212,
+    "mtime_utc": "2025-02-25T10:03:18+00:00",
+    "sha256": "21aedc9ef2a3fbbb42d7c004c1603c0bbf57e29a1a3a4eda3f893a8ea681fba1"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.3.toe",
+    "bytes": 166594,
+    "mtime_utc": "2025-02-15T18:49:44+00:00",
+    "sha256": "f572f98beafb078fcf6f69e8c9ba52358c7566160898a9150a0e821dbaeea548"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.30.toe",
+    "bytes": 472740,
+    "mtime_utc": "2025-02-25T10:13:19+00:00",
+    "sha256": "23571d0694fb73dfaab9e58ccabf4241e0f858d74ceb35a84f9fbde375e85f63"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.31.toe",
+    "bytes": 472772,
+    "mtime_utc": "2025-02-25T10:13:36+00:00",
+    "sha256": "f122f4269ca8cfa360e02a31ced1d52739036d0efbd1cfc9a0c60516b40c0660"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.32.toe",
+    "bytes": 473276,
+    "mtime_utc": "2025-02-25T10:27:52+00:00",
+    "sha256": "8853034aedb3dd3345d0727315d6a2856c6c0de5d159c2798e69750b234ccdd4"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.33.toe",
+    "bytes": 473956,
+    "mtime_utc": "2025-02-25T10:45:59+00:00",
+    "sha256": "40fb60acf93c120c39f5f122b56bb7617ef9d91bc09a57de15c37c5263086704"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.34.toe",
+    "bytes": 475676,
+    "mtime_utc": "2025-02-25T11:04:34+00:00",
+    "sha256": "46dc5bc7d24754cac078a849f4c9f20f737006b86180f39bcc1d9e003e1a795e"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.35.toe",
+    "bytes": 256404,
+    "mtime_utc": "2025-02-25T11:14:58+00:00",
+    "sha256": "a2a4bd67193a5a620e2881ec66269182b47dfad97da4a4c639fa1728185b170a"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.36.toe",
+    "bytes": 231268,
+    "mtime_utc": "2025-02-25T15:05:54+00:00",
+    "sha256": "0dd9be9a8824f6e6fbfc9e3184ddc3b61502d274b86e50c00df1f208285f9f3b"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.37.toe",
+    "bytes": 231196,
+    "mtime_utc": "2025-02-28T18:37:54+00:00",
+    "sha256": "74ffaf80c4ed4a20320c3c65fd98e9ffe06d72b89be1c2ffab9f43d0fed0e0e2"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.38.toe",
+    "bytes": 231156,
+    "mtime_utc": "2025-03-04T01:18:56+00:00",
+    "sha256": "78451e0e77f5d0a7c766229393c701eea7f99adcdf6e67d50fa2d1b6b0eb500a"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.39.toe",
+    "bytes": 231548,
+    "mtime_utc": "2025-03-04T01:21:09+00:00",
+    "sha256": "ce88fa19a022472d3c6b39b6a891bada9b7bca30990752ddb4f5a4809652cd74"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.4.toe",
+    "bytes": 207194,
+    "mtime_utc": "2025-02-15T18:54:03+00:00",
+    "sha256": "678913d6525abaca8232676ebd8b8607e9e51402985aa4ab3cf65aefc3a9c830"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.40.toe",
+    "bytes": 231290,
+    "mtime_utc": "2025-03-04T01:26:40+00:00",
+    "sha256": "8248f3686408c469bbbbaecaba55d23dd654533c5f1fe0b1a770b20edc74ad84"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.41.toe",
+    "bytes": 231394,
+    "mtime_utc": "2025-03-04T01:27:54+00:00",
+    "sha256": "c6d1997fbc809b5d52a86a3226c6fa41ee53a41e625e65997c963381e25295a9"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.42.toe",
+    "bytes": 238188,
+    "mtime_utc": "2025-03-04T01:52:10+00:00",
+    "sha256": "92f3dc55d70834ecc5dd36f0fdf0bc100b6ca347ccf7ddcef8a21aa1b9b8b10b"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.43.toe",
+    "bytes": 231524,
+    "mtime_utc": "2025-03-04T02:23:21+00:00",
+    "sha256": "a70b78ddbe2033fafbcac88922e0e2131186d6c982536380228b7c75afef9bbf"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.44.toe",
+    "bytes": 231556,
+    "mtime_utc": "2025-03-04T02:23:34+00:00",
+    "sha256": "5d92352e24077f951ebca2b07c93d267f373293c4f5dab5b492f91cc5b02a0d2"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.45.toe",
+    "bytes": 231620,
+    "mtime_utc": "2025-03-04T02:25:25+00:00",
+    "sha256": "9f76715381cb03dd73e8af42b1025912a0784a458ebd1124b945619ddced1baa"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.46.toe",
+    "bytes": 238620,
+    "mtime_utc": "2025-03-04T02:28:30+00:00",
+    "sha256": "0d83665ef308eb51cead9e2d384a6041fcfc4defc26e423fbe042ea99a1ee20c"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.47.toe",
+    "bytes": 232132,
+    "mtime_utc": "2025-03-04T02:29:31+00:00",
+    "sha256": "9012bf3e8ee5ed77d2d9c09df2e8dd6a3d13629f958fff250f6e457ff63b6335"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.48.toe",
+    "bytes": 231668,
+    "mtime_utc": "2025-03-04T02:29:59+00:00",
+    "sha256": "45a4d34c274cc6488511c903666e6bfbea7156a162bb7b9b501278a510af96ca"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.49.toe",
+    "bytes": 231884,
+    "mtime_utc": "2025-03-04T02:32:00+00:00",
+    "sha256": "c39f2d95bc73ec09e6a59bd1076c5decd312a60d147df822333967c30c48738c"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.5.toe",
+    "bytes": 213378,
+    "mtime_utc": "2025-02-17T21:30:23+00:00",
+    "sha256": "a24b07f587e726130aa1a2e5adcda52bca29c0f6ecb63d521948f9b526daba86"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.50.toe",
+    "bytes": 232100,
+    "mtime_utc": "2025-03-04T02:34:58+00:00",
+    "sha256": "7c86481b8a90f09387d11f98af9786c7d0a0343be2cd05aff3d92e292ba2557c"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.51.toe",
+    "bytes": 232132,
+    "mtime_utc": "2025-03-04T02:35:57+00:00",
+    "sha256": "5698b1dbee6cda8822a541dbdeb28791986cfa8ddaf3578b1fc41d56c4c577de"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.52.toe",
+    "bytes": 232100,
+    "mtime_utc": "2025-03-04T02:36:26+00:00",
+    "sha256": "9ac8ef5acc59398807489cbe4b9db23bf8ca0907888561fd44f258a07d47d4a9"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.53.toe",
+    "bytes": 232708,
+    "mtime_utc": "2025-03-04T02:37:13+00:00",
+    "sha256": "05e0c079203393abb4dc2379318a4ae19f5328ec7d33bae4ad9a824737a8da87"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.54.toe",
+    "bytes": 232740,
+    "mtime_utc": "2025-03-04T03:02:31+00:00",
+    "sha256": "846f23735da6e65cdfd73084c535da9195a9a34c9e8729af3fed10aceadcdd1d"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.55.toe",
+    "bytes": 187362,
+    "mtime_utc": "2025-03-04T03:15:50+00:00",
+    "sha256": "7a791287c27c9415853bea1914635f910b94e6e2f369d8ddcfd0be0a30a1f0b9"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.56.toe",
+    "bytes": 235156,
+    "mtime_utc": "2025-03-04T03:25:01+00:00",
+    "sha256": "24db336d290fbb23b02c33a0bbb1c02a8492728364b0a857637d6ead9b7db2de"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.57.toe",
+    "bytes": 235188,
+    "mtime_utc": "2025-03-04T03:26:06+00:00",
+    "sha256": "95e76f03618e35a171c8f661378aa82cd52d7aa65a9dfbc2a443867e6b489ed8"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.58.toe",
+    "bytes": 244556,
+    "mtime_utc": "2025-03-04T03:37:55+00:00",
+    "sha256": "5202e0503010840e0e38fa80be47553624939c648aa3dc52a48f3c32b5c94c44"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.59.toe",
+    "bytes": 244596,
+    "mtime_utc": "2025-03-04T07:00:16+00:00",
+    "sha256": "cc9b52da902e628c99bb731cedcbae4f7a29399c3b8d4079e5d0d33a4e3cf261"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.6.toe",
+    "bytes": 176506,
+    "mtime_utc": "2025-02-17T21:47:18+00:00",
+    "sha256": "05a540d8b0e8e4327de3688b2a612f9b10bdebd427ebf1e77ae252ed58ff36ba"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.60.toe",
+    "bytes": 187594,
+    "mtime_utc": "2025-03-04T16:47:04+00:00",
+    "sha256": "39ed713f12d43defa895f93c014569b32894f0efb0263a7b3c2e012603e37227"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.61.toe",
+    "bytes": 187442,
+    "mtime_utc": "2025-03-11T23:13:21+00:00",
+    "sha256": "446033b14fde2632f7316c1741c8d11bcf259cf5ee0c2f04b4295d1404a1dd15"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.62.toe",
+    "bytes": 187498,
+    "mtime_utc": "2025-03-11T23:16:50+00:00",
+    "sha256": "a21ad9fea68f76a30feac2e8e8ad036fe77b014388bc61f1206e1c1e71a195bd"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.63.toe",
+    "bytes": 242868,
+    "mtime_utc": "2025-03-11T23:38:53+00:00",
+    "sha256": "348bfe01fb36eeffb4f42b06874667fbeb33a6a2a2d382a9b8b217866aa9b007"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.64.toe",
+    "bytes": 235532,
+    "mtime_utc": "2025-03-11T23:45:06+00:00",
+    "sha256": "204f3649f1ecc3523410948e7fedc91e5553c5cbff5441c506718cb4d38d430a"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.65.toe",
+    "bytes": 187602,
+    "mtime_utc": "2025-03-11T23:46:34+00:00",
+    "sha256": "98851b0a429ac7fa9ea5e41a95dcb80e95e3dde72cdce707d42b749322ee28a5"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.66.toe",
+    "bytes": 194962,
+    "mtime_utc": "2025-03-13T00:00:22+00:00",
+    "sha256": "488d47f1a401237bbab95f02745f24fb0403e934f2d119c2b6cdaaca98c96ed3"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.67.toe",
+    "bytes": 194962,
+    "mtime_utc": "2025-03-13T00:00:43+00:00",
+    "sha256": "d68f2ecda71f6a8429747190840ad37903e907ded6b7967bdd0239e519084f69"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.68.toe",
+    "bytes": 194962,
+    "mtime_utc": "2025-03-13T00:01:16+00:00",
+    "sha256": "3640669c5795492da8360dcb82407033c716c9fb6aed0f1afe3998e939576613"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.69.toe",
+    "bytes": 194938,
+    "mtime_utc": "2025-03-13T00:02:46+00:00",
+    "sha256": "fe5a8ff01b7f613e27be7a3f325f9836d4b22fcd4bff047b3b4e800f9eb4dafd"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.7.toe",
+    "bytes": 176522,
+    "mtime_utc": "2025-02-17T21:47:56+00:00",
+    "sha256": "8242ecb9dbca3848314e5fce935e755c3e6c0ca848d2f2df84e71a461725ec57"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.70.toe",
+    "bytes": 194986,
+    "mtime_utc": "2025-03-13T00:04:34+00:00",
+    "sha256": "1f22dc65bc2432a5b7e6bbc5103d96e22503bd8ecd718d3e99696d0c742dc415"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.71.toe",
+    "bytes": 194682,
+    "mtime_utc": "2025-03-13T00:05:21+00:00",
+    "sha256": "c330cc145419341119f8aa946fce429109a2443a6f0b0238db80dfbf1111f2f1"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.72.toe",
+    "bytes": 194754,
+    "mtime_utc": "2025-03-13T00:07:17+00:00",
+    "sha256": "cd41b8a5aa65df4b7f31c547298f73ae28585a4b202425da0a662fb6d508473d"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.73.toe",
+    "bytes": 194674,
+    "mtime_utc": "2025-03-13T00:07:43+00:00",
+    "sha256": "ed503a779646466a5556ff9685c008fee51b799a66e39cd26827a5dadefc74a5"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.74.toe",
+    "bytes": 194730,
+    "mtime_utc": "2025-03-13T00:07:58+00:00",
+    "sha256": "9dbcc9c143ee5d7eb7ecc7fdefa23cdce675e45217873be4472850620e6363c7"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.75.toe",
+    "bytes": 195106,
+    "mtime_utc": "2025-03-13T00:09:49+00:00",
+    "sha256": "d959a99d944e55a650c9027c3d4f2ffb14878dee63f2376ef29bdef52ed40126"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.76.toe",
+    "bytes": 193410,
+    "mtime_utc": "2025-03-13T00:13:13+00:00",
+    "sha256": "a4c1ea92040e4052f0737c42f35ab9c25348f5710e0c11cf79fde00962bc3d82"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.8.toe",
+    "bytes": 346356,
+    "mtime_utc": "2025-02-17T21:51:15+00:00",
+    "sha256": "db66648640d84ecebc3a173758bf15ce69ec2e1e8f49f888bb0c7e91816b7919"
+  },
+  {
+    "path": "Version 2025/Backup/Sutum2025.9.toe",
+    "bytes": 376588,
+    "mtime_utc": "2025-02-17T21:51:39+00:00",
+    "sha256": "adfe494a27e8d650b8003908972c6ee83cb64a85950fd0faa92138b0dadce46b"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserShow/Basics.cpp",
+    "bytes": 3326,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "fb420b06576a6c9f5481ee7f9e9d07c9258cdd37a8e99b09b444c992b83b9051"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserShow/Basics.h",
+    "bytes": 1018,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "cf6777e743191af19cdff158685a37ec0b7b3bbef22fc449332639b598bcadfc"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserShow/Cube.cpp",
+    "bytes": 5069,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "1e27b867adb2915f84b4d89dc450fa254ee64b4a56c9d43437320aea8e7d0acc"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserShow/Cube.h",
+    "bytes": 108,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "9162ccf7e4eac3a73c2d24652317694441ca10845de782a3575047b10aeae503"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserShow/DAC_MCP4X.cpp",
+    "bytes": 6446,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "00dfd454fed4c884ebaaf262d729866b52e41d224f889237422fe8dc1689295f"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserShow/DAC_MCP4X.h",
+    "bytes": 4679,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "b2a6443a9c9f11e2ce9a4a62f9280a443bff94908594c02f5cc1304adee48768"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserShow/Drawing.cpp",
+    "bytes": 6357,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "c6b027d141b02357d362fe56cc3caade60cb9e1d5c484d1d20bffcfddee85cee"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserShow/Drawing.h",
+    "bytes": 1593,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "b5eba2ed790720fb614ade758300e320e84c93e13ded698c417789e5e4a97f08"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserShow/Font.h",
+    "bytes": 8413,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "2b865bedcd964022e2719f16ab5d73774de21d09584e18590307c2188bad7198"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserShow/Laser.cpp",
+    "bytes": 6891,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "bcc7ad62b194d4e5ee16caf49d12f6b8613c4efa36f2dfa68e335c7ccc431c08"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserShow/Laser.h",
+    "bytes": 3508,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "bdcb460d390219f016cd702c4d99fe8bcb9d02c4663f7e20b872017c67d78a87"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserShow/LaserShow.ino",
+    "bytes": 9884,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "a3d5d5ed688bd849d6b0a3da6ff078a252de53bd5a0a0cf874e35329dfcfb453"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserShow/Logo.h",
+    "bytes": 9611,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "c09e2f66755df24e3e02b92d3feaf676e1747977918138901d0d775a2159cefb"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserShow/Objects.h",
+    "bytes": 8436,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "98c791bb7acf0629bdb66c67ed4b0cb50a98532aa700373910cfeee22f49abfe"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserSpectrumAnalyzer/Basics.cpp",
+    "bytes": 3343,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "ab4bc499331fc284e424172ca114c04411af7011f7f3d23abc203dd88a14e77d"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserSpectrumAnalyzer/Basics.h",
+    "bytes": 891,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "f36917f959935513b7679017c071b70e30097f4ac7d24c53278a18ced4f6d898"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserSpectrumAnalyzer/DAC_MCP4X.cpp",
+    "bytes": 6446,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "00dfd454fed4c884ebaaf262d729866b52e41d224f889237422fe8dc1689295f"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserSpectrumAnalyzer/DAC_MCP4X.h",
+    "bytes": 4679,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "b2a6443a9c9f11e2ce9a4a62f9280a443bff94908594c02f5cc1304adee48768"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserSpectrumAnalyzer/Drawing.cpp",
+    "bytes": 6347,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "f41e927666ff1331e9f8cef78217b28d1f1713ec824b988d1319b617cdd0abc3"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserSpectrumAnalyzer/Drawing.h",
+    "bytes": 1593,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "b5eba2ed790720fb614ade758300e320e84c93e13ded698c417789e5e4a97f08"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserSpectrumAnalyzer/Font.h",
+    "bytes": 8413,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "2b865bedcd964022e2719f16ab5d73774de21d09584e18590307c2188bad7198"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserSpectrumAnalyzer/Laser.cpp",
+    "bytes": 6891,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "bcc7ad62b194d4e5ee16caf49d12f6b8613c4efa36f2dfa68e335c7ccc431c08"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserSpectrumAnalyzer/Laser.h",
+    "bytes": 3506,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "065cafd96dbb7437d5b0518a21ae81c2afdb6e981e2b2f42b680724caa30887a"
+  },
+  {
+    "path": "original LP/LaserProjector-master/LaserSpectrumAnalyzer/LaserSpectrumAnalyzer.ino",
+    "bytes": 11989,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "907a19e301a47bf69938f19ebfd6462ba814c60dcec46d8afab1a040d6b6f9be"
+  },
+  {
+    "path": "original LP/LaserProjector-master/Scripts/convertGCode.py",
+    "bytes": 2203,
+    "mtime_utc": "2017-02-19T11:39:50+00:00",
+    "sha256": "d019564afda4d871b1cb604fe0ee6ae596d5a228ca61b898491bb1dc62819fbf"
+  }
+]
