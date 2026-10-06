@@ -24,6 +24,8 @@ Legacy firmware is copied byte-for-byte; this is **not yet a verified build or a
 
 Start with [the audit](docs/INVENTORY.md), [current system](docs/CURRENT_SYSTEM.md), and [known issues](docs/KNOWN_ISSUES.md).
 
+Current work: [stabilization tracker and step-by-step acceptance criteria](docs/STABILIZATION.md) (Uno + RP2040; TouchDesigner changes deferred).
+
 | Location | Purpose |
 | --- | --- |
 | `firmware/legacy/uno-candidate/LaserShow/` | ScriberLatestSimplified receiver candidate |
