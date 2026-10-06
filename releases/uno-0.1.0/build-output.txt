@@ -1,0 +1,30 @@
+In file included from <REPO>\firmware\uno\0.1.0\LaserShow\NeopixelEncoderController.h:5:0,
+                 from <REPO>\firmware\uno\0.1.0\LaserShow\LaserShow.ino:12:
+<HOME>\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.7\libraries\EEPROM\src/EEPROM.h:145:20: warning: 'EEPROM' defined but not used [-Wunused-variable]
+ static EEPROMClass EEPROM;
+                    ^~~~~~
+<HOME>\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.7\cores\arduino\new.cpp: In function 'void* operator new(std::size_t, std::nothrow_t)':
+<HOME>\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.7\cores\arduino\new.cpp:59:60: warning: unused parameter 'tag' [-Wunused-parameter]
+ void * operator new(std::size_t size, const std::nothrow_t tag) noexcept {
+                                                            ^~~
+<HOME>\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.7\cores\arduino\new.cpp: In function 'void* operator new [](std::size_t, const std::nothrow_t&)':
+<HOME>\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.7\cores\arduino\new.cpp:68:63: warning: unused parameter 'tag' [-Wunused-parameter]
+ void * operator new[](std::size_t size, const std::nothrow_t& tag) noexcept {
+                                                               ^~~
+<HOME>\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.7\cores\arduino\new.cpp: In function 'void operator delete(void*, const std::nothrow_t&)':
+<HOME>\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.7\cores\arduino\new.cpp:103:55: warning: unused parameter 'tag' [-Wunused-parameter]
+ void operator delete(void* ptr, const std::nothrow_t& tag) noexcept {
+                                                       ^~~
+<HOME>\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.7\cores\arduino\new.cpp: In function 'void operator delete [](void*, const std::nothrow_t&)':
+<HOME>\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.7\cores\arduino\new.cpp:106:57: warning: unused parameter 'tag' [-Wunused-parameter]
+ void operator delete[](void* ptr, const std::nothrow_t& tag) noexcept {
+                                                         ^~~
+<REPO>\firmware\uno\0.1.0\LaserShow\Laser.cpp: In function 'sendto.constprop':
+<REPO>\firmware\uno\0.1.0\LaserShow\Laser.cpp:131:15: warning: 'y' may be used uninitialized in this function [-Wmaybe-uninitialized]
+       long x, y;
+               ^
+<REPO>\firmware\uno\0.1.0\LaserShow\Laser.cpp:131:12: warning: 'x' may be used uninitialized in this function [-Wmaybe-uninitialized]
+       long x, y;
+            ^
+Sketch uses 29080 bytes (90%) of program storage space. Maximum is 32256 bytes.
+Global variables use 735 bytes (35%) of dynamic memory, leaving 1313 bytes for local variables. Maximum is 2048 bytes.

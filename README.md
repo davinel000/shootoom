@@ -26,6 +26,8 @@ Start with [the audit](docs/INVENTORY.md), [current system](docs/CURRENT_SYSTEM.
 
 Current work: [stabilization tracker and step-by-step acceptance criteria](docs/STABILIZATION.md) (Uno + RP2040; TouchDesigner changes deferred).
 
+First buildable update: **[Uno 0.1.0](firmware/uno/0.1.0/README.md)** — separate versioned sources and release artifacts; not yet uploaded or hardware-validated. [Firmware changelog](firmware/uno/CHANGELOG.md).
+
 | Location | Purpose |
 | --- | --- |
 | `firmware/legacy/uno-candidate/LaserShow/` | ScriberLatestSimplified receiver candidate |

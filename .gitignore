@@ -16,3 +16,6 @@ build/
 *.toe.dir/
 *.toe.toc
 *.log
+releases/*/LaserShow.ino.eep
+releases/*/LaserShow.ino.with_bootloader.hex
+!releases/*/LaserShow.ino.hex

@@ -1,0 +1,106 @@
+{
+  "version": "0.1.0",
+  "fqbn": "arduino:avr:uno",
+  "files": [
+    {
+      "path": "firmware/uno/0.1.0/LaserShow/Basics.cpp",
+      "bytes": 3417,
+      "sha256": "9527c511e68a9214e0c5a2bd1fc03181e86da00207d476e0a8119f7fcbdc61d3"
+    },
+    {
+      "path": "firmware/uno/0.1.0/LaserShow/Basics.h",
+      "bytes": 1054,
+      "sha256": "72661439fe79dfc27b935acd64a97e9ad7aa2a2903a737ad271b18fc17ba79bb"
+    },
+    {
+      "path": "firmware/uno/0.1.0/LaserShow/CommandParser.cpp",
+      "bytes": 5533,
+      "sha256": "bc8c1b2afe5dba0ee000bc93ce9ecc7fee16f402cec2912713f9add4daa1ceec"
+    },
+    {
+      "path": "firmware/uno/0.1.0/LaserShow/CommandParser.h",
+      "bytes": 721,
+      "sha256": "a4063f3739d293dff7ae866402d2bd7a4f01864fcb6187fa9d04af361c929d73"
+    },
+    {
+      "path": "firmware/uno/0.1.0/LaserShow/DAC_MCP4X.cpp",
+      "bytes": 9865,
+      "sha256": "cb25b68239e53cffac2d76d46bbf51561b0be34dd372e4e1810fbd70b9414929"
+    },
+    {
+      "path": "firmware/uno/0.1.0/LaserShow/DAC_MCP4X.h",
+      "bytes": 4823,
+      "sha256": "4f9d1d0d4953ae3c16e114d3c590fc1d2000377da6b44d12dcbabbc8a0be15c4"
+    },
+    {
+      "path": "firmware/uno/0.1.0/LaserShow/Drawing.cpp",
+      "bytes": 9001,
+      "sha256": "36b4e72765673c3b8fd5e2410e05cfd18a57e4b4c36ec2078af0aa14aa7f4bff"
+    },
+    {
+      "path": "firmware/uno/0.1.0/LaserShow/Drawing.h",
+      "bytes": 2470,
+      "sha256": "7931bbdfbfad40906ca678a950b41294de3efcc9bfda3fe093ae9edd1d908cd2"
+    },
+    {
+      "path": "firmware/uno/0.1.0/LaserShow/FirmwareVersion.h",
+      "bytes": 52,
+      "sha256": "31e9cb8ae9e118f0bc2e497b14685825125b1fa365bee054b7cb603d2d9843ae"
+    },
+    {
+      "path": "firmware/uno/0.1.0/LaserShow/Font.h",
+      "bytes": 44086,
+      "sha256": "6392c3b1951557eeefd972b1b548a02c3f708832f0708a50092041be76ea42ab"
+    },
+    {
+      "path": "firmware/uno/0.1.0/LaserShow/Laser.cpp",
+      "bytes": 11217,
+      "sha256": "137058539646b5ff7f5e954c5ba56f60be72070d862c386b3bdbf2ece3556d56"
+    },
+    {
+      "path": "firmware/uno/0.1.0/LaserShow/Laser.h",
+      "bytes": 4119,
+      "sha256": "08c4b5a2eee793d3a5830855d2d9ba8b0473da172ac1f4df565e1d3e45480052"
+    },
+    {
+      "path": "firmware/uno/0.1.0/LaserShow/LaserShow.ino",
+      "bytes": 1954,
+      "sha256": "9222ed7376d569690ac35d155aa530e8e7e06e3195b20cb9abf4e58616416c6a"
+    },
+    {
+      "path": "firmware/uno/0.1.0/LaserShow/MotionMath.h",
+      "bytes": 387,
+      "sha256": "ddfc96b27bdf9aac53942652d9616ff16fdcdad307d689c02cab0daf63596bcf"
+    },
+    {
+      "path": "firmware/uno/0.1.0/LaserShow/NeopixelEncoderController.h",
+      "bytes": 7790,
+      "sha256": "6250c3e50e4d46f85e5935ad97a50bed349824033b49cb7292a60ac0380ba0bb"
+    },
+    {
+      "path": "firmware/uno/0.1.0/LaserShow/Objects.h",
+      "bytes": 12846,
+      "sha256": "865be04f364d21562405c5b7aa9a4c4a9a3990d50e1ab89efd46c18d0a06c2b1"
+    },
+    {
+      "path": "firmware/uno/0.1.0/LaserShow/PacketDecoder.h",
+      "bytes": 2247,
+      "sha256": "6ba04f40d629b9486ed70eaa43979de7e0b9db519c3c8cb7cf89dd51c9d2d2a6"
+    },
+    {
+      "path": "firmware/uno/0.1.0/README.md",
+      "bytes": 9435,
+      "sha256": "1936aaf93fadb8baaf4714e0936d63d16ed2704535e6454282935901232e3f31"
+    },
+    {
+      "path": "releases/uno-0.1.0/LaserShow.ino.hex",
+      "bytes": 81820,
+      "sha256": "e5e840468ae65b8bf750a313a28e598b01733711d7a045d90fa8a4cfed9ee94e"
+    },
+    {
+      "path": "releases/uno-0.1.0/Sutum-Uno-0.1.0-source.zip",
+      "bytes": 41902,
+      "sha256": "56c8b91295b2366cd4e756bf0b96bd519c66d504dd2124e7527a5c77b5e80382"
+    }
+  ]
+}
