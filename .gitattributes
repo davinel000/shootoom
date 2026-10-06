@@ -1,5 +1,7 @@
 # Preserve the exact bytes of imported legacy source and generated artwork.
 firmware/legacy/** -text
+firmware/uno/** -text
+releases/** -text
 tools/legacy-generators/** -text
 touchdesigner/legacy/** -text
 touchdesigner/extracted/** -text
