@@ -1,0 +1,11 @@
+# Preserve the exact bytes of imported legacy source and generated artwork.
+firmware/legacy/** -text
+tools/legacy-generators/** -text
+touchdesigner/legacy/** -text
+touchdesigner/extracted/** -text
+firmware/legacy/**/Cuneiform*.h linguist-generated=true
+docs/audit/** linguist-generated=true
+reference/local-vs-upstream/** linguist-generated=true
+*.png binary
+*.toe binary
+*.tox binary

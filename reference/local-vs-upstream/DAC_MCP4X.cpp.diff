@@ -1,0 +1,180 @@
+--- upstream/LaserShow/DAC_MCP4X.cpp
++++ legacy/LaserShow/DAC_MCP4X.cpp
+@@ -47,9 +47,7 @@
+ }
+ 
+ void MCP4X::configureSPI() {
+-	SPI.setBitOrder(MSBFIRST);
+-	SPI.setDataMode(SPI_MODE0);
+-	SPI.setClockDivider(SPI_CLOCK_DIV2);
++  SPI.beginTransaction(SPISettings(4000000, MSBFIRST, SPI_MODE0)); //changed for the new platform was 4000000
+ }
+ 
+ // Sets the gain. These DACs support 1x and 2x gain.
+@@ -173,22 +171,54 @@
+ //			| (data << (12 - this->bitwidth));
+ }
+ 
++///////////////////////////
++// RP2040 version
++
++// void MCP4X::write(unsigned int data) {
++// 	// Drive chip select low
++// 	if (MCP4X_PORT_WRITE)
++// 		PORTB &= 0xfb; // Clear PORTB pin 2 = arduino pin 10
++// 	else
++// 		digitalWrite(ss_pin, LOW);
++
++// 	// Send the command and data bits
++// 	SPI.transfer((data & 0xff00) >> 8);
++// 	SPI.transfer(data & 0xff);
++
++// 	// Return chip select to high
++// 	if (MCP4X_PORT_WRITE)
++// 		PORTB |= (1 << 2); // set PORTB pin 2 = arduino pin 10
++// 	else
++// 		digitalWrite(ss_pin, HIGH);
++// }
++
++// NANO version:
++// void MCP4X::write(unsigned int data) {
++//     // Опускаем chip select (SS) до LOW
++//     digitalWrite(ss_pin, LOW);  // Заменяем PORTB &= 0xfb
++
++//     // Отправляем команду и данные
++//     SPI.transfer((data & 0xff00) >> 8);
++//     SPI.transfer(data & 0xff);
++
++//     // Возвращаем chip select (SS) в HIGH
++//     digitalWrite(ss_pin, HIGH);  // Заменяем PORTB |= (1 << 2)
++// }
++
++// newer rp version
+ void MCP4X::write(unsigned int data) {
+-	// Drive chip select low
+-	if (MCP4X_PORT_WRITE)
+-		PORTB &= 0xfb; // Clear PORTB pin 2 = arduino pin 10
+-	else
+-		digitalWrite(ss_pin, LOW);
+-
+-	// Send the command and data bits
+-	SPI.transfer((data & 0xff00) >> 8);
+-	SPI.transfer(data & 0xff);
+-
+-	// Return chip select to high
+-	if (MCP4X_PORT_WRITE)
+-		PORTB |= (1 << 2); // set PORTB pin 2 = arduino pin 10
+-	else
+-		digitalWrite(ss_pin, HIGH);
++    digitalWrite(ss_pin, LOW);  // Опускаем chip select (SS) до LOW
++
++    // Отправляем команду и данные через SPI
++    SPI.transfer((data & 0xff00) >> 8);
++    SPI.transfer(data & 0xff);
++
++    digitalWrite(ss_pin, HIGH);  // Возвращаем chip select (SS) в HIGH
++
++    // Убедитесь, что LDAC используется корректно для синхронизации
++    if (!autoLatch) {
++        latch();  // Если автоматическая синхронизация отключена, вызываем latch вручную
++    }
+ }
+ 
+ 
+@@ -201,27 +231,73 @@
+ // for the DAC(s) to change the output.
+ // If this function is undesired, you can simply tie the LDAC pin to ground.
+ // When tied to ground, you need *NOT* call this function!
++
++
++////////////////
++// NANO version:
++// void MCP4X::latch(void) {
++// 	// The datasheet says CS must return high for 40+ ns before this function
++// 	// is called: no problems, that'd be taken care of automatically, as one
++// 	// clock cycle at 16 MHz is longer... and there'll be a delay of multiple.
++
++// 	if (LDAC_pin < 0)
++// 		return;
++
++// 	// We then need to hold LDAC low for at least 100 ns, i.e ~2 clock cycles.
++
++// 	if (MCP4X_PORT_WRITE) {
++// 		// This gives ~180 ns (three clock cycles, most of which is spent low) of
++// 		// low time on a Uno R3 (16 MHz), measured on a scope to make sure
++// 		PORTD &= ~(1 << 7); // Uno: digital pin 7; Mega: digital pin 38
++// 		asm volatile("nop");
++// 		PORTD |= (1 << 7);
++// 	} else {
++// 		// This takes far, FAR longer than the above despite no NOP; digitalWrite
++// 		// is SLOW! For comparison: the above takes 180 ns, this takes... 3.8 us,
++// 		// or 3800 ns, 21 times as long - WITHOUT having a delay in there!
++// 		digitalWrite(LDAC_pin, LOW);
++// 		digitalWrite(LDAC_pin, HIGH);
++// 	}
++// }
++
++// MCP49x2 (dual DAC) only.
++// Send a set of new values for the DAC to output in a single function call
++// These DACs have a function where you can change multiple DACs at the same
++// time: you call output() "sequentially", one DAC at a time, and *then*,
++// when they've all received the output data, pull the LDAC pin low on
++// all DACs at once. This function pulls the LDAC pin low for long enough
++// for the DAC(s) to change the output.
++// If this function is undesired, you can simply tie the LDAC pin to ground.
++// When tied to ground, you need *NOT* call this function!
++
++///////////////////////////
++// RP2040 version
++
+ void MCP4X::latch(void) {
+-	// The datasheet says CS must return high for 40+ ns before this function
+-	// is called: no problems, that'd be taken care of automatically, as one
+-	// clock cycle at 16 MHz is longer... and there'll be a delay of multiple.
+-
+-	if (LDAC_pin < 0)
+-		return;
+-
+-	// We then need to hold LDAC low for at least 100 ns, i.e ~2 clock cycles.
+-
+-	if (MCP4X_PORT_WRITE) {
+-		// This gives ~180 ns (three clock cycles, most of which is spent low) of
+-		// low time on a Uno R3 (16 MHz), measured on a scope to make sure
+-		PORTD &= ~(1 << 7); // Uno: digital pin 7; Mega: digital pin 38
+-		asm volatile("nop");
+-		PORTD |= (1 << 7);
+-	} else {
+-		// This takes far, FAR longer than the above despite no NOP; digitalWrite
+-		// is SLOW! For comparison: the above takes 180 ns, this takes... 3.8 us,
+-		// or 3800 ns, 21 times as long - WITHOUT having a delay in there!
+-		digitalWrite(LDAC_pin, LOW);
+-		digitalWrite(LDAC_pin, HIGH);
+-	}
+-}
++    if (LDAC_pin < 0)
++        return;
++
++    digitalWrite(LDAC_pin, LOW);
++    delayMicroseconds(5);  // Добавьте небольшую задержку, чтобы DAC успел обработать сигнал
++    digitalWrite(LDAC_pin, HIGH);
++}
++
++// older rp2040
++
++// void MCP4X::latch(void) {
++//     // Убедимся, что pin LDAC подключен
++//     if (LDAC_pin < 0)
++//         return;
++
++//     // Задержка для сигнала LDAC (если требуется использовать прямой доступ к портам)
++//     if (MCP4X_PORT_WRITE) {
++//         // Заменяем обращение к порту на стандартную функцию для Arduino RP2040
++//         digitalWrite(LDAC_pin, LOW);
++//         asm volatile("nop");  // Задержка (NOP команда)
++//         digitalWrite(LDAC_pin, HIGH);
++//     } else {
++//         // Если нет прямого доступа к портам, используем стандартный способ через digitalWrite
++//         digitalWrite(LDAC_pin, LOW);
++//         digitalWrite(LDAC_pin, HIGH);
++//     }
++// }

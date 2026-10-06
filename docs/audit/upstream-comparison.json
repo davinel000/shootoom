@@ -1,0 +1,105 @@
+[
+  {
+    "file": "Basics.cpp",
+    "upstream_exists": true,
+    "local_sha256": "9527c511e68a9214e0c5a2bd1fc03181e86da00207d476e0a8119f7fcbdc61d3",
+    "upstream_sha256": "2bb129522cf95d74a93c686d2ecf1406379dbd1c5f900411f76d14d6c19c68c7",
+    "exact": false,
+    "same_text": false
+  },
+  {
+    "file": "Basics.h",
+    "upstream_exists": true,
+    "local_sha256": "72661439fe79dfc27b935acd64a97e9ad7aa2a2903a737ad271b18fc17ba79bb",
+    "upstream_sha256": "0d9aa7474cbb3a8d72269d1c252809d1160b4e7d2699927fe43e879fd87541fa",
+    "exact": false,
+    "same_text": false
+  },
+  {
+    "file": "CommandParser.cpp",
+    "upstream_exists": false,
+    "local_sha256": "d54f8330f85fe843a002e76e249d863c82a74a0982ea6c0bc3543e8d234788b2"
+  },
+  {
+    "file": "CommandParser.h",
+    "upstream_exists": false,
+    "local_sha256": "f20f156cc4efda3110949b0897ff310274b69a83936a30997dd6b25f50afe86c"
+  },
+  {
+    "file": "DAC_MCP4X.cpp",
+    "upstream_exists": true,
+    "local_sha256": "cb25b68239e53cffac2d76d46bbf51561b0be34dd372e4e1810fbd70b9414929",
+    "upstream_sha256": "d595d5898b706f8ca22d0bcc9f09c6c602a89ea75f24a8fc0f710c0a76e9f452",
+    "exact": false,
+    "same_text": false
+  },
+  {
+    "file": "DAC_MCP4X.h",
+    "upstream_exists": true,
+    "local_sha256": "4f9d1d0d4953ae3c16e114d3c590fc1d2000377da6b44d12dcbabbc8a0be15c4",
+    "upstream_sha256": "4f9d1d0d4953ae3c16e114d3c590fc1d2000377da6b44d12dcbabbc8a0be15c4",
+    "exact": true,
+    "same_text": true
+  },
+  {
+    "file": "Drawing.cpp",
+    "upstream_exists": true,
+    "local_sha256": "36b4e72765673c3b8fd5e2410e05cfd18a57e4b4c36ec2078af0aa14aa7f4bff",
+    "upstream_sha256": "ee1d4be2630732ee907e4d1ddd77e1073d8ee5b856c541e5674317d73870a7e4",
+    "exact": false,
+    "same_text": false
+  },
+  {
+    "file": "Drawing.h",
+    "upstream_exists": true,
+    "local_sha256": "7931bbdfbfad40906ca678a950b41294de3efcc9bfda3fe093ae9edd1d908cd2",
+    "upstream_sha256": "34391e777eea7bc86f190a87fdd3562fe2fbddfa9b0dbe87c7acbb0f74097d77",
+    "exact": false,
+    "same_text": false
+  },
+  {
+    "file": "Font.h",
+    "upstream_exists": true,
+    "local_sha256": "6392c3b1951557eeefd972b1b548a02c3f708832f0708a50092041be76ea42ab",
+    "upstream_sha256": "521b8b50149c48545114c34381e8d7e8cb7883f34402e8ebd8c952c3c400c437",
+    "exact": false,
+    "same_text": false
+  },
+  {
+    "file": "Laser.cpp",
+    "upstream_exists": true,
+    "local_sha256": "196be0fdf40904e7e84a8c065bf194f1491a730218dcdb4d0b2255a2cfe3da6c",
+    "upstream_sha256": "804bb5519a06b836cf890709f0d811770ba96ca0870601e4c1fd3cc314445b5e",
+    "exact": false,
+    "same_text": false
+  },
+  {
+    "file": "Laser.h",
+    "upstream_exists": true,
+    "local_sha256": "f5a82416f7a114d13e9ba908248cc6c6fecd483139c38734fab501225a83faa8",
+    "upstream_sha256": "e571da14090c12c80121d707cc2c0bcf25d755263d401bc7f21be6afa55daf30",
+    "exact": false,
+    "same_text": false
+  },
+  {
+    "file": "LaserShow.ino",
+    "upstream_exists": true,
+    "local_sha256": "50e3ac05f1e9c35b326dfdeceaba0dcfc8bbdbe4b0ae4f8beebe8d989269af81",
+    "upstream_sha256": "21a1d7b0e77f8152ddb6e1210f88f5f1d807daeb37b4fade571a5591a4864d41",
+    "exact": false,
+    "same_text": false
+  },
+  {
+    "file": "NeopixelEncoderController.h",
+    "upstream_exists": false,
+    "local_sha256": "809e60ce351841a2c903f86703f30c6f48285b2a49d8a828077be1caca64d659"
+  },
+  {
+    "file": "Objects.h",
+    "upstream_exists": true,
+    "local_sha256": "865be04f364d21562405c5b7aa9a4c4a9a3990d50e1ab89efd46c18d0a06c2b1",
+    "upstream_sha256": "23d0bf0789b52f71207662715d7efb48e396bd67573f1bebc57f14380f55309c",
+    "exact": false,
+    "same_text": false
+  }
+]

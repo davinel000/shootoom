@@ -1,0 +1,7 @@
+--- upstream/LaserShow/Basics.h
++++ legacy/LaserShow/Basics.h
+@@ -35,4 +35,3 @@
+ long COS(unsigned int angle);
+ 
+ #endif
+-

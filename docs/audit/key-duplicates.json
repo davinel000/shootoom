@@ -1,0 +1,66 @@
+[
+  [
+    {
+      "path": "Version 2025/Sutum2025.77.toe",
+      "bytes": 356092,
+      "mtime_utc": "2025-03-13T01:35:49+00:00",
+      "sha256": "07e2430768affec84fa49bcbe68854cee1ce002884c776c359b81c95cb5baad0"
+    },
+    {
+      "path": "Version 2025/Sutum2025.toe",
+      "bytes": 356092,
+      "mtime_utc": "2025-03-13T01:35:49+00:00",
+      "sha256": "07e2430768affec84fa49bcbe68854cee1ce002884c776c359b81c95cb5baad0"
+    }
+  ],
+  [
+    {
+      "path": "Version 2025/Arduino Sketch/Hammurapi reads/Hammurapireads/Cuneiform.h",
+      "bytes": 188176,
+      "mtime_utc": "2025-02-15T19:02:01+00:00",
+      "sha256": "2451183f979a1ec3a2f4e5183201f24e4704eaedb6cb70eae6c44b276f9ca8a1"
+    }
+  ],
+  [
+    {
+      "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded/Cuneiform.h",
+      "bytes": 614269,
+      "mtime_utc": "2025-03-12T23:55:47+00:00",
+      "sha256": "cf7f5d72a398009640bf3662c7b3ce11c1e4092b6a15461eeca1ee6029c0eeab"
+    }
+  ],
+  [
+    {
+      "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded/Cuneiform_stable.h",
+      "bytes": 818209,
+      "mtime_utc": "2025-03-12T23:55:47+00:00",
+      "sha256": "754b8ebe8942a17669fdae289637dffc953852d45abd67a48db4e0132cd0ce73"
+    },
+    {
+      "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_with_points/Cuneiform_stable.h",
+      "bytes": 818209,
+      "mtime_utc": "2025-03-21T14:01:59+00:00",
+      "sha256": "754b8ebe8942a17669fdae289637dffc953852d45abd67a48db4e0132cd0ce73"
+    },
+    {
+      "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/Cuneiform_stable.h",
+      "bytes": 818209,
+      "mtime_utc": "2025-03-29T17:02:59+00:00",
+      "sha256": "754b8ebe8942a17669fdae289637dffc953852d45abd67a48db4e0132cd0ce73"
+    }
+  ],
+  [
+    {
+      "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_with_points/Cuneiform.h",
+      "bytes": 4179985,
+      "mtime_utc": "2025-03-21T14:01:59+00:00",
+      "sha256": "0e88bec39a81105ff58741e045df94c7c2caaffa5eb1af85f142dc3730d7a9e1"
+    },
+    {
+      "path": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/Cuneiform.h",
+      "bytes": 4179985,
+      "mtime_utc": "2025-03-29T17:02:59+00:00",
+      "sha256": "0e88bec39a81105ff58741e045df94c7c2caaffa5eb1af85f142dc3730d7a9e1"
+    }
+  ]
+]

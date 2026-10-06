@@ -1,0 +1,382 @@
+[
+  {
+    "operator": "local/shortcuts.parm",
+    "parameter": "file 67108881 \"\" \"app.configFolder + '/PanelShortcuts.txt'\""
+  },
+  {
+    "operator": "project1/button1.parm",
+    "parameter": "externaltox 67108912 \"\" \"parent.sys.fileFolder + '/TDPackages/button/button.tox'\""
+  },
+  {
+    "operator": "project1/button10.parm",
+    "parameter": "externaltox 67108912 \"\" \"parent.sys.fileFolder + '/TDPackages/button/button.tox'\""
+  },
+  {
+    "operator": "project1/button2.parm",
+    "parameter": "externaltox 67108912 \"\" \"parent.sys.fileFolder + '/TDPackages/button/button.tox'\""
+  },
+  {
+    "operator": "project1/button3.parm",
+    "parameter": "externaltox 67108912 \"\" \"parent.sys.fileFolder + '/TDPackages/button/button.tox'\""
+  },
+  {
+    "operator": "project1/button4.parm",
+    "parameter": "externaltox 67108912 \"\" \"parent.sys.fileFolder + '/TDPackages/button/button.tox'\""
+  },
+  {
+    "operator": "project1/button5.parm",
+    "parameter": "externaltox 67108912 \"\" \"parent.sys.fileFolder + '/TDPackages/button/button.tox'\""
+  },
+  {
+    "operator": "project1/button6.parm",
+    "parameter": "externaltox 67108912 \"\" \"parent.sys.fileFolder + '/TDPackages/button/button.tox'\""
+  },
+  {
+    "operator": "project1/button7.parm",
+    "parameter": "externaltox 67108912 \"\" \"parent.sys.fileFolder + '/TDPackages/button/button.tox'\""
+  },
+  {
+    "operator": "project1/button8.parm",
+    "parameter": "externaltox 67108912 \"\" \"parent.sys.fileFolder + '/TDPackages/button/button.tox'\""
+  },
+  {
+    "operator": "project1/button9.parm",
+    "parameter": "externaltox 67108912 \"\" \"parent.sys.fileFolder + '/TDPackages/button/button.tox'\""
+  },
+  {
+    "operator": "project1/choreography1.parm",
+    "parameter": "file 67108864 choreography/choreography1.csv"
+  },
+  {
+    "operator": "project1/font_tracer.parm",
+    "parameter": "Fontfile 67109440 Fonts/dejavu-sans-mono/ttf/DejaVuSansMono-Bold.ttf op('./base_font1/text1').par.fontfile"
+  },
+  {
+    "operator": "project1/law_module.parm",
+    "parameter": "externaltox 67108864 P:/PROJECTS/2024/2024-06-carved-dissolut/LAWS/law_module.tox"
+  },
+  {
+    "operator": "project1/serial1.parm",
+    "parameter": "port 67108864 com13"
+  },
+  {
+    "operator": "project1/serial1.parm",
+    "parameter": "baudrate 67108864 115200"
+  },
+  {
+    "operator": "project1/sop_tracer_to_short_unsigned.parm",
+    "parameter": "Fontfile 67109440 Fonts/dejavu-sans-mono/ttf/DejaVuSansMono-Bold.ttf op('./base_font1/text1').par.fontfile"
+  },
+  {
+    "operator": "project1/base1/law_198.parm",
+    "parameter": "file 201326608 \"E:/PROJECTS/2024/2024-10 - SUTUM - carved-dissolut/LAWS/IMG READY/law_200.png\" app.samplesFolder+'/Map/Banana.tif'"
+  },
+  {
+    "operator": "project1/button1/panelexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button1/parexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button10/panelexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button10/parexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button2/panelexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button2/parexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button3/panelexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button3/parexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button4/panelexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button4/parexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button5/panelexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button5/parexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button6/panelexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button6/parexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button7/panelexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button7/parexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button8/panelexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button8/parexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button9/panelexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/button9/parexec1.parm",
+    "parameter": "file 67108912 \"\" f'scripts/{me.name}.py'"
+  },
+  {
+    "operator": "project1/font_tracer/base_font1/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character1/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character10/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character11/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character12/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character13/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character14/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character15/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character16/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character17/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character18/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character19/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character2/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character20/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character21/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character22/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character23/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character24/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character25/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character26/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character27/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character28/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character29/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character3/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character30/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character31/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character32/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character33/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character34/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character35/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character36/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character37/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character38/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character39/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character4/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character40/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character41/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character42/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character5/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character6/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character7/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character8/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/font_tracer/character9/text1.parm",
+    "parameter": "fontfile 67108881 \"\" parent(2).par.Fontfile"
+  },
+  {
+    "operator": "project1/law_module/Background.parm",
+    "parameter": "file 201326608 \"LAWS/Overlay construction/Background.png\" app.samplesFolder+'/Map/Banana.tif'"
+  },
+  {
+    "operator": "project1/law_module/law_196.parm",
+    "parameter": "file 201326608 \"E:/PROJECTS/2024/2024-10 - SUTUM - carved-dissolut/LAWS/IMG READY/law_196.png\" app.samplesFolder+'/Map/Banana.tif'"
+  },
+  {
+    "operator": "project1/law_module/law_197.parm",
+    "parameter": "file 201326608 \"E:/PROJECTS/2024/2024-10 - SUTUM - carved-dissolut/LAWS/IMG READY/law_197.png\" app.samplesFolder+'/Map/Banana.tif'"
+  },
+  {
+    "operator": "project1/law_module/law_198.parm",
+    "parameter": "file 201326608 \"E:/PROJECTS/2024/2024-10 - SUTUM - carved-dissolut/LAWS/IMG READY/law_200.png\" app.samplesFolder+'/Map/Banana.tif'"
+  },
+  {
+    "operator": "project1/law_module/texts/text_base1.parm",
+    "parameter": "fontfile 67108864 Fonts/LiberationMono-Regular.ttf"
+  },
+  {
+    "operator": "project1/OLDSOPS_1/law_1.parm",
+    "parameter": "file 201326608 E:/PROJECTS/2024/2024-06-carved-dissolut/Hammurabi/law_1.jpg app.samplesFolder+'/Map/Banana.tif'"
+  },
+  {
+    "operator": "project1/OLDSOPS_1/law_196.parm",
+    "parameter": "file 201326608 E:/PROJECTS/2024/2024-06-carved-dissolut/CDLI/law_196.jpg app.samplesFolder+'/Map/Banana.tif'"
+  },
+  {
+    "operator": "project1/OLDSOPS_1/photoshop2.parm",
+    "parameter": "file 201326608 E:/PROJECTS/2024/2024-06-carved-dissolut/Photoshop/photoshop2.png app.samplesFolder+'/Map/Banana.tif'"
+  },
+  {
+    "operator": "project1/OLDSOPS_1/photoshop_Recovered.parm",
+    "parameter": "file 201326608 p:/PROJECTS/2024/2024-06-carved-dissolut/Photoshop/photoshop-Recovered.png app.samplesFolder+'/Map/Banana.tif'"
+  },
+  {
+    "operator": "project1/OLDSOPS_1/text4.parm",
+    "parameter": "fontfile 67108864 E:/PROJECTS/2024/2024-06-carved-dissolut/Fonts/Noto_Sans_Cuneiform/NotoSansCuneiform-Regular.ttf"
+  },
+  {
+    "operator": "project1/OLDSOPS_1/text8.parm",
+    "parameter": "fontfile 67108864 E:/PROJECTS/2024/2024-06-carved-dissolut/Fonts/Noto_Sans_Cuneiform/NotoSansCuneiform-Regular.ttf"
+  },
+  {
+    "operator": "project1/sop_tracer_to_short_unsigned/law_196.parm",
+    "parameter": "file 201326608 \"IMG READY/law_196.png\" app.samplesFolder+'/Map/Banana.tif'"
+  },
+  {
+    "operator": "project1/sop_tracer_to_short_unsigned/law_197.parm",
+    "parameter": "file 201326608 \"IMG READY/law_197.png\" app.samplesFolder+'/Map/Banana.tif'"
+  },
+  {
+    "operator": "project1/sop_tracer_to_short_unsigned/law_200.parm",
+    "parameter": "file 201326608 \"IMG READY/law_200.png\" app.samplesFolder+'/Map/Banana.tif'"
+  }
+]

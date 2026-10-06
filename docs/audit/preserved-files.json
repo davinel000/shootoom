@@ -1,0 +1,314 @@
+[
+  {
+    "source": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/Basics.cpp",
+    "destination": "firmware/legacy/uno-candidate/LaserShow/Basics.cpp",
+    "bytes": 3417,
+    "sha256": "9527c511e68a9214e0c5a2bd1fc03181e86da00207d476e0a8119f7fcbdc61d3"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/Basics.h",
+    "destination": "firmware/legacy/uno-candidate/LaserShow/Basics.h",
+    "bytes": 1054,
+    "sha256": "72661439fe79dfc27b935acd64a97e9ad7aa2a2903a737ad271b18fc17ba79bb"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/CommandParser.cpp",
+    "destination": "firmware/legacy/uno-candidate/LaserShow/CommandParser.cpp",
+    "bytes": 5964,
+    "sha256": "d54f8330f85fe843a002e76e249d863c82a74a0982ea6c0bc3543e8d234788b2"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/CommandParser.h",
+    "destination": "firmware/legacy/uno-candidate/LaserShow/CommandParser.h",
+    "bytes": 686,
+    "sha256": "f20f156cc4efda3110949b0897ff310274b69a83936a30997dd6b25f50afe86c"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/DAC_MCP4X.cpp",
+    "destination": "firmware/legacy/uno-candidate/LaserShow/DAC_MCP4X.cpp",
+    "bytes": 9865,
+    "sha256": "cb25b68239e53cffac2d76d46bbf51561b0be34dd372e4e1810fbd70b9414929"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/DAC_MCP4X.h",
+    "destination": "firmware/legacy/uno-candidate/LaserShow/DAC_MCP4X.h",
+    "bytes": 4823,
+    "sha256": "4f9d1d0d4953ae3c16e114d3c590fc1d2000377da6b44d12dcbabbc8a0be15c4"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/Drawing.cpp",
+    "destination": "firmware/legacy/uno-candidate/LaserShow/Drawing.cpp",
+    "bytes": 9001,
+    "sha256": "36b4e72765673c3b8fd5e2410e05cfd18a57e4b4c36ec2078af0aa14aa7f4bff"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/Drawing.h",
+    "destination": "firmware/legacy/uno-candidate/LaserShow/Drawing.h",
+    "bytes": 2470,
+    "sha256": "7931bbdfbfad40906ca678a950b41294de3efcc9bfda3fe093ae9edd1d908cd2"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/Font.h",
+    "destination": "firmware/legacy/uno-candidate/LaserShow/Font.h",
+    "bytes": 44086,
+    "sha256": "6392c3b1951557eeefd972b1b548a02c3f708832f0708a50092041be76ea42ab"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/Laser.cpp",
+    "destination": "firmware/legacy/uno-candidate/LaserShow/Laser.cpp",
+    "bytes": 11033,
+    "sha256": "196be0fdf40904e7e84a8c065bf194f1491a730218dcdb4d0b2255a2cfe3da6c"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/Laser.h",
+    "destination": "firmware/legacy/uno-candidate/LaserShow/Laser.h",
+    "bytes": 4048,
+    "sha256": "f5a82416f7a114d13e9ba908248cc6c6fecd483139c38734fab501225a83faa8"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/LaserShow.ino",
+    "destination": "firmware/legacy/uno-candidate/LaserShow/LaserShow.ino",
+    "bytes": 3158,
+    "sha256": "50e3ac05f1e9c35b326dfdeceaba0dcfc8bbdbe4b0ae4f8beebe8d989269af81"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/NeopixelEncoderController.h",
+    "destination": "firmware/legacy/uno-candidate/LaserShow/NeopixelEncoderController.h",
+    "bytes": 7493,
+    "sha256": "809e60ce351841a2c903f86703f30c6f48285b2a49d8a828077be1caca64d659"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/ScriberLatestSimplified/LaserShow/Objects.h",
+    "destination": "firmware/legacy/uno-candidate/LaserShow/Objects.h",
+    "bytes": 12846,
+    "sha256": "865be04f364d21562405c5b7aa9a4c4a9a3990d50e1ab89efd46c18d0a06c2b1"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/Choreography.h",
+    "destination": "firmware/legacy/rp2040-candidate/HammurapireadsEncoded_fulltexts/Choreography.h",
+    "bytes": 166,
+    "sha256": "f39291ef20940197e72ceccfb2a26835a3524787fd416eb5df48140cae4a6d6e"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/CommandEncoder.cpp",
+    "destination": "firmware/legacy/rp2040-candidate/HammurapireadsEncoded_fulltexts/CommandEncoder.cpp",
+    "bytes": 3260,
+    "sha256": "fc992a270332ed035256225ab25c9d3ccb5fdff64d3260393d298bcfed29c58a"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/CommandEncoder.h",
+    "destination": "firmware/legacy/rp2040-candidate/HammurapireadsEncoded_fulltexts/CommandEncoder.h",
+    "bytes": 962,
+    "sha256": "4c10061b8ab6f72448f1c23619ba10eee14ade5bfbfa996a62bda4240c71c0f8"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/Cuneiform.h",
+    "destination": "firmware/legacy/rp2040-candidate/HammurapireadsEncoded_fulltexts/Cuneiform.h",
+    "bytes": 4179985,
+    "sha256": "0e88bec39a81105ff58741e045df94c7c2caaffa5eb1af85f142dc3730d7a9e1"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/Cuneiform_stable.h",
+    "destination": "firmware/legacy/rp2040-candidate/HammurapireadsEncoded_fulltexts/Cuneiform_stable.h",
+    "bytes": 818209,
+    "sha256": "754b8ebe8942a17669fdae289637dffc953852d45abd67a48db4e0132cd0ce73"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/HammurapireadsEncoded_fulltexts.ino",
+    "destination": "firmware/legacy/rp2040-candidate/HammurapireadsEncoded_fulltexts/HammurapireadsEncoded_fulltexts.ino",
+    "bytes": 10486,
+    "sha256": "13b26d7e0e91ee5b66ae99a84d599fefdf65e95fb2d017bcb19c53f258069867"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/LineSubdivider.cpp",
+    "destination": "firmware/legacy/rp2040-candidate/HammurapireadsEncoded_fulltexts/LineSubdivider.cpp",
+    "bytes": 1081,
+    "sha256": "2f7b769f122a7c7d54c3146b3d536987875fd537bac622b5a17d986bc5e869e4"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/LineSubdivider.h",
+    "destination": "firmware/legacy/rp2040-candidate/HammurapireadsEncoded_fulltexts/LineSubdivider.h",
+    "bytes": 351,
+    "sha256": "8e448f0150668a9470a7c97d0d883cd658319feb423914b60069dc05c822496f"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/Hammurapi reads/HammurapireadsEncoded_fulltexts/SymbolSender.h",
+    "destination": "firmware/legacy/rp2040-candidate/HammurapireadsEncoded_fulltexts/SymbolSender.h",
+    "bytes": 3874,
+    "sha256": "8cb8ef884210de6588a0d46ca99a1d71642bcc73530671b99b6988b8c3937e60"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/LaserShow/Basics.cpp",
+    "destination": "firmware/legacy/alternates/2025-02-25/LaserShow/Basics.cpp",
+    "bytes": 3417,
+    "sha256": "9527c511e68a9214e0c5a2bd1fc03181e86da00207d476e0a8119f7fcbdc61d3"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/LaserShow/Basics.h",
+    "destination": "firmware/legacy/alternates/2025-02-25/LaserShow/Basics.h",
+    "bytes": 1054,
+    "sha256": "72661439fe79dfc27b935acd64a97e9ad7aa2a2903a737ad271b18fc17ba79bb"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/LaserShow/CommandParser.cpp",
+    "destination": "firmware/legacy/alternates/2025-02-25/LaserShow/CommandParser.cpp",
+    "bytes": 5964,
+    "sha256": "d54f8330f85fe843a002e76e249d863c82a74a0982ea6c0bc3543e8d234788b2"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/LaserShow/CommandParser.h",
+    "destination": "firmware/legacy/alternates/2025-02-25/LaserShow/CommandParser.h",
+    "bytes": 686,
+    "sha256": "f20f156cc4efda3110949b0897ff310274b69a83936a30997dd6b25f50afe86c"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/LaserShow/DAC_MCP4X.cpp",
+    "destination": "firmware/legacy/alternates/2025-02-25/LaserShow/DAC_MCP4X.cpp",
+    "bytes": 9865,
+    "sha256": "cb25b68239e53cffac2d76d46bbf51561b0be34dd372e4e1810fbd70b9414929"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/LaserShow/DAC_MCP4X.h",
+    "destination": "firmware/legacy/alternates/2025-02-25/LaserShow/DAC_MCP4X.h",
+    "bytes": 4823,
+    "sha256": "4f9d1d0d4953ae3c16e114d3c590fc1d2000377da6b44d12dcbabbc8a0be15c4"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/LaserShow/Drawing.cpp",
+    "destination": "firmware/legacy/alternates/2025-02-25/LaserShow/Drawing.cpp",
+    "bytes": 16754,
+    "sha256": "6e0f302bf610c17b4730eb217cbd28e161b5916106106790da6fc04d01e7d92e"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/LaserShow/Drawing.h",
+    "destination": "firmware/legacy/alternates/2025-02-25/LaserShow/Drawing.h",
+    "bytes": 2470,
+    "sha256": "7931bbdfbfad40906ca678a950b41294de3efcc9bfda3fe093ae9edd1d908cd2"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/LaserShow/Font.h",
+    "destination": "firmware/legacy/alternates/2025-02-25/LaserShow/Font.h",
+    "bytes": 44086,
+    "sha256": "6392c3b1951557eeefd972b1b548a02c3f708832f0708a50092041be76ea42ab"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/LaserShow/Laser.cpp",
+    "destination": "firmware/legacy/alternates/2025-02-25/LaserShow/Laser.cpp",
+    "bytes": 11031,
+    "sha256": "182d368926c6ad8713c132224094c3a79f6f072a3916663fc62a7709ec70f466"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/LaserShow/Laser.h",
+    "destination": "firmware/legacy/alternates/2025-02-25/LaserShow/Laser.h",
+    "bytes": 4048,
+    "sha256": "f5a82416f7a114d13e9ba908248cc6c6fecd483139c38734fab501225a83faa8"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/LaserShow/LaserShow.ino",
+    "destination": "firmware/legacy/alternates/2025-02-25/LaserShow/LaserShow.ino",
+    "bytes": 3647,
+    "sha256": "5606fa647246cdff334dc96f3acddfbe01304ca92e11a689f1932f7d83e7b8a1"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/LaserShow/NeopixelEncoderController.h",
+    "destination": "firmware/legacy/alternates/2025-02-25/LaserShow/NeopixelEncoderController.h",
+    "bytes": 7464,
+    "sha256": "c24e3a83702f29a3533511ee7ba9cf57005ba9c64a44ddd1cbc18bdc6b7e5332"
+  },
+  {
+    "source": "Version 2025/Arduino Sketch/LaserShow/Objects.h",
+    "destination": "firmware/legacy/alternates/2025-02-25/LaserShow/Objects.h",
+    "bytes": 12846,
+    "sha256": "865be04f364d21562405c5b7aa9a4c4a9a3990d50e1ab89efd46c18d0a06c2b1"
+  },
+  {
+    "source": "GCODEtoUnsigned/output_object.h",
+    "destination": "tools/legacy-generators/GCODEtoUnsigned/output_object.h",
+    "bytes": 13476,
+    "sha256": "e6650040c8aebecc74907199495bc75b8eaaa9c33a87716cddc7b9e96354d466"
+  },
+  {
+    "source": "GCODEtoUnsigned/script.py",
+    "destination": "tools/legacy-generators/GCODEtoUnsigned/script.py",
+    "bytes": 2550,
+    "sha256": "a3b3e187345916a14610ef4aab23540ec224b1a6f04fe4300d60ccf2f3049b92"
+  },
+  {
+    "source": "unsigned gen/script.py",
+    "destination": "tools/legacy-generators/unsigned-gen/script.py",
+    "bytes": 2173,
+    "sha256": "2e5a136dbc04e864d03f888a544c62492f21fa5a7faa0b85031f1ad130272b55"
+  },
+  {
+    "source": "unsigned gen/script_simplify.py",
+    "destination": "tools/legacy-generators/unsigned-gen/script_simplify.py",
+    "bytes": 2170,
+    "sha256": "d0960174cd9c2832e2dbf4552f89b10b879d44225ee1cf1dc32c55b3bb44c653"
+  },
+  {
+    "source": "Version 2025/Sutum2025.toe",
+    "destination": "touchdesigner/legacy/Sutum2025.toe",
+    "bytes": 356092,
+    "sha256": "07e2430768affec84fa49bcbe68854cee1ce002884c776c359b81c95cb5baad0"
+  },
+  {
+    "source": "Version 2025/IMG READY/law_196.png",
+    "destination": "touchdesigner/legacy/IMG READY/law_196.png",
+    "bytes": 1165260,
+    "sha256": "58ab2547ccf717847dbfc7ef0396728b6ba807ac2aae67cc8539d75c5bc87727"
+  },
+  {
+    "source": "Version 2025/IMG READY/law_197.png",
+    "destination": "touchdesigner/legacy/IMG READY/law_197.png",
+    "bytes": 1127224,
+    "sha256": "789c0085087813e3912f384c10cf70ad2340e7e460c060171455c8c79cc39688"
+  },
+  {
+    "source": "Version 2025/IMG READY/law_200.png",
+    "destination": "touchdesigner/legacy/IMG READY/law_200.png",
+    "bytes": 1358456,
+    "sha256": "c73e1e702226c6d4ecdccae119185d2c59672d8f5540e34003c34c5acb39bdf0"
+  },
+  {
+    "source": "choreography/choreography1.csv",
+    "destination": "touchdesigner/legacy/choreography/choreography1.csv",
+    "bytes": 4518,
+    "sha256": "bcace66887f428f8b3e49e25526bc7656fc22cc03d87c07ff909b5297c245c87"
+  },
+  {
+    "source": "Fonts/LiberationMono-Regular.ttf",
+    "destination": "touchdesigner/legacy/Fonts/LiberationMono-Regular.ttf",
+    "bytes": 313408,
+    "sha256": "a9b21391536aec1c8fad37f2d5f24750e7f2d63cd86bccbb2463b6e17005f52e"
+  },
+  {
+    "source": "Fonts/SIL Open Font License.txt",
+    "destination": "touchdesigner/legacy/Fonts/SIL Open Font License.txt",
+    "bytes": 4469,
+    "sha256": "37f8552e9a874ec10710dc0ede6a9adf168e6609fbd02a507f35629373b85a48"
+  },
+  {
+    "source": "Fonts/dejavu-sans-mono/ttf/DejaVuSansMono-Bold.ttf",
+    "destination": "touchdesigner/legacy/Fonts/dejavu-sans-mono/ttf/DejaVuSansMono-Bold.ttf",
+    "bytes": 318392,
+    "sha256": "b908e119ab3a02a34f5ebeb479a1dcbf5682e90cdbdb5c13d68bb55b4d423326"
+  },
+  {
+    "source": "Fonts/dejavu-sans-mono/LICENSE.txt",
+    "destination": "touchdesigner/legacy/Fonts/dejavu-sans-mono/LICENSE.txt",
+    "bytes": 4816,
+    "sha256": "d75938dec098f06f0ac3c00853065d94f020be1c3c62ef1dc2975ba15b4d9b0e"
+  },
+  {
+    "source": "Fonts/Noto_Sans_Cuneiform/NotoSansCuneiform-Regular.ttf",
+    "destination": "touchdesigner/legacy/Fonts/Noto_Sans_Cuneiform/NotoSansCuneiform-Regular.ttf",
+    "bytes": 1423728,
+    "sha256": "67a776667728297b70de107e255290f3068a0e42f921473261b964606edccb76"
+  },
+  {
+    "source": "Fonts/Noto_Sans_Cuneiform/OFL.txt",
+    "destination": "touchdesigner/legacy/Fonts/Noto_Sans_Cuneiform/OFL.txt",
+    "bytes": 4478,
+    "sha256": "2a3149ce2696e0686eedc396e35a704ab3979c3a6c940b0e6ac77f692f5fb233"
+  }
+]
