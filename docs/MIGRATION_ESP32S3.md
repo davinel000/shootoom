@@ -1,6 +1,42 @@
 # ESP32-S3 validation plan
 
-ESP32-S3 is a candidate, not a selected replacement. First establish the installed legacy build and wiring. Keep the existing analog stage; no evidence in this audit warrants redesigning its ±15 V section.
+This is the historical migration plan. See the [current S3 firmware](../firmware/esp32-s3/README.md) and [assembly guide](SHOOTOOM_GUIDE.md).
+
+## Architecture decision — proposal updated 2026-10-07
+
+The owner reports stable drawing with no current jitter. The reason for the original two-controller arrangement was the AVR receiver's limited memory. The owner now identifies the small receiver physically as a Nano, rather than an Uno; The AVR firmware targets Arduino Uno and is archived in `firmware/legacy/uno/0.1.0`. The RP2040 is outside the enclosure because the assembly is crowded. Prioritize compact permanent assembly, a working encoder, adjustable drawing/pauses, and software projection sizing.
+
+For this workload, the recommended final architecture is **one controller with sufficient flash**, with XIAO ESP32-S3 Plus as the compact candidate. Two controllers are not a design requirement. The existing Nano RP2040 Connect, if that is the installed RP2040 board, is also technically capable of a single-controller implementation; the S3 choice is driven primarily by enclosure space. Actual board selection still needs a pin map and mechanical fit check.
+
+One firmware contains the stored point arrays, choreography player, text/vector renderer, encoder/NeoPixel interface, and USB command interface. Eliminate the inter-board UART encoder/parser/ACK path for local playback. TouchDesigner can later send control commands through USB to the same parameter interface used by the encoder; autonomous playback must work with the computer disconnected. Direct external point streaming is a later requirement, not needed for the first permanent build. Start with flash-resident drawings rather than SD.
+
+Keep software responsibilities separate within the controller: the renderer advances in bounded time steps; the player schedules scenes and pauses; the user interface edits parameters. Long drawing loops and multi-second `delay()` calls must become resumable operations so encoder, USB, and stop commands remain responsive. Use one interpolation stage with explicit timing. Do not port the current `setSpeed()` meaning unchanged: it changes `_quality` (intermediate point count), while the RP2040 sender separately subdivides and delays each transmitted point.
+
+### Controls for photochromic presentation
+
+| Parameter | Purpose | Current source evidence / proposed change |
+|---|---|---|
+| Drawing speed | Rate of travel along visible paths | Player uses `interp=5` and `pauseTime=6`; receiver `setSpeed()` changes interpolation quality. Introduce a defined path-speed parameter separately from geometric accuracy. |
+| Scene pause | Time with emission off before the next section | Player has fixed `delay(3000/4000/7000)` calls. Make these baseline pauses adjustable by a separate multiplier. |
+| Repeated passes | Exposure / strength of a written mark | Stone is repeated 15 times; text commands include repeat counts. Make repeat/exposure settings separate from path speed. |
+| Global scale | Size of the whole choreography around a calibrated center | Receiver has `setScale()` and offsets, but the encoder's scale update is commented out. Apply a global transform to all objects and text positions, distinct from local text scales. |
+| Center / rotation | Optional calibration | Use one global transform after scene geometry is produced, with bounded output. Introduce after pause/speed/scale controls. |
+
+Recommended encoder UI: short press selects Pause / Drawing speed / Scale, rotation edits the selected parameter, long press toggles run/pause with emission off while paused. Use distinct NeoPixel colors for the parameter and a position/brightness cue for its value. A long press must not block encoder or rendering services. Keep the original stored choreography as the baseline.
+
+At constant laser power, slowing a lit pass increases delivered exposure per path length. Therefore slowing the overall presentation by lengthening blanked pauses is different from slowing the actual lit stroke. Temperature-dependent mark persistence reported by the owner makes independent pause, speed, and pass-count controls useful; a profile's appearance must be tested on the actual pigment at the venue. No universal decay time or automatic temperature law is assumed.
+
+### Permanent assembly
+
+Target one mounted carrier/perfboard with a controller, DAC, appropriate 3.3 V → 5 V logic buffering, defined power distribution, and labeled connectors for encoder, ring, laser control, and X/Y output. The analog conditioning stage may share the board in a separate physical area; software scaling does not by itself replace voltage-range/offset conversion required by the galvo-driver interface. Keep its established transfer function until documented. Neither resistor values nor an op-amp model have been selected here.
+
+Design the power connections and mechanical layout before soldering: record board/enclosure dimensions and mounting clearance, place power entry and larger terminals first, keep USB accessible, and route short digital/analog signal paths. Perfboard can improve layout using underside wiring, but mounting connectors and clearance determine actual size. A custom PCB is optional after the circuit is verified.
+
+Original reference: [DeltaFlo LaserProjector](https://github.com/DeltaFlo/LaserProjector) links [Arduino Laser Show With Real Galvos](https://www.instructables.com/Arduino-Laser-Show-With-Real-Galvos/); its Step 7 is titled “Bipolar Signal With Opamps.” This establishes the reference analog stage's role, not the exact installed circuit or resistor values. See [current wiring guide](SHOOTOOM_GUIDE.md) for outstanding connector/power evidence.
+
+Completion evidence for the first single-controller implementation: build with flash-resident data and record flash/RAM use; verify both DAC channels and blanking; verify encoder/USB responsiveness throughout a long scene and a long pause; measure point timing; confirm transforms respect calibrated limits; compare the original choreography at baseline settings and then assess independent speed/pause/pass-count adjustments on the actual surface.
+
+ESP32-S3 is a candidate, not a tested replacement. Keep the existing analog stage until its wiring/transfer function is documented.
 
 ## Compact board candidate
 

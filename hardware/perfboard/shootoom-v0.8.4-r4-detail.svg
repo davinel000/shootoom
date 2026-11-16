@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 475" role="img" aria-label="R4 10 кОм: пайка E20 и E22, корпус стоя с другой стороны">
+<rect width="900" height="475" fill="#eef4f6"/>
+<text x="30" y="32" font-family="sans-serif" font-size="22" font-weight="bold">ПАЙКА: сторона с буквами, фрагмент E…A</text>
+<path d="M70 110 V350" stroke="#bd995e" stroke-width="9"/>
+<text x="70" y="85" text-anchor="middle" font-family="sans-serif" font-size="19">19</text>
+<circle cx="70" cy="110" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="70" cy="170" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="70" cy="230" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="70" cy="290" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="70" cy="350" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<path d="M155 110 V350" stroke="#bd995e" stroke-width="9"/>
+<text x="155" y="85" text-anchor="middle" font-family="sans-serif" font-size="19">20</text>
+<circle cx="155" cy="110" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="155" cy="170" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="155" cy="230" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="155" cy="290" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="155" cy="350" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<path d="M240 110 V350" stroke="#bd995e" stroke-width="9"/>
+<text x="240" y="85" text-anchor="middle" font-family="sans-serif" font-size="19">21</text>
+<circle cx="240" cy="110" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="240" cy="170" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="240" cy="230" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="240" cy="290" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="240" cy="350" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<path d="M325 110 V350" stroke="#bd995e" stroke-width="9"/>
+<text x="325" y="85" text-anchor="middle" font-family="sans-serif" font-size="19">22</text>
+<circle cx="325" cy="110" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="325" cy="170" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="325" cy="230" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="325" cy="290" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="325" cy="350" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<path d="M410 110 V350" stroke="#bd995e" stroke-width="9"/>
+<text x="410" y="85" text-anchor="middle" font-family="sans-serif" font-size="19">23</text>
+<circle cx="410" cy="110" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="410" cy="170" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="410" cy="230" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="410" cy="290" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<circle cx="410" cy="350" r="7" fill="#fff" stroke="#bd995e" stroke-width="3"/>
+<text x="25" y="116" font-family="sans-serif" font-size="20">E</text>
+<text x="25" y="176" font-family="sans-serif" font-size="20">D</text>
+<text x="25" y="236" font-family="sans-serif" font-size="20">C</text>
+<text x="25" y="296" font-family="sans-serif" font-size="20">B</text>
+<text x="25" y="356" font-family="sans-serif" font-size="20">A</text>
+<path d="M155 110 C180 155 285 155 325 110" fill="none" stroke="#7896a3" stroke-width="5" stroke-dasharray="8 5"/>
+<circle cx="325" cy="110" r="17" fill="#d9bb7c" fill-opacity=".5" stroke="#7896a3" stroke-dasharray="5 4"/>
+<circle cx="155" cy="110" r="19" fill="none" stroke="#d88300" stroke-width="5"/>
+<circle cx="325" cy="110" r="23" fill="none" stroke="#d88300" stroke-width="5"/>
+<text x="155" y="62" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold">E20 / Gate</text>
+<text x="325" y="62" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold">E22 / GND</text>
+<text x="240" y="205" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#a12a21">E21 НЕ соединять</text>
+<rect x="131" y="327" width="218" height="46" fill="#172b35" opacity=".2"/>
+<text x="240" y="404" text-anchor="middle" font-family="sans-serif" font-size="17">J7 за платой: Gate / Drain / Source</text>
+<text x="30" y="445" font-family="sans-serif" font-size="17">Два новых паяных соединения. Резистор — на другой стороне.</text>
+<path d="M465 55 V420" stroke="#adc0c7"/>
+<text x="500" y="75" font-family="sans-serif" font-size="22" font-weight="bold">ВИД СБОКУ</text>
+<path d="M515 325 H850" stroke="#467d51" stroke-width="14"/>
+<path d="M570 325 V165 H790 V198" fill="none" stroke="#596d79" stroke-width="5"/>
+<path d="M570 300 V165 H790 V190" fill="none" stroke="#2767b4" stroke-width="10"/>
+<rect x="773" y="198" width="34" height="94" rx="12" fill="#d9bb7c" stroke="#755a28" stroke-width="3"/>
+<path d="M790 292 V325" stroke="#596d79" stroke-width="5"/>
+<text x="680" y="130" text-anchor="middle" font-family="sans-serif" font-size="18">10 кОм; длинная ножка в изоляции</text>
+<text x="570" y="365" text-anchor="middle" font-family="sans-serif" font-size="19">E20</text>
+<text x="680" y="365" text-anchor="middle" font-family="sans-serif" font-size="19">E21</text>
+<text x="790" y="365" text-anchor="middle" font-family="sans-serif" font-size="19">E22</text>
+<text x="500" y="412" font-family="sans-serif" font-size="17">Корпус стоя у E22 со стороны компонентов.</text>
+</svg>

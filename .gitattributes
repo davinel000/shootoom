@@ -1,6 +1,7 @@
 # Preserve the exact bytes of imported legacy source and generated artwork.
 firmware/legacy/** -text
-firmware/uno/** -text
+firmware/esp32-s3/**/ShootoomS3/** -text
+tools/check_s3_v015.cpp -text
 releases/** -text
 tools/legacy-generators/** -text
 touchdesigner/legacy/** -text

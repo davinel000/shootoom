@@ -8,6 +8,6 @@ Status: **compiled candidate for bench validation, not uploaded or hardware-test
 - `build-output.txt`: final compile log including retained warnings.
 - `validation.json`: exact build environment and limits of verification.
 
-See [version notes](../../firmware/uno/0.1.0/README.md) and [changelog](../../firmware/uno/CHANGELOG.md). Legacy data and code hashes remain unchanged. Files with bootloader, ELF and EEPROM outputs generated locally by Arduino CLI are not published.
+See [version notes](../../firmware/legacy/uno/0.1.0/README.md) and [changelog](../../firmware/legacy/uno/CHANGELOG.md). Legacy data and code hashes remain unchanged. Files with bootloader, ELF and EEPROM outputs generated locally by Arduino CLI are not published.
 
 Rebuild from the repository root with `python tools/firmware-checks/build_uno.py --cli <arduino-cli-path> --config <IDE-config-yaml>`. Matching core/library versions are required; the script never opens COM ports or uploads. Rebuilding archives may change ZIP metadata/hashes; retain the published manifest for comparison. New behavior must be published under a new version rather than replacing this version.

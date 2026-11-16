@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-31",
+  "uploaded_by_agent": false,
+  "optically_tested_by_agent": false,
+  "fqbn": "esp32:esp32:XIAO_ESP32S3_Plus:CDCOnBoot=cdc",
+  "source_sha256": {
+    "App.h": "d871cf18faf54f37a06e6dc5bef5bfcfe8fcb3e98cffa17707b1d09c03176df8",
+    "Config.h": "efd4e51d22069e3a9b3d746062d5c24471148ae25f701d646386d2abdf2226c6",
+    "FontData.h": "0c42e61b654cccf92114c1ec868d08dd54e2d1bec7385ae96401f35ef8e93970",
+    "Frame.h": "32e4a4015c34088db004dfe20098a76dd5f3c25ac1db3995b35af8d3782a1d47",
+    "Geometry.h": "89c463804af17cd97da1deea83bf3a0905f6cffdd533ea9d80f6381bbc37c77d",
+    "Indicator.h": "66e7408718103e3d0d699d3c314253400525d519e6b1736ee880c58685cf56d8",
+    "Input.h": "ab92e2086286fde6a631df191ae7ae2cdbae031feac1399531fdb918dee701fa",
+    "Motion.h": "b85bf34dff093b3b89cbc7918274a81961d900f2fd961e7df62c37c20c5cf41f",
+    "Renderer.h": "866881c575588a564bcc23b4b4504398767599742cba110246eab03d4e80bc08",
+    "Ring.h": "f8d2470876420692b2f2c90c92fe5a699e1fd5cf1f6d6629eeb27ec9bfa3743f",
+    "Settings.h": "12c389f034c4211b63521dcd60930e1259df31541aca8a4c3b7f0428aae9d717",
+    "ShootoomS3.ino": "b0ea66a1a42fc5b86d7fd5f0066c17ad0919aae3582a5b68550393ff00e32c42",
+    "ShowData.h": "d7da20954cf82b8a33e33c4456b82bd38f4ca5ca130954394c1d8b122cd83b64",
+    "ShowPlayer.h": "fcd24839dfdbaacba872ba60ae28929e6997422fe6cfafdde884f2776e59360a",
+    "Transform.h": "ebdef90e40945b0e15f9e53d379c40767391f5990e24f48d08da1be1886103c2"
+  },
+  "native_check_source_sha256": "a0744d874083699eae5223f2f52726f43bfad16cfc605a96f1c6fd2e4e583f99",
+  "gpio_routes_verified": 9,
+  "preserved_files": [
+    "ShowData.h",
+    "FontData.h",
+    "Geometry.h",
+    "Motion.h",
+    "Input.h",
+    "Frame.h",
+    "Transform.h",
+    "Ring.h",
+    "show-source-manifest.json"
+  ],
+  "builds": [
+    {
+      "core": "3.3.7",
+      "compiled_headers_match_release": true,
+      "binary_sha256": "9e324c2831efd088f865c185c410931c2d5c0efcf52240815e84563cca2b0370"
+    },
+    {
+      "core": "4.0.0-alpha1",
+      "compiled_headers_match_release": true,
+      "binary_sha256": "447992456b67fe0eaa60ee0cc57e1b05e8f4550ee95f74769a07875dbfa2990d"
+    }
+  ]
+}

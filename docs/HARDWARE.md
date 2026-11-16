@@ -1,10 +1,14 @@
-# Hardware evidence
+# Legacy hardware evidence
+
+See the [current hardware guide](SHOOTOOM_GUIDE.md) for S3 wiring.
+
+**Photo evidence, 2026-10-08:** the receiver is visibly a Nano-format board; a separate soldered analog board has a readable **UTC TL082L** marking. The owner reports a MOSFET laser switch, 5 V adapter feeding the breadboard, and an intermittent contact restored by moving a wire. A reported white wire to Nano VIN needs tracing: classic Nano VIN is specified for 7–12 V, so 5 V into VIN would be an additional supply problem if confirmed. No resistor values, MOSFET model or hidden DAC marking have been inferred from these photos.
 
 The [artist's description of Šūtum](https://www.slavaromanov.art/2024/shootoom) specifies a focused 405 nm laser and photochromic pigments. Wavelength is reported project context, not a measurement of the currently installed module; exact optical power and module identification remain unknown.
 
 | Part/signal | Established from code | Physical confirmation needed |
 | --- | --- | --- |
-| Uno receiver | SoftwareSerial, Uno pin layout in DAC lineage | Board marking/revision and installed firmware |
+| AVR receiver (owner reports Nano, 2026-10-07) | SoftwareSerial, Arduino D-pin layout in DAC lineage; saved firmware artifact/build target named Uno | Exact Nano variant and marking/revision |
 | RP2040 player | User report; code uses Serial1, large PROGMEM arrays | Exact board, core, flash capacity, UART pin mapping |
 | DAC | `Laser::init`: MCP4X_4822, CS=10, LDAC=7, autoLatch=true, gain 1x both channels | Read chip marking, VDD and actual LDAC wiring |
 | SPI | Local driver: 4 MHz, MSB first, mode 0 | Scope SCK/SDI/CS/LDAC; Uno MOSI D11, SCK D13 |

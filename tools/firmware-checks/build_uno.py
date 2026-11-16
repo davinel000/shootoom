@@ -12,7 +12,7 @@ p.add_argument('--cli',default='arduino-cli')
 p.add_argument('--config',type=Path)
 a=p.parse_args()
 root=Path(__file__).resolve().parents[2]
-version=root/'firmware/uno/0.1.0'
+version=root/'firmware/legacy/uno/0.1.0'
 out=root/'releases/uno-0.1.0'
 out.mkdir(parents=True,exist_ok=True)
 base=[a.cli]+(['--config-file',str(a.config)] if a.config else [])

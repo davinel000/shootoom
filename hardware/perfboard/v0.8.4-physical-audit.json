@@ -1,0 +1,728 @@
+{
+  "revision": "0.8.4",
+  "project_sha256": "caebe1b10baabaa0277f98e21d2093660b5d29cf50cfc51b236c70a0b04dfb54",
+  "model_result": "PASS",
+  "physical_ic_pins": 42,
+  "nets": 24,
+  "shorts": [],
+  "opens": {},
+  "occupied_hole_collisions": {},
+  "cuts": 0,
+  "wire_count": 29,
+  "hardware_tested": false,
+  "pins": [
+    {
+      "pin": "U2.1",
+      "hole": "F10",
+      "x": 575,
+      "y": 525,
+      "net": "+5V"
+    },
+    {
+      "pin": "U2.11",
+      "hole": "E19",
+      "x": 1025,
+      "y": 375,
+      "net": "NC"
+    },
+    {
+      "pin": "U2.2",
+      "hole": "F11",
+      "x": 625,
+      "y": 525,
+      "net": "SCK_3V3"
+    },
+    {
+      "pin": "U2.12",
+      "hole": "E18",
+      "x": 975,
+      "y": 375,
+      "net": "NC"
+    },
+    {
+      "pin": "U2.3",
+      "hole": "F12",
+      "x": 675,
+      "y": 525,
+      "net": "MOSI_3V3"
+    },
+    {
+      "pin": "U2.13",
+      "hole": "E17",
+      "x": 925,
+      "y": 375,
+      "net": "LASER_5V"
+    },
+    {
+      "pin": "U2.4",
+      "hole": "F13",
+      "x": 725,
+      "y": 525,
+      "net": "CS_3V3"
+    },
+    {
+      "pin": "U2.14",
+      "hole": "E16",
+      "x": 875,
+      "y": 375,
+      "net": "LED_5V"
+    },
+    {
+      "pin": "U2.5",
+      "hole": "F14",
+      "x": 775,
+      "y": 525,
+      "net": "LDAC_3V3"
+    },
+    {
+      "pin": "U2.15",
+      "hole": "E15",
+      "x": 825,
+      "y": 375,
+      "net": "LDAC_5V"
+    },
+    {
+      "pin": "U2.6",
+      "hole": "F15",
+      "x": 825,
+      "y": 525,
+      "net": "LED_3V3"
+    },
+    {
+      "pin": "U2.16",
+      "hole": "E14",
+      "x": 775,
+      "y": 375,
+      "net": "CS_5V"
+    },
+    {
+      "pin": "U2.7",
+      "hole": "F16",
+      "x": 875,
+      "y": 525,
+      "net": "LASER_3V3"
+    },
+    {
+      "pin": "U2.17",
+      "hole": "E13",
+      "x": 725,
+      "y": 375,
+      "net": "MOSI_5V"
+    },
+    {
+      "pin": "U2.8",
+      "hole": "F17",
+      "x": 925,
+      "y": 525,
+      "net": "GND"
+    },
+    {
+      "pin": "U2.18",
+      "hole": "E12",
+      "x": 675,
+      "y": 375,
+      "net": "SCK_5V"
+    },
+    {
+      "pin": "U2.9",
+      "hole": "F18",
+      "x": 975,
+      "y": 525,
+      "net": "GND"
+    },
+    {
+      "pin": "U2.19",
+      "hole": "E11",
+      "x": 625,
+      "y": 375,
+      "net": "GND"
+    },
+    {
+      "pin": "U2.10",
+      "hole": "F19",
+      "x": 1025,
+      "y": 525,
+      "net": "GND"
+    },
+    {
+      "pin": "U2.20",
+      "hole": "E10",
+      "x": 575,
+      "y": 375,
+      "net": "+5V"
+    },
+    {
+      "pin": "U3.1",
+      "hole": "F27",
+      "x": 1425,
+      "y": 525,
+      "net": "+5V"
+    },
+    {
+      "pin": "U3.5",
+      "hole": "E30",
+      "x": 1575,
+      "y": 375,
+      "net": "LDAC_5V"
+    },
+    {
+      "pin": "U3.2",
+      "hole": "F28",
+      "x": 1475,
+      "y": 525,
+      "net": "CS_5V"
+    },
+    {
+      "pin": "U3.6",
+      "hole": "E29",
+      "x": 1525,
+      "y": 375,
+      "net": "DAC_B"
+    },
+    {
+      "pin": "U3.3",
+      "hole": "F29",
+      "x": 1525,
+      "y": 525,
+      "net": "SCK_5V"
+    },
+    {
+      "pin": "U3.7",
+      "hole": "E28",
+      "x": 1475,
+      "y": 375,
+      "net": "GND"
+    },
+    {
+      "pin": "U3.4",
+      "hole": "F30",
+      "x": 1575,
+      "y": 525,
+      "net": "MOSI_5V"
+    },
+    {
+      "pin": "U3.8",
+      "hole": "E27",
+      "x": 1425,
+      "y": 375,
+      "net": "DAC_A"
+    },
+    {
+      "pin": "U1.5V",
+      "hole": "D1",
+      "x": 125,
+      "y": 325,
+      "net": "XIAO_5V"
+    },
+    {
+      "pin": "U1.GND",
+      "hole": "D2",
+      "x": 175,
+      "y": 325,
+      "net": "GND"
+    },
+    {
+      "pin": "U1.3V3",
+      "hole": "D3",
+      "x": 225,
+      "y": 325,
+      "net": "+3V3"
+    },
+    {
+      "pin": "U1.D10",
+      "hole": "D4",
+      "x": 275,
+      "y": 325,
+      "net": "MOSI_3V3"
+    },
+    {
+      "pin": "U1.D9",
+      "hole": "D5",
+      "x": 325,
+      "y": 325,
+      "net": "NC"
+    },
+    {
+      "pin": "U1.D8",
+      "hole": "D6",
+      "x": 375,
+      "y": 325,
+      "net": "SCK_3V3"
+    },
+    {
+      "pin": "U1.D7",
+      "hole": "D7",
+      "x": 425,
+      "y": 325,
+      "net": "LED_3V3"
+    },
+    {
+      "pin": "U1.D0",
+      "hole": "H1",
+      "x": 125,
+      "y": 625,
+      "net": "LASER_3V3"
+    },
+    {
+      "pin": "U1.D1",
+      "hole": "H2",
+      "x": 175,
+      "y": 625,
+      "net": "CS_3V3"
+    },
+    {
+      "pin": "U1.D2",
+      "hole": "H3",
+      "x": 225,
+      "y": 625,
+      "net": "NC"
+    },
+    {
+      "pin": "U1.D3",
+      "hole": "H4",
+      "x": 275,
+      "y": 625,
+      "net": "LDAC_3V3"
+    },
+    {
+      "pin": "U1.D4",
+      "hole": "H5",
+      "x": 325,
+      "y": 625,
+      "net": "ENC_A"
+    },
+    {
+      "pin": "U1.D5",
+      "hole": "H6",
+      "x": 375,
+      "y": 625,
+      "net": "ENC_B"
+    },
+    {
+      "pin": "U1.D6",
+      "hole": "H7",
+      "x": 425,
+      "y": 625,
+      "net": "ENC_SW"
+    },
+    {
+      "pin": "J1.1",
+      "hole": "BOTTOM GND 3",
+      "x": 225,
+      "y": 25,
+      "net": "GND"
+    },
+    {
+      "pin": "J1.2",
+      "hole": "BOTTOM +5V 3",
+      "x": 225,
+      "y": 75,
+      "net": "+5V"
+    },
+    {
+      "pin": "J3.1",
+      "hole": "BOTTOM GND 17",
+      "x": 925,
+      "y": 25,
+      "net": "GND"
+    },
+    {
+      "pin": "J3.2",
+      "hole": "BOTTOM +5V 17",
+      "x": 925,
+      "y": 75,
+      "net": "+5V"
+    },
+    {
+      "pin": "J4.1",
+      "hole": "J5",
+      "x": 325,
+      "y": 725,
+      "net": "ENC_A"
+    },
+    {
+      "pin": "J4.2",
+      "hole": "J6",
+      "x": 375,
+      "y": 725,
+      "net": "ENC_B"
+    },
+    {
+      "pin": "J4.3",
+      "hole": "J7",
+      "x": 425,
+      "y": 725,
+      "net": "ENC_SW"
+    },
+    {
+      "pin": "J4.4",
+      "hole": "J8",
+      "x": 475,
+      "y": 725,
+      "net": "GND"
+    },
+    {
+      "pin": "J4.5",
+      "hole": "J9",
+      "x": 525,
+      "y": 725,
+      "net": "+3V3"
+    },
+    {
+      "pin": "J5.1",
+      "hole": "J19",
+      "x": 1025,
+      "y": 725,
+      "net": "GND"
+    },
+    {
+      "pin": "J5.2",
+      "hole": "J20",
+      "x": 1075,
+      "y": 725,
+      "net": "LED_DATA"
+    },
+    {
+      "pin": "J5.3",
+      "hole": "J21",
+      "x": 1125,
+      "y": 725,
+      "net": "+5V"
+    },
+    {
+      "pin": "J7.1",
+      "hole": "A20",
+      "x": 1075,
+      "y": 175,
+      "net": "GATE"
+    },
+    {
+      "pin": "J7.2",
+      "hole": "A21",
+      "x": 1125,
+      "y": 175,
+      "net": "LASER_RETURN"
+    },
+    {
+      "pin": "J7.3",
+      "hole": "A22",
+      "x": 1175,
+      "y": 175,
+      "net": "GND"
+    },
+    {
+      "pin": "J6.1",
+      "hole": "A27",
+      "x": 1425,
+      "y": 175,
+      "net": "DAC_A"
+    },
+    {
+      "pin": "J6.2",
+      "hole": "A28",
+      "x": 1475,
+      "y": 175,
+      "net": "GND"
+    },
+    {
+      "pin": "J6.3",
+      "hole": "A29",
+      "x": 1525,
+      "y": 175,
+      "net": "DAC_B"
+    },
+    {
+      "pin": "J2.1",
+      "hole": "A24",
+      "x": 1275,
+      "y": 175,
+      "net": "+5V"
+    },
+    {
+      "pin": "J2.2",
+      "hole": "A25",
+      "x": 1325,
+      "y": 175,
+      "net": "LASER_RETURN"
+    },
+    {
+      "pin": "R1.1",
+      "hole": "D17",
+      "x": 925,
+      "y": 325,
+      "net": "LASER_5V"
+    },
+    {
+      "pin": "R1.2",
+      "hole": "D20",
+      "x": 1075,
+      "y": 325,
+      "net": "GATE"
+    },
+    {
+      "pin": "R2.1",
+      "hole": "J1",
+      "x": 125,
+      "y": 725,
+      "net": "LASER_3V3"
+    },
+    {
+      "pin": "R2.2",
+      "hole": "TOP GND 4",
+      "x": 275,
+      "y": 825,
+      "net": "GND"
+    },
+    {
+      "pin": "R3.1",
+      "hole": "C16",
+      "x": 875,
+      "y": 275,
+      "net": "LED_5V"
+    },
+    {
+      "pin": "R3.2",
+      "hole": "C23",
+      "x": 1225,
+      "y": 275,
+      "net": "LED_DATA"
+    },
+    {
+      "pin": "C1.1",
+      "hole": "C10",
+      "x": 575,
+      "y": 275,
+      "net": "+5V"
+    },
+    {
+      "pin": "C1.2",
+      "hole": "C11",
+      "x": 625,
+      "y": 275,
+      "net": "GND"
+    },
+    {
+      "pin": "C2.1",
+      "hole": "G27",
+      "x": 1425,
+      "y": 575,
+      "net": "+5V"
+    },
+    {
+      "pin": "C2.2",
+      "hole": "G26",
+      "x": 1375,
+      "y": 575,
+      "net": "GND"
+    },
+    {
+      "pin": "D1.1",
+      "hole": "BOTTOM +5V 1",
+      "x": 125,
+      "y": 75,
+      "net": "+5V"
+    },
+    {
+      "pin": "D1.2",
+      "hole": "B1",
+      "x": 125,
+      "y": 225,
+      "net": "XIAO_5V"
+    },
+    {
+      "pin": "R4.1",
+      "hole": "E20",
+      "x": 1075,
+      "y": 375,
+      "net": "GATE"
+    },
+    {
+      "pin": "R4.2",
+      "hole": "E22",
+      "x": 1175,
+      "y": 375,
+      "net": "GND"
+    }
+  ],
+  "wires": [
+    {
+      "wire": "W01",
+      "net": "GND",
+      "from": "LEFT GND LINK UP",
+      "to": "LEFT GND LINK DOWN"
+    },
+    {
+      "wire": "W02",
+      "net": "+5V",
+      "from": "RIGHT +5V LINK UP",
+      "to": "RIGHT +5V LINK DOWN"
+    },
+    {
+      "wire": "W03",
+      "net": "+5V",
+      "from": "J27",
+      "to": "TOP +5V 27"
+    },
+    {
+      "wire": "W04",
+      "net": "GND",
+      "from": "TOP GND 26",
+      "to": "J26"
+    },
+    {
+      "wire": "W05",
+      "net": "+5V",
+      "from": "TOP +5V 10",
+      "to": "J10"
+    },
+    {
+      "wire": "W06",
+      "net": "+5V",
+      "from": "A10",
+      "to": "BOTTOM +5V 10"
+    },
+    {
+      "wire": "W07",
+      "net": "GND",
+      "from": "I8",
+      "to": "TOP GND 8"
+    },
+    {
+      "wire": "W08",
+      "net": "SCK_3V3",
+      "from": "E6",
+      "to": "G11"
+    },
+    {
+      "wire": "W09",
+      "net": "LED_3V3",
+      "from": "E7",
+      "to": "G15"
+    },
+    {
+      "wire": "W10",
+      "net": "GND",
+      "from": "A2",
+      "to": "BOTTOM GND 2"
+    },
+    {
+      "wire": "W11",
+      "net": "GND",
+      "from": "BOTTOM GND 11",
+      "to": "A11"
+    },
+    {
+      "wire": "W12",
+      "net": "LASER_3V3",
+      "from": "I1",
+      "to": "I16"
+    },
+    {
+      "wire": "W13",
+      "net": "GND",
+      "from": "B22",
+      "to": "BOTTOM GND 22"
+    },
+    {
+      "wire": "W14",
+      "net": "+5V",
+      "from": "B24",
+      "to": "BOTTOM +5V 24"
+    },
+    {
+      "wire": "W15",
+      "net": "GND",
+      "from": "B28",
+      "to": "BOTTOM GND 28"
+    },
+    {
+      "wire": "W16",
+      "net": "GND",
+      "from": "G17",
+      "to": "G19"
+    },
+    {
+      "wire": "W17",
+      "net": "GND",
+      "from": "H18",
+      "to": "H17"
+    },
+    {
+      "wire": "W18",
+      "net": "GND",
+      "from": "TOP GND 17",
+      "to": "I17"
+    },
+    {
+      "wire": "W19",
+      "net": "+5V",
+      "from": "TOP +5V 21",
+      "to": "I21"
+    },
+    {
+      "wire": "W20",
+      "net": "MOSI_3V3",
+      "from": "E4",
+      "to": "H12"
+    },
+    {
+      "wire": "W21",
+      "net": "CS_3V3",
+      "from": "G2",
+      "to": "J13"
+    },
+    {
+      "wire": "W22",
+      "net": "LDAC_3V3",
+      "from": "G4",
+      "to": "J14"
+    },
+    {
+      "wire": "W23",
+      "net": "+3V3",
+      "from": "E3",
+      "to": "G9"
+    },
+    {
+      "wire": "W24",
+      "net": "CS_5V",
+      "from": "D14",
+      "to": "J28"
+    },
+    {
+      "wire": "W25",
+      "net": "SCK_5V",
+      "from": "B12",
+      "to": "J29"
+    },
+    {
+      "wire": "W26",
+      "net": "MOSI_5V",
+      "from": "B13",
+      "to": "J30"
+    },
+    {
+      "wire": "W27",
+      "net": "LDAC_5V",
+      "from": "B15",
+      "to": "B30"
+    },
+    {
+      "wire": "W28",
+      "net": "LASER_RETURN",
+      "from": "D21",
+      "to": "D25"
+    },
+    {
+      "wire": "W29",
+      "net": "LED_DATA",
+      "from": "F20",
+      "to": "E23"
+    }
+  ],
+  "limitations": [
+    "Valid for top-side mounting, Owner frame: XIAO left, HCT center, MCP right; USB and both DIP notches left on cases face.",
+    "Existing damaged chips and external TL082/MOSFET/cables not certified by this model audit.",
+    "As-built copper, solder joints, connector body clearances, supply and USB isolation require physical checks."
+  ]
+}

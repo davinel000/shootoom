@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="1220" viewBox="0 0 1250 1220"><rect width="1250" height="1220" fill="#fafbf8"/>
+<style>text{font:19px Arial;fill:#18384a}.title{font-size:27px;font-weight:bold}.small{font-size:16px}.w{fill:none;stroke:#246d65;stroke-width:3}.r{fill:#fff;stroke:#18384a;stroke-width:2}</style>
+<text x="35" y="40" class="title">Šūtum · один TL082 · постоянные резисторы · v0.2.1</text>
+<text x="35" y="76" class="">Две оси X/Y относительно общего 0V. Питание +15V / 0V / −15V.</text>
+<text x="35" y="145" class="title">Ось X</text>
+<polyline class="w" points="70,250 450,250"/>
+<rect class="r" x="200" y="240" width="80" height="20"/>
+<text x="197" y="228" class="small">R1 10k</text>
+<text x="65" y="228" class="">DAC X</text>
+<polygon class="r" points="450,220 450,340 610,280"/>
+<text x="465" y="254" class="">− pin2</text>
+<text x="465" y="314" class="">+ pin3</text>
+<text x="520" y="284" class="">U21A</text>
+<polyline class="w" points="610,280 735,280 735,180 385,180 385,250"/>
+<rect class="r" x="520" y="170" width="80" height="20"/>
+<text x="517" y="158" class="small">R2 47k</text>
+<circle cx="385" cy="250" r="5" fill="#246d65"/>
+<circle cx="735" cy="280" r="5" fill="#246d65"/>
+<polyline class="w" points="735,280 1050,280"/>
+<text x="860" y="260" class="">X OUT · pin1</text>
+<polyline class="w" points="350,355 350,310 450,310"/>
+<text x="265" y="380" class="small">VREF ≈ 0,815V</text>
+<text x="850" y="322" class="small">к выходному JB1</text>
+<text x="35" y="445" class="title">Ось Y</text>
+<polyline class="w" points="70,550 450,550"/>
+<rect class="r" x="200" y="540" width="80" height="20"/>
+<text x="197" y="528" class="small">R3 10k</text>
+<text x="65" y="528" class="">DAC Y</text>
+<polygon class="r" points="450,520 450,640 610,580"/>
+<text x="465" y="554" class="">− pin6</text>
+<text x="465" y="614" class="">+ pin5</text>
+<text x="520" y="584" class="">U21B</text>
+<polyline class="w" points="610,580 735,580 735,480 385,480 385,550"/>
+<rect class="r" x="520" y="470" width="80" height="20"/>
+<text x="517" y="458" class="small">R4 47k</text>
+<circle cx="385" cy="550" r="5" fill="#246d65"/>
+<circle cx="735" cy="580" r="5" fill="#246d65"/>
+<polyline class="w" points="735,580 1050,580"/>
+<text x="860" y="560" class="">Y OUT · pin7</text>
+<polyline class="w" points="350,655 350,610 450,610"/>
+<text x="265" y="680" class="small">VREF ≈ 0,815V</text>
+<text x="850" y="622" class="small">к выходному JB1</text>
+<text x="35" y="775" class="title">Общий делитель смещения — один на обе оси</text>
+<polyline class="w" points="190,810 190,1070"/>
+<rect class="r" x="180" y="830" width="20" height="60"/>
+<text x="210" y="866" class="small">R5 47k</text>
+<rect class="r" x="180" y="990" width="20" height="60"/>
+<text x="210" y="1026" class="small">R6 2.7k</text>
+<text x="145" y="800" class="">+15V</text>
+<polyline class="w" points="190,1070 190,1080"/>
+<polyline class="w" points="178,1080 202,1080"/>
+<polyline class="w" points="183,1087 197,1087"/>
+<polyline class="w" points="190,945 530,945"/>
+<circle cx="190" cy="945" r="5" fill="#246d65"/>
+<text x="310" y="923" class="">VREF → pin3 и pin5</text>
+<polyline class="w" points="460,945 460,975"/>
+<polyline class="w" points="460,975 460,1009"/>
+<polyline class="w" points="446,1009 474,1009"/>
+<polyline class="w" points="446,1021 474,1021"/>
+<polyline class="w" points="460,1021 460,1050"/>
+<text x="480" y="1019" class="small">C3 100nF</text>
+<polyline class="w" points="460,1050 460,1060"/>
+<polyline class="w" points="448,1060 472,1060"/>
+<polyline class="w" points="453,1067 467,1067"/>
+<text x="700" y="825" class="small">Питание U21: pin8 = +15V; pin4 = −15V</text>
+<text x="715" y="875" class="">+15V</text>
+<polyline class="w" points="750,890 750,975"/>
+<polyline class="w" points="750,975 750,1009"/>
+<polyline class="w" points="736,1009 764,1009"/>
+<polyline class="w" points="736,1021 764,1021"/>
+<polyline class="w" points="750,1021 750,1050"/>
+<text x="770" y="1019" class="small">C1 100nF</text>
+<polyline class="w" points="750,1050 750,1060"/>
+<polyline class="w" points="738,1060 762,1060"/>
+<polyline class="w" points="743,1067 757,1067"/>
+<text x="970" y="875" class="">−15V</text>
+<polyline class="w" points="1000,890 1000,975"/>
+<polyline class="w" points="1000,975 1000,1009"/>
+<polyline class="w" points="986,1009 1014,1009"/>
+<polyline class="w" points="986,1021 1014,1021"/>
+<polyline class="w" points="1000,1021 1000,1050"/>
+<text x="1020" y="1019" class="small">C2 100nF</text>
+<polyline class="w" points="1000,1050 1000,1060"/>
+<polyline class="w" points="988,1060 1012,1060"/>
+<polyline class="w" points="993,1067 1007,1067"/>
+<text x="35" y="1140" class="small">При номинальных ±15V и gain1 DAC: Vout ≈ 4,645 − 4,7 × Vdac. Обе оси инвертируют сигнал.</text>
+<text x="35" y="1170" class="small">Расчёт, не измерение: код0 → +4,645V; код2048 → −0,168V; код4095 → −4,978V.</text>
+<text x="35" y="1200" class="small">Распиновку старых кабелей и допустимый вход реального драйвера необходимо подтвердить до подключения.</text>
+</svg>

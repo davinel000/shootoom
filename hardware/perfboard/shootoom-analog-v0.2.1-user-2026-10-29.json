@@ -1,0 +1,2064 @@
+{
+  "boardArtwork": {
+    "name": "SHOOTOOM ANALOG v0.2.1 PRINTED",
+    "viewSide": "components",
+    "flipAxis": "vertical",
+    "factoryComponentFace": "printed",
+    "copper": [
+      {
+        "points": [
+          {
+            "x": 125,
+            "y": 175
+          },
+          {
+            "x": 125,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 175,
+            "y": 175
+          },
+          {
+            "x": 175,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 225,
+            "y": 175
+          },
+          {
+            "x": 225,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 275,
+            "y": 175
+          },
+          {
+            "x": 275,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 325,
+            "y": 175
+          },
+          {
+            "x": 325,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 375,
+            "y": 175
+          },
+          {
+            "x": 375,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 425,
+            "y": 175
+          },
+          {
+            "x": 425,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 475,
+            "y": 175
+          },
+          {
+            "x": 475,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 525,
+            "y": 175
+          },
+          {
+            "x": 525,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 575,
+            "y": 175
+          },
+          {
+            "x": 575,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 625,
+            "y": 175
+          },
+          {
+            "x": 625,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 675,
+            "y": 175
+          },
+          {
+            "x": 675,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 725,
+            "y": 175
+          },
+          {
+            "x": 725,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 775,
+            "y": 175
+          },
+          {
+            "x": 775,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 825,
+            "y": 175
+          },
+          {
+            "x": 825,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 875,
+            "y": 175
+          },
+          {
+            "x": 875,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 925,
+            "y": 175
+          },
+          {
+            "x": 925,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 125,
+            "y": 525
+          },
+          {
+            "x": 125,
+            "y": 725
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 175,
+            "y": 525
+          },
+          {
+            "x": 175,
+            "y": 725
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 225,
+            "y": 525
+          },
+          {
+            "x": 225,
+            "y": 725
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 275,
+            "y": 525
+          },
+          {
+            "x": 275,
+            "y": 725
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 325,
+            "y": 525
+          },
+          {
+            "x": 325,
+            "y": 725
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 375,
+            "y": 525
+          },
+          {
+            "x": 375,
+            "y": 725
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 425,
+            "y": 525
+          },
+          {
+            "x": 425,
+            "y": 725
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 475,
+            "y": 525
+          },
+          {
+            "x": 475,
+            "y": 725
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 525,
+            "y": 525
+          },
+          {
+            "x": 525,
+            "y": 725
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 575,
+            "y": 525
+          },
+          {
+            "x": 575,
+            "y": 725
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 625,
+            "y": 525
+          },
+          {
+            "x": 625,
+            "y": 725
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 675,
+            "y": 525
+          },
+          {
+            "x": 675,
+            "y": 725
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 725,
+            "y": 525
+          },
+          {
+            "x": 725,
+            "y": 725
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 775,
+            "y": 525
+          },
+          {
+            "x": 775,
+            "y": 725
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 825,
+            "y": 525
+          },
+          {
+            "x": 825,
+            "y": 725
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 875,
+            "y": 525
+          },
+          {
+            "x": 875,
+            "y": 725
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "x": 925,
+            "y": 525
+          },
+          {
+            "x": 925,
+            "y": 725
+          }
+        ]
+      }
+    ],
+    "cuts": [],
+    "labels": [
+      {
+        "x": 175,
+        "y": 45,
+        "text": "JB1 ВЫХОД X / 0 / Y"
+      },
+      {
+        "x": 475,
+        "y": 45,
+        "text": "JB2 ВХОД X / 0 / Y"
+      },
+      {
+        "x": 825,
+        "y": 45,
+        "text": "JB3 ПИТАНИЕ +15 / 0 / -15"
+      },
+      {
+        "x": 350.0,
+        "y": 317.0,
+        "text": "R1 10k"
+      },
+      {
+        "x": 200.0,
+        "y": 367.0,
+        "text": "R2 47k"
+      },
+      {
+        "x": 600.0,
+        "y": 317.0,
+        "text": "R3 10k"
+      },
+      {
+        "x": 775.0,
+        "y": 367.0,
+        "text": "R4 47k"
+      },
+      {
+        "x": 650.0,
+        "y": 115,
+        "text": "R5 47k"
+      },
+      {
+        "x": 750.0,
+        "y": 767.0,
+        "text": "R6 2.7k"
+      },
+      {
+        "x": 525.0,
+        "y": 367.0,
+        "text": "C1 100nF (сзади)"
+      },
+      {
+        "x": 945,
+        "y": 675.0,
+        "text": "C2 100nF (сзади)"
+      },
+      {
+        "x": 945,
+        "y": 625.0,
+        "text": "C3 100nF"
+      },
+      {
+        "x": 70,
+        "y": 175,
+        "text": "J"
+      },
+      {
+        "x": 70,
+        "y": 225,
+        "text": "I"
+      },
+      {
+        "x": 70,
+        "y": 275,
+        "text": "H"
+      },
+      {
+        "x": 70,
+        "y": 325,
+        "text": "G"
+      },
+      {
+        "x": 70,
+        "y": 375,
+        "text": "F"
+      },
+      {
+        "x": 70,
+        "y": 525,
+        "text": "E"
+      },
+      {
+        "x": 70,
+        "y": 575,
+        "text": "D"
+      },
+      {
+        "x": 70,
+        "y": 625,
+        "text": "C"
+      },
+      {
+        "x": 70,
+        "y": 675,
+        "text": "B"
+      },
+      {
+        "x": 70,
+        "y": 725,
+        "text": "A"
+      },
+      {
+        "x": 125,
+        "y": 100,
+        "text": "1"
+      },
+      {
+        "x": 125,
+        "y": 790,
+        "text": "1"
+      },
+      {
+        "x": 175,
+        "y": 100,
+        "text": "2"
+      },
+      {
+        "x": 175,
+        "y": 790,
+        "text": "2"
+      },
+      {
+        "x": 225,
+        "y": 100,
+        "text": "3"
+      },
+      {
+        "x": 225,
+        "y": 790,
+        "text": "3"
+      },
+      {
+        "x": 275,
+        "y": 100,
+        "text": "4"
+      },
+      {
+        "x": 275,
+        "y": 790,
+        "text": "4"
+      },
+      {
+        "x": 325,
+        "y": 100,
+        "text": "5"
+      },
+      {
+        "x": 325,
+        "y": 790,
+        "text": "5"
+      },
+      {
+        "x": 375,
+        "y": 100,
+        "text": "6"
+      },
+      {
+        "x": 375,
+        "y": 790,
+        "text": "6"
+      },
+      {
+        "x": 425,
+        "y": 100,
+        "text": "7"
+      },
+      {
+        "x": 425,
+        "y": 790,
+        "text": "7"
+      },
+      {
+        "x": 475,
+        "y": 100,
+        "text": "8"
+      },
+      {
+        "x": 475,
+        "y": 790,
+        "text": "8"
+      },
+      {
+        "x": 525,
+        "y": 100,
+        "text": "9"
+      },
+      {
+        "x": 525,
+        "y": 790,
+        "text": "9"
+      },
+      {
+        "x": 575,
+        "y": 100,
+        "text": "10"
+      },
+      {
+        "x": 575,
+        "y": 790,
+        "text": "10"
+      },
+      {
+        "x": 625,
+        "y": 100,
+        "text": "11"
+      },
+      {
+        "x": 625,
+        "y": 790,
+        "text": "11"
+      },
+      {
+        "x": 675,
+        "y": 100,
+        "text": "12"
+      },
+      {
+        "x": 675,
+        "y": 790,
+        "text": "12"
+      },
+      {
+        "x": 725,
+        "y": 100,
+        "text": "13"
+      },
+      {
+        "x": 725,
+        "y": 790,
+        "text": "13"
+      },
+      {
+        "x": 775,
+        "y": 100,
+        "text": "14"
+      },
+      {
+        "x": 775,
+        "y": 790,
+        "text": "14"
+      },
+      {
+        "x": 825,
+        "y": 100,
+        "text": "15"
+      },
+      {
+        "x": 825,
+        "y": 790,
+        "text": "15"
+      },
+      {
+        "x": 875,
+        "y": 100,
+        "text": "16"
+      },
+      {
+        "x": 875,
+        "y": 790,
+        "text": "16"
+      },
+      {
+        "x": 925,
+        "y": 100,
+        "text": "17"
+      },
+      {
+        "x": 925,
+        "y": 790,
+        "text": "17"
+      },
+      {
+        "x": 560,
+        "y": 955,
+        "text": "АНАЛОГ v0.2.1 · пользовательская разводка 29.10 · 10 перемычек"
+      },
+      {
+        "x": 560,
+        "y": 1000,
+        "text": "C1/C2 сзади; остальные детали спереди. ВЫЕМКА TL082 СЛЕВА."
+      },
+      {
+        "x": 560,
+        "y": 1045,
+        "text": "Расчётная схема. Порядок старых кабелей и допустимый вход драйвера ещё проверить."
+      }
+    ],
+    "reservations": []
+  },
+  "dots": [
+    {
+      "x": 125,
+      "y": 175,
+      "description": "J1",
+      "color": "#ead39b"
+    },
+    {
+      "x": 175,
+      "y": 175,
+      "description": "J2",
+      "color": "#ead39b"
+    },
+    {
+      "x": 225,
+      "y": 175,
+      "description": "J3",
+      "color": "#ead39b"
+    },
+    {
+      "x": 275,
+      "y": 175,
+      "description": "J4",
+      "color": "#ead39b"
+    },
+    {
+      "x": 325,
+      "y": 175,
+      "description": "J5",
+      "color": "#ead39b"
+    },
+    {
+      "x": 375,
+      "y": 175,
+      "description": "J6",
+      "color": "#ead39b"
+    },
+    {
+      "x": 425,
+      "y": 175,
+      "description": "J7",
+      "color": "#ead39b"
+    },
+    {
+      "x": 475,
+      "y": 175,
+      "description": "J8",
+      "color": "#ead39b"
+    },
+    {
+      "x": 525,
+      "y": 175,
+      "description": "J9",
+      "color": "#ead39b"
+    },
+    {
+      "x": 575,
+      "y": 175,
+      "description": "J10",
+      "color": "#ead39b"
+    },
+    {
+      "x": 625,
+      "y": 175,
+      "description": "J11",
+      "color": "#ead39b"
+    },
+    {
+      "x": 675,
+      "y": 175,
+      "description": "J12",
+      "color": "#ead39b"
+    },
+    {
+      "x": 725,
+      "y": 175,
+      "description": "J13",
+      "color": "#ead39b"
+    },
+    {
+      "x": 775,
+      "y": 175,
+      "description": "J14",
+      "color": "#ead39b"
+    },
+    {
+      "x": 825,
+      "y": 175,
+      "description": "J15",
+      "color": "#ead39b"
+    },
+    {
+      "x": 875,
+      "y": 175,
+      "description": "J16",
+      "color": "#ead39b"
+    },
+    {
+      "x": 925,
+      "y": 175,
+      "description": "J17",
+      "color": "#ead39b"
+    },
+    {
+      "x": 125,
+      "y": 225,
+      "description": "I1",
+      "color": "#ead39b"
+    },
+    {
+      "x": 175,
+      "y": 225,
+      "description": "I2",
+      "color": "#ead39b"
+    },
+    {
+      "x": 225,
+      "y": 225,
+      "description": "I3",
+      "color": "#ead39b"
+    },
+    {
+      "x": 275,
+      "y": 225,
+      "description": "I4",
+      "color": "#ead39b"
+    },
+    {
+      "x": 325,
+      "y": 225,
+      "description": "I5",
+      "color": "#ead39b"
+    },
+    {
+      "x": 375,
+      "y": 225,
+      "description": "I6",
+      "color": "#ead39b"
+    },
+    {
+      "x": 425,
+      "y": 225,
+      "description": "I7",
+      "color": "#ead39b"
+    },
+    {
+      "x": 475,
+      "y": 225,
+      "description": "I8",
+      "color": "#ead39b"
+    },
+    {
+      "x": 525,
+      "y": 225,
+      "description": "I9",
+      "color": "#ead39b"
+    },
+    {
+      "x": 575,
+      "y": 225,
+      "description": "I10",
+      "color": "#ead39b"
+    },
+    {
+      "x": 625,
+      "y": 225,
+      "description": "I11",
+      "color": "#ead39b"
+    },
+    {
+      "x": 675,
+      "y": 225,
+      "description": "I12",
+      "color": "#ead39b"
+    },
+    {
+      "x": 725,
+      "y": 225,
+      "description": "I13",
+      "color": "#ead39b"
+    },
+    {
+      "x": 775,
+      "y": 225,
+      "description": "I14",
+      "color": "#ead39b"
+    },
+    {
+      "x": 825,
+      "y": 225,
+      "description": "I15",
+      "color": "#ead39b"
+    },
+    {
+      "x": 875,
+      "y": 225,
+      "description": "I16",
+      "color": "#ead39b"
+    },
+    {
+      "x": 925,
+      "y": 225,
+      "description": "I17",
+      "color": "#ead39b"
+    },
+    {
+      "x": 125,
+      "y": 275,
+      "description": "H1",
+      "color": "#ead39b"
+    },
+    {
+      "x": 175,
+      "y": 275,
+      "description": "H2",
+      "color": "#ead39b"
+    },
+    {
+      "x": 225,
+      "y": 275,
+      "description": "H3",
+      "color": "#ead39b"
+    },
+    {
+      "x": 275,
+      "y": 275,
+      "description": "H4",
+      "color": "#ead39b"
+    },
+    {
+      "x": 325,
+      "y": 275,
+      "description": "H5",
+      "color": "#ead39b"
+    },
+    {
+      "x": 375,
+      "y": 275,
+      "description": "H6",
+      "color": "#ead39b"
+    },
+    {
+      "x": 425,
+      "y": 275,
+      "description": "H7",
+      "color": "#ead39b"
+    },
+    {
+      "x": 475,
+      "y": 275,
+      "description": "H8",
+      "color": "#ead39b"
+    },
+    {
+      "x": 525,
+      "y": 275,
+      "description": "H9",
+      "color": "#ead39b"
+    },
+    {
+      "x": 575,
+      "y": 275,
+      "description": "H10",
+      "color": "#ead39b"
+    },
+    {
+      "x": 625,
+      "y": 275,
+      "description": "H11",
+      "color": "#ead39b"
+    },
+    {
+      "x": 675,
+      "y": 275,
+      "description": "H12",
+      "color": "#ead39b"
+    },
+    {
+      "x": 725,
+      "y": 275,
+      "description": "H13",
+      "color": "#ead39b"
+    },
+    {
+      "x": 775,
+      "y": 275,
+      "description": "H14",
+      "color": "#ead39b"
+    },
+    {
+      "x": 825,
+      "y": 275,
+      "description": "H15",
+      "color": "#ead39b"
+    },
+    {
+      "x": 875,
+      "y": 275,
+      "description": "H16",
+      "color": "#ead39b"
+    },
+    {
+      "x": 925,
+      "y": 275,
+      "description": "H17",
+      "color": "#ead39b"
+    },
+    {
+      "x": 125,
+      "y": 325,
+      "description": "G1",
+      "color": "#ead39b"
+    },
+    {
+      "x": 175,
+      "y": 325,
+      "description": "G2",
+      "color": "#ead39b"
+    },
+    {
+      "x": 225,
+      "y": 325,
+      "description": "G3",
+      "color": "#ead39b"
+    },
+    {
+      "x": 275,
+      "y": 325,
+      "description": "G4",
+      "color": "#ead39b"
+    },
+    {
+      "x": 325,
+      "y": 325,
+      "description": "G5",
+      "color": "#ead39b"
+    },
+    {
+      "x": 375,
+      "y": 325,
+      "description": "G6",
+      "color": "#ead39b"
+    },
+    {
+      "x": 425,
+      "y": 325,
+      "description": "G7",
+      "color": "#ead39b"
+    },
+    {
+      "x": 475,
+      "y": 325,
+      "description": "G8",
+      "color": "#ead39b"
+    },
+    {
+      "x": 525,
+      "y": 325,
+      "description": "G9",
+      "color": "#ead39b"
+    },
+    {
+      "x": 575,
+      "y": 325,
+      "description": "G10",
+      "color": "#ead39b"
+    },
+    {
+      "x": 625,
+      "y": 325,
+      "description": "G11",
+      "color": "#ead39b"
+    },
+    {
+      "x": 675,
+      "y": 325,
+      "description": "G12",
+      "color": "#ead39b"
+    },
+    {
+      "x": 725,
+      "y": 325,
+      "description": "G13",
+      "color": "#ead39b"
+    },
+    {
+      "x": 775,
+      "y": 325,
+      "description": "G14",
+      "color": "#ead39b"
+    },
+    {
+      "x": 825,
+      "y": 325,
+      "description": "G15",
+      "color": "#ead39b"
+    },
+    {
+      "x": 875,
+      "y": 325,
+      "description": "G16",
+      "color": "#ead39b"
+    },
+    {
+      "x": 925,
+      "y": 325,
+      "description": "G17",
+      "color": "#ead39b"
+    },
+    {
+      "x": 125,
+      "y": 375,
+      "description": "F1",
+      "color": "#ead39b"
+    },
+    {
+      "x": 175,
+      "y": 375,
+      "description": "F2",
+      "color": "#ead39b"
+    },
+    {
+      "x": 225,
+      "y": 375,
+      "description": "F3",
+      "color": "#ead39b"
+    },
+    {
+      "x": 275,
+      "y": 375,
+      "description": "F4",
+      "color": "#ead39b"
+    },
+    {
+      "x": 325,
+      "y": 375,
+      "description": "F5",
+      "color": "#ead39b"
+    },
+    {
+      "x": 375,
+      "y": 375,
+      "description": "F6",
+      "color": "#ead39b"
+    },
+    {
+      "x": 425,
+      "y": 375,
+      "description": "F7",
+      "color": "#ead39b"
+    },
+    {
+      "x": 475,
+      "y": 375,
+      "description": "F8",
+      "color": "#ead39b"
+    },
+    {
+      "x": 525,
+      "y": 375,
+      "description": "F9",
+      "color": "#ead39b"
+    },
+    {
+      "x": 575,
+      "y": 375,
+      "description": "F10",
+      "color": "#ead39b"
+    },
+    {
+      "x": 625,
+      "y": 375,
+      "description": "F11",
+      "color": "#ead39b"
+    },
+    {
+      "x": 675,
+      "y": 375,
+      "description": "F12",
+      "color": "#ead39b"
+    },
+    {
+      "x": 725,
+      "y": 375,
+      "description": "F13",
+      "color": "#ead39b"
+    },
+    {
+      "x": 775,
+      "y": 375,
+      "description": "F14",
+      "color": "#ead39b"
+    },
+    {
+      "x": 825,
+      "y": 375,
+      "description": "F15",
+      "color": "#ead39b"
+    },
+    {
+      "x": 875,
+      "y": 375,
+      "description": "F16",
+      "color": "#ead39b"
+    },
+    {
+      "x": 925,
+      "y": 375,
+      "description": "F17",
+      "color": "#ead39b"
+    },
+    {
+      "x": 125,
+      "y": 525,
+      "description": "E1",
+      "color": "#ead39b"
+    },
+    {
+      "x": 175,
+      "y": 525,
+      "description": "E2",
+      "color": "#ead39b"
+    },
+    {
+      "x": 225,
+      "y": 525,
+      "description": "E3",
+      "color": "#ead39b"
+    },
+    {
+      "x": 275,
+      "y": 525,
+      "description": "E4",
+      "color": "#ead39b"
+    },
+    {
+      "x": 325,
+      "y": 525,
+      "description": "E5",
+      "color": "#ead39b"
+    },
+    {
+      "x": 375,
+      "y": 525,
+      "description": "E6",
+      "color": "#ead39b"
+    },
+    {
+      "x": 425,
+      "y": 525,
+      "description": "E7",
+      "color": "#ead39b"
+    },
+    {
+      "x": 475,
+      "y": 525,
+      "description": "E8",
+      "color": "#ead39b"
+    },
+    {
+      "x": 525,
+      "y": 525,
+      "description": "E9",
+      "color": "#ead39b"
+    },
+    {
+      "x": 575,
+      "y": 525,
+      "description": "E10",
+      "color": "#ead39b"
+    },
+    {
+      "x": 625,
+      "y": 525,
+      "description": "E11",
+      "color": "#ead39b"
+    },
+    {
+      "x": 675,
+      "y": 525,
+      "description": "E12",
+      "color": "#ead39b"
+    },
+    {
+      "x": 725,
+      "y": 525,
+      "description": "E13",
+      "color": "#ead39b"
+    },
+    {
+      "x": 775,
+      "y": 525,
+      "description": "E14",
+      "color": "#ead39b"
+    },
+    {
+      "x": 825,
+      "y": 525,
+      "description": "E15",
+      "color": "#ead39b"
+    },
+    {
+      "x": 875,
+      "y": 525,
+      "description": "E16",
+      "color": "#ead39b"
+    },
+    {
+      "x": 925,
+      "y": 525,
+      "description": "E17",
+      "color": "#ead39b"
+    },
+    {
+      "x": 125,
+      "y": 575,
+      "description": "D1",
+      "color": "#ead39b"
+    },
+    {
+      "x": 175,
+      "y": 575,
+      "description": "D2",
+      "color": "#ead39b"
+    },
+    {
+      "x": 225,
+      "y": 575,
+      "description": "D3",
+      "color": "#ead39b"
+    },
+    {
+      "x": 275,
+      "y": 575,
+      "description": "D4",
+      "color": "#ead39b"
+    },
+    {
+      "x": 325,
+      "y": 575,
+      "description": "D5",
+      "color": "#ead39b"
+    },
+    {
+      "x": 375,
+      "y": 575,
+      "description": "D6",
+      "color": "#ead39b"
+    },
+    {
+      "x": 425,
+      "y": 575,
+      "description": "D7",
+      "color": "#ead39b"
+    },
+    {
+      "x": 475,
+      "y": 575,
+      "description": "D8",
+      "color": "#ead39b"
+    },
+    {
+      "x": 525,
+      "y": 575,
+      "description": "D9",
+      "color": "#ead39b"
+    },
+    {
+      "x": 575,
+      "y": 575,
+      "description": "D10",
+      "color": "#ead39b"
+    },
+    {
+      "x": 625,
+      "y": 575,
+      "description": "D11",
+      "color": "#ead39b"
+    },
+    {
+      "x": 675,
+      "y": 575,
+      "description": "D12",
+      "color": "#ead39b"
+    },
+    {
+      "x": 725,
+      "y": 575,
+      "description": "D13",
+      "color": "#ead39b"
+    },
+    {
+      "x": 775,
+      "y": 575,
+      "description": "D14",
+      "color": "#ead39b"
+    },
+    {
+      "x": 825,
+      "y": 575,
+      "description": "D15",
+      "color": "#ead39b"
+    },
+    {
+      "x": 875,
+      "y": 575,
+      "description": "D16",
+      "color": "#ead39b"
+    },
+    {
+      "x": 925,
+      "y": 575,
+      "description": "D17",
+      "color": "#ead39b"
+    },
+    {
+      "x": 125,
+      "y": 625,
+      "description": "C1",
+      "color": "#ead39b"
+    },
+    {
+      "x": 175,
+      "y": 625,
+      "description": "C2",
+      "color": "#ead39b"
+    },
+    {
+      "x": 225,
+      "y": 625,
+      "description": "C3",
+      "color": "#ead39b"
+    },
+    {
+      "x": 275,
+      "y": 625,
+      "description": "C4",
+      "color": "#ead39b"
+    },
+    {
+      "x": 325,
+      "y": 625,
+      "description": "C5",
+      "color": "#ead39b"
+    },
+    {
+      "x": 375,
+      "y": 625,
+      "description": "C6",
+      "color": "#ead39b"
+    },
+    {
+      "x": 425,
+      "y": 625,
+      "description": "C7",
+      "color": "#ead39b"
+    },
+    {
+      "x": 475,
+      "y": 625,
+      "description": "C8",
+      "color": "#ead39b"
+    },
+    {
+      "x": 525,
+      "y": 625,
+      "description": "C9",
+      "color": "#ead39b"
+    },
+    {
+      "x": 575,
+      "y": 625,
+      "description": "C10",
+      "color": "#ead39b"
+    },
+    {
+      "x": 625,
+      "y": 625,
+      "description": "C11",
+      "color": "#ead39b"
+    },
+    {
+      "x": 675,
+      "y": 625,
+      "description": "C12",
+      "color": "#ead39b"
+    },
+    {
+      "x": 725,
+      "y": 625,
+      "description": "C13",
+      "color": "#ead39b"
+    },
+    {
+      "x": 775,
+      "y": 625,
+      "description": "C14",
+      "color": "#ead39b"
+    },
+    {
+      "x": 825,
+      "y": 625,
+      "description": "C15",
+      "color": "#ead39b"
+    },
+    {
+      "x": 875,
+      "y": 625,
+      "description": "C16",
+      "color": "#ead39b"
+    },
+    {
+      "x": 925,
+      "y": 625,
+      "description": "C17",
+      "color": "#ead39b"
+    },
+    {
+      "x": 125,
+      "y": 675,
+      "description": "B1",
+      "color": "#ead39b"
+    },
+    {
+      "x": 175,
+      "y": 675,
+      "description": "B2",
+      "color": "#ead39b"
+    },
+    {
+      "x": 225,
+      "y": 675,
+      "description": "B3",
+      "color": "#ead39b"
+    },
+    {
+      "x": 275,
+      "y": 675,
+      "description": "B4",
+      "color": "#ead39b"
+    },
+    {
+      "x": 325,
+      "y": 675,
+      "description": "B5",
+      "color": "#ead39b"
+    },
+    {
+      "x": 375,
+      "y": 675,
+      "description": "B6",
+      "color": "#ead39b"
+    },
+    {
+      "x": 425,
+      "y": 675,
+      "description": "B7",
+      "color": "#ead39b"
+    },
+    {
+      "x": 475,
+      "y": 675,
+      "description": "B8",
+      "color": "#ead39b"
+    },
+    {
+      "x": 525,
+      "y": 675,
+      "description": "B9",
+      "color": "#ead39b"
+    },
+    {
+      "x": 575,
+      "y": 675,
+      "description": "B10",
+      "color": "#ead39b"
+    },
+    {
+      "x": 625,
+      "y": 675,
+      "description": "B11",
+      "color": "#ead39b"
+    },
+    {
+      "x": 675,
+      "y": 675,
+      "description": "B12",
+      "color": "#ead39b"
+    },
+    {
+      "x": 725,
+      "y": 675,
+      "description": "B13",
+      "color": "#ead39b"
+    },
+    {
+      "x": 775,
+      "y": 675,
+      "description": "B14",
+      "color": "#ead39b"
+    },
+    {
+      "x": 825,
+      "y": 675,
+      "description": "B15",
+      "color": "#ead39b"
+    },
+    {
+      "x": 875,
+      "y": 675,
+      "description": "B16",
+      "color": "#ead39b"
+    },
+    {
+      "x": 925,
+      "y": 675,
+      "description": "B17",
+      "color": "#ead39b"
+    },
+    {
+      "x": 125,
+      "y": 725,
+      "description": "A1",
+      "color": "#ead39b"
+    },
+    {
+      "x": 175,
+      "y": 725,
+      "description": "A2",
+      "color": "#ead39b"
+    },
+    {
+      "x": 225,
+      "y": 725,
+      "description": "A3",
+      "color": "#ead39b"
+    },
+    {
+      "x": 275,
+      "y": 725,
+      "description": "A4",
+      "color": "#ead39b"
+    },
+    {
+      "x": 325,
+      "y": 725,
+      "description": "A5",
+      "color": "#ead39b"
+    },
+    {
+      "x": 375,
+      "y": 725,
+      "description": "A6",
+      "color": "#ead39b"
+    },
+    {
+      "x": 425,
+      "y": 725,
+      "description": "A7",
+      "color": "#ead39b"
+    },
+    {
+      "x": 475,
+      "y": 725,
+      "description": "A8",
+      "color": "#ead39b"
+    },
+    {
+      "x": 525,
+      "y": 725,
+      "description": "A9",
+      "color": "#ead39b"
+    },
+    {
+      "x": 575,
+      "y": 725,
+      "description": "A10",
+      "color": "#ead39b"
+    },
+    {
+      "x": 625,
+      "y": 725,
+      "description": "A11",
+      "color": "#ead39b"
+    },
+    {
+      "x": 675,
+      "y": 725,
+      "description": "A12",
+      "color": "#ead39b"
+    },
+    {
+      "x": 725,
+      "y": 725,
+      "description": "A13",
+      "color": "#ead39b"
+    },
+    {
+      "x": 775,
+      "y": 725,
+      "description": "A14",
+      "color": "#ead39b"
+    },
+    {
+      "x": 825,
+      "y": 725,
+      "description": "A15",
+      "color": "#ead39b"
+    },
+    {
+      "x": 875,
+      "y": 725,
+      "description": "A16",
+      "color": "#ead39b"
+    },
+    {
+      "x": 925,
+      "y": 725,
+      "description": "A17",
+      "color": "#ead39b"
+    }
+  ],
+  "lines": [
+    {
+      "start": {
+        "x": 275,
+        "y": 375,
+        "description": "F4",
+        "color": "#ead39b"
+      },
+      "end": {
+        "x": 625,
+        "y": 575,
+        "description": "D11",
+        "color": "#ead39b"
+      },
+      "color": "#55c5e2",
+      "width": 3,
+      "net": "X_SUM"
+    },
+    {
+      "start": {
+        "x": 925,
+        "y": 275,
+        "description": "H17",
+        "color": "#ead39b"
+      },
+      "end": {
+        "x": 675,
+        "y": 225,
+        "description": "I12",
+        "color": "#ead39b"
+      },
+      "color": "#c0d968",
+      "width": 3,
+      "net": "Y_SUM"
+    },
+    {
+      "start": {
+        "x": 725,
+        "y": 325,
+        "description": "G13",
+        "color": "#ead39b"
+      },
+      "end": {
+        "x": 675,
+        "y": 575,
+        "description": "D12",
+        "color": "#ead39b"
+      },
+      "color": "#e6bf66",
+      "width": 3,
+      "net": "VREF"
+    },
+    {
+      "start": {
+        "x": 825,
+        "y": 325,
+        "description": "G15",
+        "color": "#ead39b"
+      },
+      "end": {
+        "x": 825,
+        "y": 525,
+        "description": "E15",
+        "color": "#ead39b"
+      },
+      "color": "#8cb0b7",
+      "width": 3,
+      "net": "GND"
+    },
+    {
+      "start": {
+        "x": 875,
+        "y": 375,
+        "description": "F16",
+        "color": "#ead39b"
+      },
+      "end": {
+        "x": 725,
+        "y": 575,
+        "description": "D13",
+        "color": "#ead39b"
+      },
+      "color": "#af8be2",
+      "width": 3,
+      "net": "-15V"
+    },
+    {
+      "start": {
+        "x": 125,
+        "y": 375,
+        "description": "F1",
+        "color": "#ead39b"
+      },
+      "end": {
+        "x": 575,
+        "y": 575,
+        "description": "D10",
+        "color": "#ead39b"
+      },
+      "color": "#10b981",
+      "width": 4,
+      "net": "X_OUT"
+    },
+    {
+      "start": {
+        "x": 175,
+        "y": 375,
+        "description": "F2",
+        "color": "#ead39b"
+      },
+      "end": {
+        "x": 475,
+        "y": 375,
+        "description": "F8",
+        "color": "#ead39b"
+      },
+      "color": "#3b82f6",
+      "width": 4,
+      "net": "GND"
+    },
+    {
+      "start": {
+        "x": 225,
+        "y": 175,
+        "description": "J3",
+        "color": "#ead39b"
+      },
+      "end": {
+        "x": 625,
+        "y": 225,
+        "description": "I11",
+        "color": "#ead39b"
+      },
+      "color": "#a855f7",
+      "width": 4,
+      "net": "Y_OUT"
+    },
+    {
+      "start": {
+        "x": 475,
+        "y": 275,
+        "description": "H8",
+        "color": "#ead39b"
+      },
+      "end": {
+        "x": 825,
+        "y": 275,
+        "description": "H15",
+        "color": "#ead39b"
+      },
+      "color": "#8cb0b7",
+      "width": 3,
+      "net": "GND"
+    },
+    {
+      "start": {
+        "x": 575,
+        "y": 275,
+        "description": "H10",
+        "color": "#ead39b"
+      },
+      "end": {
+        "x": 775,
+        "y": 375,
+        "description": "F14",
+        "color": "#ead39b"
+      },
+      "color": "#ef4444",
+      "width": 4,
+      "net": "+15V"
+    }
+  ],
+  "canvas": {
+    "width": 1150,
+    "height": 1100
+  },
+  "ICs": [],
+  "placedIcs": [
+    {
+      "id": 21,
+      "widthPin": 4,
+      "heightPin": 4,
+      "pinDescription": {
+        "1": "X_OUT",
+        "2": "X_SUM",
+        "3": "VREF",
+        "4": "-15V",
+        "5": "VREF",
+        "6": "Y_SUM",
+        "7": "Y_OUT",
+        "8": "+15V"
+      },
+      "name": "TL082 · X + Y",
+      "isCustom": true,
+      "rotationAngle": 270,
+      "viewedFromBack": false,
+      "backViewAxis": "vertical",
+      "topLeftDotX": 575,
+      "topLeftDotY": 375
+    }
+  ],
+  "placedStandardComponents": [
+    {
+      "id": 401,
+      "definitionId": "resistor",
+      "value": "R1 10k",
+      "mountingSide": "components",
+      "startDotX": 425,
+      "startDotY": 275,
+      "endDotX": 275,
+      "endDotY": 275
+    },
+    {
+      "id": 402,
+      "definitionId": "resistor",
+      "value": "R2 47k",
+      "mountingSide": "components",
+      "startDotX": 125,
+      "startDotY": 325,
+      "endDotX": 275,
+      "endDotY": 325
+    },
+    {
+      "id": 403,
+      "definitionId": "resistor",
+      "value": "R3 10k",
+      "mountingSide": "components",
+      "startDotX": 525,
+      "startDotY": 275,
+      "endDotX": 675,
+      "endDotY": 275
+    },
+    {
+      "id": 404,
+      "definitionId": "resistor",
+      "value": "R4 47k",
+      "mountingSide": "components",
+      "startDotX": 625,
+      "startDotY": 325,
+      "endDotX": 925,
+      "endDotY": 325
+    },
+    {
+      "id": 405,
+      "definitionId": "resistor",
+      "value": "R5 47k",
+      "mountingSide": "components",
+      "startDotX": 575,
+      "startDotY": 175,
+      "endDotX": 725,
+      "endDotY": 175
+    },
+    {
+      "id": 406,
+      "definitionId": "resistor",
+      "value": "R6 2.7k",
+      "mountingSide": "components",
+      "startDotX": 675,
+      "startDotY": 725,
+      "endDotX": 825,
+      "endDotY": 725
+    },
+    {
+      "id": 407,
+      "definitionId": "ceramic-capacitor",
+      "value": "C1 100nF",
+      "mountingSide": "wiring",
+      "startDotX": 575,
+      "startDotY": 325,
+      "endDotX": 475,
+      "endDotY": 325
+    },
+    {
+      "id": 408,
+      "definitionId": "ceramic-capacitor",
+      "value": "C2 100nF",
+      "mountingSide": "wiring",
+      "startDotX": 725,
+      "startDotY": 675,
+      "endDotX": 825,
+      "endDotY": 675
+    },
+    {
+      "id": 409,
+      "definitionId": "ceramic-capacitor",
+      "value": "C3 100nF",
+      "mountingSide": "components",
+      "startDotX": 675,
+      "startDotY": 625,
+      "endDotX": 825,
+      "endDotY": 625
+    }
+  ],
+  "placedAdvancedComponents": [
+    {
+      "id": 221,
+      "definitionId": "header-pins",
+      "value": "JB1 ВЫХОД X / 0 / Y",
+      "rotationAngle": 0,
+      "anchorDotX": 125,
+      "anchorDotY": 225,
+      "rows": 1,
+      "cols": 3
+    },
+    {
+      "id": 222,
+      "definitionId": "header-pins",
+      "value": "JB2 ВХОД X / 0 / Y",
+      "rotationAngle": 0,
+      "anchorDotX": 425,
+      "anchorDotY": 175,
+      "rows": 1,
+      "cols": 3
+    },
+    {
+      "id": 223,
+      "definitionId": "header-pins",
+      "value": "JB3 ПИТАНИЕ +15 / 0 / -15",
+      "rotationAngle": 0,
+      "anchorDotX": 775,
+      "anchorDotY": 175,
+      "rows": 1,
+      "cols": 3
+    }
+  ]
+}

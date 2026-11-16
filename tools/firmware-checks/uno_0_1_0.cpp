@@ -1,6 +1,6 @@
 // Tests of actual production logic; no Arduino/hardware mocks.
-#include "../../firmware/uno/0.1.0/LaserShow/PacketDecoder.h"
-#include "../../firmware/uno/0.1.0/LaserShow/MotionMath.h"
+#include "../../firmware/legacy/uno/0.1.0/LaserShow/PacketDecoder.h"
+#include "../../firmware/legacy/uno/0.1.0/LaserShow/MotionMath.h"
 #include <cassert>
 #include <iostream>
 #include <vector>
